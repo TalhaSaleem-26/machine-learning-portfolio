@@ -1,0 +1,15 @@
+
+.venv/
+venv/
+
+
+.env
+
+
+notes/
+
+
+~$*.docx
+
+
+.ipynb_checkpoints/
