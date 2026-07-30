@@ -1,15 +1,15 @@
-
+# Virtual environments
+env312/
 .venv/
 venv/
 
-
+# Environment Variables
 .env
 
 
-notes/
+practice/
 
-
-~$*.docx
-
-
+# System / Temporary files
+__pycache__/
 .ipynb_checkpoints/
+~$*.docx
