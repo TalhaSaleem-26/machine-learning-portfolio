@@ -6,10 +6,19 @@ venv/
 # Environment Variables
 .env
 
-
+# Practice folder
 practice/
 
-# System / Temporary files
+# Notes
+notes/
+
+# Python cache
 __pycache__/
+*.pyc
+
+# Jupyter
 .ipynb_checkpoints/
+
+# Temporary files
+*.tmp
 ~$*.docx
