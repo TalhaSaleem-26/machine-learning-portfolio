@@ -1,0 +1,13 @@
+Age,Experience,Salary,Gender,Education,Department,Work_Mode,City,Performance,Salary_Level
+25,2,35000,Male,Bachelor,IT,Remote,Lahore,Good,Low
+30,5,55000,Female,Master,HR,Office,Karachi,Excellent,Medium
+NaN,8,72000,Male,Bachelor,Finance,Hybrid,Islamabad,Good,High
+40,12,NaN,Female,PhD,IT,Remote,Lahore,Excellent,High
+35,NaN,62000,Male,Master,Marketing,Office,Karachi,Average,Medium
+28,3,42000,Female,Bachelor,Finance,Hybrid,Islamabad,Good,Low
+45,18,98000,Male,PhD,Management,Office,Lahore,Excellent,High
+NaN,6,58000,Female,Master,HR,Remote,Karachi,Good,Medium
+38,10,76000,Male,Bachelor,IT,Hybrid,Islamabad,Average,High
+29,4,NaN,Female,Bachelor,Marketing,Office,Lahore,Good,Low
+33,7,65000,Male,Master,Finance,Remote,Karachi,Excellent,Medium
+27,2,39000,Female,Bachelor,HR,Hybrid,Islamabad,Good,Low
