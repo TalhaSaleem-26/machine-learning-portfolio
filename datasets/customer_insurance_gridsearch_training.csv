@@ -1,0 +1,1201 @@
+Customer_ID,Age,Gender,Education,Employment_Type,City,Experience_Years,Annual_Income,Medical_Expense,BMI,Credit_Score,Dependents,Smoking_Status,Health_Status,Insurance
+CUST_0001,59.0,Female,Master,Unemployed,Peshawar,36,92808.0,4674.0,39.1,662.0,3,Never,Good,No
+CUST_0002,49.0,Male,Bachelor,Self-Employed,Peshawar,21,57199.0,3831.0,31.0,690.0,3,Never,Good,No
+CUST_0003,35.0,Male,Bachelor,Self-Employed,Rawalpindi,7,82634.0,1282.0,32.3,680.0,3,Current,Average,Yes
+CUST_0004,63.0,Male,Bachelor,Private,Islamabad,46,56009.0,8149.0,30.9,764.0,2,Never,Excellent,Yes
+CUST_0005,28.0,Male,Bachelor,Private,Lahore,0,48446.0,5599.0,30.1,834.0,0,Former,Good,Yes
+CUST_0006,41.0,Female,High School,Self-Employed,Karachi,14,,9667.0,28.9,595.0,0,Never,Good,Yes
+CUST_0007,59.0,Male,High School,Private,Lahore,39,71812.0,1334.0,25.1,,3,Never,Excellent,No
+CUST_0008,39.0,Female,Master,Self-Employed,Islamabad,13,46944.0,6188.0,21.0,704.0,1,Current,Average,Yes
+CUST_0009,43.0,,Bachelor,Self-Employed,Islamabad,18,34130.0,,26.4,619.0,3,Never,Good,Yes
+CUST_0010,31.0,Male,PhD,Private,Peshawar,4,62190.0,4712.0,,750.0,2,Never,Excellent,Yes
+CUST_0011,31.0,Male,Master,Self-Employed,Lahore,5,53803.0,3578.0,27.3,762.0,4,Never,Good,No
+CUST_0012,44.0,Female,High School,,Islamabad,19,37980.0,6360.0,21.9,639.0,2,Never,Good,No
+CUST_0013,56.0,Male,Bachelor,Private,Lahore,34,32425.0,3744.0,26.2,623.0,1,Former,,Yes
+CUST_0014,60.0,Male,Bachelor,Government,Islamabad,40,64587.0,1922.0,26.0,659.0,3,Current,Good,Yes
+CUST_0015,44.0,Male,High School,Private,Karachi,23,69742.0,4513.0,26.7,688.0,0,Former,Good,No
+CUST_0016,23.0,Female,PhD,Government,Islamabad,2,42276.0,3602.0,29.4,704.0,3,Former,Average,No
+CUST_0017,42.0,Female,Master,Government,Lahore,15,,3974.0,30.4,,1,Never,Excellent,Yes
+CUST_0018,22.0,Male,Bachelor,Private,Peshawar,0,32642.0,387.0,24.6,607.0,0,Never,Average,Yes
+CUST_0019,44.0,Male,Bachelor,Self-Employed,Lahore,20,63592.0,7058.0,31.7,650.0,2,Former,Average,No
+CUST_0020,64.0,Male,High School,Government,Rawalpindi,36,33117.0,3341.0,32.4,620.0,4,Never,Good,Yes
+CUST_0021,50.0,Female,Bachelor,Private,Lahore,21,,1539.0,28.5,465.0,4,Never,Good,No
+CUST_0022,58.0,Male,Bachelor,Private,Karachi,33,41124.0,8450.0,30.2,538.0,3,Current,Poor,Yes
+CUST_0023,22.0,Female,Bachelor,Self-Employed,Karachi,0,13577.0,6818.0,31.7,582.0,2,Never,Average,Yes
+CUST_0024,41.0,Male,PhD,Self-Employed,Karachi,20,50686.0,,21.7,671.0,1,Never,Poor,No
+CUST_0025,53.0,Female,High School,Private,Islamabad,29,49505.0,1783.0,32.1,647.0,4,Never,Average,Yes
+CUST_0026,32.0,Male,Bachelor,,Karachi,7,94982.0,4834.0,23.2,633.0,2,Former,Poor,Yes
+CUST_0027,42.0,Female,,,Lahore,14,60383.0,4639.0,23.7,740.0,3,Never,Average,Yes
+CUST_0028,64.0,Male,Bachelor,Government,Peshawar,42,32578.0,8461.0,27.9,,0,Never,Average,Yes
+CUST_0029,45.0,Female,High School,Private,Karachi,22,44024.0,3033.0,17.0,691.0,3,Current,Good,No
+CUST_0030,47.0,Male,Bachelor,Government,Lahore,19,,10365.0,27.8,689.0,3,Former,Excellent,No
+CUST_0031,62.0,Male,Bachelor,Private,Islamabad,39,15668.0,2821.0,31.7,616.0,2,Current,Good,No
+CUST_0032,48.0,Male,PhD,Self-Employed,Islamabad,29,107607.0,1542.0,19.1,625.0,4,Never,Good,No
+CUST_0033,36.0,Female,PhD,Private,Peshawar,12,32626.0,1809.0,32.2,552.0,2,Never,Average,Yes
+CUST_0034,35.0,Female,PhD,Private,Peshawar,12,112350.0,4037.0,23.6,,0,Never,Good,No
+CUST_0035,64.0,Male,Master,Private,Lahore,42,63950.0,4027.0,28.0,739.0,2,Never,Good,Yes
+CUST_0036,23.0,Female,Bachelor,Unemployed,Peshawar,4,72859.0,5409.0,24.3,782.0,1,Never,Good,Yes
+CUST_0037,57.0,Female,PhD,Self-Employed,Peshawar,32,,3953.0,29.8,662.0,3,Never,Average,Yes
+CUST_0038,27.0,Female,PhD,Self-Employed,Islamabad,8,70631.0,8804.0,31.9,717.0,4,Never,Average,No
+CUST_0039,41.0,Female,Bachelor,Self-Employed,Lahore,20,74614.0,3478.0,30.1,466.0,0,Former,Good,Yes
+CUST_0040,29.0,Female,Bachelor,Private,Peshawar,8,47078.0,947.0,27.0,648.0,3,Former,Average,Yes
+CUST_0041,59.0,Male,Bachelor,Unemployed,Lahore,38,63240.0,3863.0,24.7,646.0,2,Never,Excellent,No
+CUST_0042,38.0,Female,High School,Private,Karachi,13,37305.0,939.0,26.7,792.0,1,Never,Average,Yes
+CUST_0043,24.0,Female,High School,Self-Employed,Islamabad,0,42665.0,5185.0,30.1,,2,,Poor,Yes
+CUST_0044,45.0,Female,PhD,Private,Islamabad,22,151840.0,9348.0,30.3,717.0,3,Never,Good,Yes
+CUST_0045,34.0,,PhD,Private,Islamabad,11,33041.0,2019.0,29.6,713.0,0,Never,Excellent,Yes
+CUST_0046,29.0,Male,High School,Government,Rawalpindi,5,56099.0,12258.0,20.8,683.0,4,Never,Average,No
+CUST_0047,46.0,Male,Bachelor,Self-Employed,Lahore,22,54853.0,7960.0,26.9,795.0,3,Current,Good,Yes
+CUST_0048,22.0,Female,Master,Self-Employed,Karachi,2,43438.0,10455.0,24.0,,0,Current,Average,No
+CUST_0049,40.0,Female,Master,Government,Peshawar,18,68386.0,4876.0,30.2,691.0,3,Former,Good,Yes
+CUST_0050,48.0,Male,Bachelor,Private,Karachi,27,71278.0,2009.0,23.3,,1,Current,,Yes
+CUST_0051,27.0,Female,Master,Unemployed,Lahore,5,30971.0,,29.2,538.0,2,Former,Excellent,Yes
+CUST_0052,64.0,Female,Master,Private,Islamabad,39,,2648.0,25.6,743.0,4,Current,Average,Yes
+CUST_0053,28.0,Female,PhD,Self-Employed,Rawalpindi,8,28416.0,4621.0,18.0,623.0,0,Never,Average,Yes
+CUST_0054,55.0,Male,Bachelor,Government,Lahore,31,79515.0,3720.0,31.5,688.0,4,Never,Good,Yes
+CUST_0055,34.0,Female,High School,Private,Lahore,15,56787.0,9833.0,26.9,621.0,4,Former,Poor,Yes
+CUST_0056,37.0,Male,PhD,Private,Peshawar,17,53921.0,7315.0,33.1,752.0,4,Never,Good,Yes
+CUST_0057,56.0,Female,High School,Private,Karachi,27,74048.0,3982.0,19.0,658.0,0,Former,Good,Yes
+CUST_0058,60.0,Male,Master,Private,Karachi,33,44288.0,,,743.0,0,Current,Average,Yes
+CUST_0059,24.0,Male,High School,Private,Peshawar,0,85196.0,2627.0,26.0,713.0,4,Former,Good,No
+CUST_0060,22.0,Female,Bachelor,Private,Rawalpindi,3,30588.0,7174.0,28.3,620.0,2,Never,Average,Yes
+CUST_0061,26.0,Male,Bachelor,Private,Islamabad,0,112031.0,,20.6,,3,Never,Excellent,No
+CUST_0062,62.0,Male,High School,Government,Islamabad,37,38063.0,,29.6,630.0,4,Current,Good,Yes
+CUST_0063,24.0,Female,PhD,Self-Employed,Rawalpindi,0,20274.0,,36.2,685.0,1,Current,Good,Yes
+CUST_0064,49.0,Female,High School,Private,Peshawar,28,43015.0,4898.0,29.3,657.0,4,Never,Poor,No
+CUST_0065,38.0,Male,Master,Private,Lahore,19,40413.0,1914.0,27.4,747.0,0,Current,Excellent,Yes
+CUST_0066,46.0,Male,Master,Private,Karachi,26,42837.0,2058.0,20.4,721.0,3,Current,Good,No
+CUST_0067,64.0,Male,Bachelor,Government,Lahore,45,58537.0,7006.0,23.3,678.0,1,Never,Average,No
+CUST_0068,54.0,Male,Master,Self-Employed,Karachi,26,94260.0,10422.0,26.7,,3,Current,Average,Yes
+CUST_0069,30.0,Male,Bachelor,Government,Lahore,2,46377.0,2409.0,24.5,585.0,3,Never,Average,No
+CUST_0070,56.0,Female,Master,Self-Employed,Peshawar,35,35228.0,4091.0,31.9,690.0,1,Former,Excellent,Yes
+CUST_0071,34.0,Male,Bachelor,Government,Peshawar,7,27734.0,4001.0,29.6,633.0,4,Never,Excellent,Yes
+CUST_0072,51.0,Male,Bachelor,Government,Rawalpindi,27,39835.0,3740.0,39.9,539.0,4,Former,Excellent,Yes
+CUST_0073,35.0,Male,Bachelor,Private,Lahore,10,18246.0,4361.0,22.3,580.0,4,Former,Good,No
+CUST_0074,28.0,Male,Master,Self-Employed,Lahore,3,34585.0,7460.0,27.2,802.0,2,Never,Good,Yes
+CUST_0075,34.0,Female,PhD,Unemployed,Rawalpindi,11,102153.0,2552.0,20.4,631.0,4,Current,Average,No
+CUST_0076,,Female,High School,,Rawalpindi,22,32766.0,1348.0,17.0,761.0,1,Current,Average,No
+CUST_0077,60.0,Male,Bachelor,Self-Employed,Peshawar,29,,15026.0,30.5,653.0,2,Former,Average,Yes
+CUST_0078,41.0,Male,Bachelor,Private,Peshawar,12,26250.0,9576.0,29.4,773.0,4,Never,Good,No
+CUST_0079,36.0,Male,Master,Unemployed,Lahore,18,136503.0,1849.0,22.9,768.0,2,Never,Excellent,No
+CUST_0080,65.0,Female,High School,Private,Peshawar,39,141589.0,4683.0,27.4,618.0,1,Never,Excellent,No
+CUST_0081,38.0,Female,Master,Private,Peshawar,16,71329.0,9027.0,24.0,531.0,4,Current,Average,Yes
+CUST_0082,,Male,High School,Private,Lahore,22,154074.0,7419.0,24.6,537.0,0,Never,Good,Yes
+CUST_0083,46.0,Male,Bachelor,Unemployed,Rawalpindi,26,62673.0,5982.0,25.5,619.0,1,Current,Good,Yes
+CUST_0084,45.0,Female,Master,Self-Employed,Lahore,19,78644.0,3723.0,22.7,822.0,3,Current,Good,Yes
+CUST_0085,65.0,Female,Master,Unemployed,Islamabad,38,103163.0,15452.0,23.6,649.0,3,Former,Good,Yes
+CUST_0086,61.0,Female,Master,Self-Employed,Lahore,37,56888.0,4992.0,23.7,691.0,1,Former,Average,No
+CUST_0087,49.0,Male,Bachelor,Private,Islamabad,20,21943.0,2875.0,29.0,778.0,3,Former,Excellent,No
+CUST_0088,35.0,Male,Master,Unemployed,Lahore,8,79533.0,8130.0,17.0,688.0,1,Former,,No
+CUST_0089,65.0,Male,Bachelor,Unemployed,Islamabad,45,39754.0,4546.0,25.9,686.0,0,Never,Good,Yes
+CUST_0090,21.0,Female,PhD,Government,Islamabad,3,41413.0,5499.0,21.8,727.0,1,Current,Average,Yes
+CUST_0091,45.0,Female,Bachelor,Private,Lahore,21,60709.0,4926.0,22.0,702.0,4,Former,Average,No
+CUST_0092,27.0,Male,Bachelor,Government,Peshawar,0,70365.0,6140.0,24.5,673.0,4,Former,Average,No
+CUST_0093,29.0,Male,Bachelor,Unemployed,Karachi,5,55970.0,2031.0,26.9,626.0,2,Former,Good,No
+CUST_0094,44.0,Male,Bachelor,Self-Employed,Peshawar,15,73105.0,1425.0,26.0,686.0,3,Never,Excellent,No
+CUST_0095,21.0,,High School,Self-Employed,Islamabad,0,34934.0,12402.0,21.9,762.0,3,Never,Average,No
+CUST_0096,64.0,Male,Master,,Lahore,39,,5101.0,30.5,814.0,1,Current,,No
+CUST_0097,28.0,Female,Master,Self-Employed,Lahore,0,82207.0,7541.0,22.7,702.0,3,Never,Good,No
+CUST_0098,44.0,Male,PhD,Self-Employed,Lahore,17,136630.0,1130.0,23.5,737.0,4,Former,Average,Yes
+CUST_0099,31.0,Male,High School,Self-Employed,Lahore,6,165966.0,9415.0,28.4,700.0,0,Never,Good,No
+CUST_0100,,Female,Bachelor,Private,Karachi,11,,2861.0,28.5,673.0,1,Never,Good,Yes
+CUST_0101,28.0,Male,Master,Government,Rawalpindi,6,81798.0,2311.0,24.1,719.0,3,Never,Average,No
+CUST_0102,55.0,Male,Bachelor,Government,Islamabad,28,153257.0,4034.0,17.0,769.0,4,Current,Average,Yes
+CUST_0103,,Male,Bachelor,Self-Employed,Karachi,34,35633.0,2031.0,22.7,614.0,2,Former,Good,No
+CUST_0104,53.0,Female,,Government,Peshawar,24,72863.0,4225.0,,,3,Never,Average,No
+CUST_0105,25.0,Female,,Private,Rawalpindi,0,78636.0,3819.0,30.3,640.0,0,Current,Excellent,Yes
+CUST_0106,62.0,Male,High School,Private,Rawalpindi,38,114271.0,9370.0,26.6,696.0,0,Never,Good,Yes
+CUST_0107,59.0,Male,Master,Government,Lahore,28,27572.0,13161.0,24.7,745.0,3,Never,Average,Yes
+CUST_0108,61.0,Male,High School,Government,Karachi,42,30740.0,12850.0,38.0,606.0,3,Former,Average,No
+CUST_0109,48.0,Female,Master,Private,Peshawar,20,52144.0,774.0,25.2,493.0,4,Former,Excellent,Yes
+CUST_0110,,Female,High School,Private,Lahore,6,63434.0,,,642.0,3,Never,Good,Yes
+CUST_0111,29.0,Female,Master,Private,Lahore,0,95566.0,768.0,20.6,665.0,2,Current,Good,No
+CUST_0112,28.0,Male,High School,Private,Islamabad,6,68504.0,1728.0,21.8,593.0,4,Current,Poor,No
+CUST_0113,32.0,Female,Master,Private,Rawalpindi,6,47416.0,2599.0,30.1,623.0,1,,Excellent,No
+CUST_0114,54.0,Female,High School,Private,Peshawar,37,64800.0,5756.0,32.0,745.0,2,Never,Average,No
+CUST_0115,53.0,Female,Master,Private,Rawalpindi,32,60814.0,2864.0,25.1,686.0,4,Current,Good,No
+CUST_0116,43.0,Female,Bachelor,Private,Karachi,17,134559.0,2925.0,18.1,706.0,4,Never,Excellent,Yes
+CUST_0117,44.0,Male,High School,Private,Islamabad,24,56450.0,4848.0,26.2,653.0,0,Never,Average,Yes
+CUST_0118,57.0,Male,Master,Self-Employed,Lahore,38,41744.0,,27.9,623.0,4,Former,Good,Yes
+CUST_0119,55.0,Male,Bachelor,Private,Islamabad,24,65992.0,2255.0,27.5,653.0,2,Never,Poor,Yes
+CUST_0120,64.0,Male,High School,Private,Lahore,39,57479.0,,24.3,717.0,3,Never,Good,Yes
+CUST_0121,60.0,Female,High School,Private,Islamabad,35,21719.0,3634.0,26.3,,2,Never,Average,Yes
+CUST_0122,42.0,Female,Bachelor,Private,Lahore,17,51092.0,4482.0,23.4,804.0,1,Former,Excellent,No
+CUST_0123,47.0,Female,,Private,Rawalpindi,28,48757.0,13036.0,21.7,723.0,4,Never,Average,No
+CUST_0124,55.0,Male,High School,Private,Rawalpindi,29,38211.0,8360.0,30.6,640.0,4,Never,Good,Yes
+CUST_0125,21.0,Male,Bachelor,Government,Rawalpindi,0,91087.0,2376.0,27.5,741.0,4,Never,Excellent,Yes
+CUST_0126,55.0,Female,Master,Government,Rawalpindi,36,33452.0,,26.3,772.0,4,Former,Excellent,No
+CUST_0127,57.0,Male,Bachelor,Government,Islamabad,32,66210.0,3304.0,24.6,655.0,0,Current,Good,Yes
+CUST_0128,34.0,Male,High School,Self-Employed,Lahore,15,47509.0,2877.0,26.1,664.0,0,Current,Good,Yes
+CUST_0129,23.0,Female,PhD,Private,Rawalpindi,0,54679.0,5189.0,27.8,792.0,3,Never,Poor,No
+CUST_0130,21.0,Female,Master,,Islamabad,0,64633.0,1049.0,35.3,839.0,4,Former,Poor,No
+CUST_0131,25.0,Male,Bachelor,Private,Lahore,2,25105.0,,30.1,682.0,1,Former,Good,Yes
+CUST_0132,46.0,Female,High School,Government,Islamabad,22,57263.0,15066.0,23.8,593.0,3,Current,Poor,No
+CUST_0133,34.0,Female,PhD,Private,Rawalpindi,11,181484.0,3455.0,23.9,645.0,4,Never,Average,Yes
+CUST_0134,59.0,Female,Bachelor,Self-Employed,Karachi,31,21890.0,3405.0,23.1,757.0,0,Never,Poor,No
+CUST_0135,47.0,Female,Bachelor,Government,Islamabad,30,49927.0,4759.0,26.0,603.0,1,Former,Good,Yes
+CUST_0136,29.0,Male,Bachelor,Private,Rawalpindi,0,95586.0,9086.0,23.1,,3,Never,Average,No
+CUST_0137,35.0,,Master,Government,Peshawar,11,60833.0,3317.0,29.3,702.0,1,Never,,No
+CUST_0138,35.0,Male,High School,Private,Lahore,14,75236.0,8522.0,,611.0,4,Former,Average,Yes
+CUST_0139,46.0,Male,Master,Self-Employed,Rawalpindi,27,13952.0,6102.0,29.6,762.0,2,Current,Good,Yes
+CUST_0140,62.0,Female,,Government,Peshawar,42,,24865.0,28.3,732.0,1,Never,Good,Yes
+CUST_0141,33.0,Female,Bachelor,Private,Islamabad,13,33897.0,3306.0,,831.0,1,Former,Good,No
+CUST_0142,52.0,Female,Master,,Islamabad,34,61110.0,961.0,31.2,739.0,0,Never,Good,No
+CUST_0143,59.0,Female,High School,Private,Peshawar,37,,1444.0,23.7,,4,Current,Average,Yes
+CUST_0144,52.0,Female,Bachelor,Self-Employed,Peshawar,27,180427.0,4268.0,30.7,720.0,1,Former,Poor,No
+CUST_0145,24.0,Female,Bachelor,Private,Lahore,0,69611.0,9145.0,26.2,754.0,4,Never,Poor,Yes
+CUST_0146,50.0,Male,Bachelor,Government,Islamabad,30,48439.0,2593.0,17.7,758.0,0,Never,Good,No
+CUST_0147,57.0,Male,Bachelor,Unemployed,Peshawar,34,,3557.0,27.8,622.0,4,Never,Good,Yes
+CUST_0148,43.0,Male,Bachelor,Private,Karachi,13,55085.0,7070.0,24.0,613.0,0,Never,Average,Yes
+CUST_0149,59.0,Male,High School,Unemployed,Karachi,33,81046.0,2051.0,27.0,595.0,0,Never,Good,No
+CUST_0150,,Male,Bachelor,Government,Peshawar,39,49301.0,2675.0,,,3,Former,Good,No
+CUST_0151,35.0,Female,Bachelor,Private,Lahore,13,39022.0,1762.0,28.1,727.0,4,Never,Excellent,No
+CUST_0152,63.0,Female,Master,Private,Islamabad,44,37612.0,10236.0,22.1,618.0,2,Former,Good,No
+CUST_0153,49.0,Female,High School,Self-Employed,Karachi,23,69170.0,13444.0,31.6,690.0,3,Never,Good,No
+CUST_0154,56.0,Female,Master,Private,Peshawar,32,,1294.0,28.7,671.0,0,Former,Good,Yes
+CUST_0155,33.0,Female,Bachelor,Private,Peshawar,4,,3802.0,21.6,607.0,2,Never,Excellent,No
+CUST_0156,52.0,Male,High School,Private,Rawalpindi,26,29814.0,12154.0,19.3,,1,Never,Excellent,Yes
+CUST_0157,27.0,Male,Bachelor,Self-Employed,Peshawar,0,68823.0,5705.0,22.3,694.0,1,Never,Good,Yes
+CUST_0158,42.0,Male,Bachelor,Government,Lahore,21,,2931.0,31.0,825.0,3,Never,Good,Yes
+CUST_0159,48.0,Female,Bachelor,Government,Karachi,27,48985.0,1327.0,25.6,631.0,2,Current,Good,Yes
+CUST_0160,22.0,Male,Bachelor,Private,Rawalpindi,4,64280.0,10044.0,27.4,552.0,4,Former,Average,No
+CUST_0161,62.0,Female,PhD,Self-Employed,Karachi,37,64486.0,5544.0,20.6,601.0,2,Never,Good,No
+CUST_0162,65.0,Female,PhD,Unemployed,Karachi,46,68928.0,,31.1,613.0,3,Never,Average,Yes
+CUST_0163,26.0,Male,Bachelor,Private,Lahore,0,28807.0,10326.0,,648.0,4,Never,Excellent,Yes
+CUST_0164,48.0,,Master,Private,Peshawar,27,34119.0,1274.0,23.9,602.0,4,Never,Good,Yes
+CUST_0165,48.0,Male,High School,Self-Employed,Lahore,27,116684.0,3585.0,29.0,,1,Former,Good,No
+CUST_0166,64.0,,Bachelor,Self-Employed,Peshawar,41,45647.0,3469.0,21.6,596.0,2,Never,Good,Yes
+CUST_0167,64.0,Female,Master,,Rawalpindi,44,,14240.0,29.9,682.0,4,Never,,No
+CUST_0168,40.0,Female,Bachelor,Unemployed,Lahore,18,92048.0,3478.0,22.8,830.0,3,Never,,No
+CUST_0169,50.0,Female,High School,Government,Lahore,24,66496.0,3469.0,21.1,722.0,1,Never,Good,Yes
+CUST_0170,31.0,Female,High School,Private,Islamabad,3,69605.0,1522.0,33.2,714.0,4,Never,Good,No
+CUST_0171,48.0,Female,Bachelor,Self-Employed,Lahore,25,84290.0,2617.0,27.7,819.0,2,Never,Average,Yes
+CUST_0172,45.0,Female,Bachelor,Government,Islamabad,27,16088.0,2292.0,29.5,773.0,1,Never,Excellent,No
+CUST_0173,59.0,Male,Bachelor,Unemployed,Peshawar,33,39361.0,2383.0,31.9,722.0,2,Never,Average,Yes
+CUST_0174,53.0,Female,Bachelor,Private,Peshawar,34,66685.0,,17.0,657.0,2,,Good,Yes
+CUST_0175,21.0,Male,Bachelor,,Peshawar,0,,682.0,30.0,678.0,2,Former,Average,No
+CUST_0176,47.0,Male,Master,Self-Employed,Islamabad,26,53442.0,,23.3,675.0,1,Never,Excellent,No
+CUST_0177,33.0,Male,High School,Private,Peshawar,15,32384.0,3892.0,24.0,650.0,4,Never,Average,No
+CUST_0178,61.0,Female,,Private,Karachi,36,32861.0,4633.0,29.1,696.0,0,Never,Good,Yes
+CUST_0179,23.0,Male,Master,Self-Employed,Lahore,0,83795.0,3551.0,25.3,706.0,4,,Average,No
+CUST_0180,59.0,Male,Master,Private,Islamabad,36,45717.0,4103.0,29.9,587.0,1,Never,Average,Yes
+CUST_0181,26.0,Female,Master,Government,Peshawar,2,51330.0,3112.0,26.8,802.0,0,Current,,Yes
+CUST_0182,28.0,Female,Bachelor,Self-Employed,Karachi,4,72277.0,4172.0,27.8,711.0,0,Current,Average,Yes
+CUST_0183,47.0,Female,Bachelor,Private,Lahore,17,10448.0,5858.0,24.6,,0,Never,Good,No
+CUST_0184,29.0,Female,Bachelor,Unemployed,Lahore,6,154848.0,5828.0,21.9,697.0,3,Current,Average,No
+CUST_0185,57.0,Female,PhD,Self-Employed,Peshawar,28,34472.0,2523.0,23.4,750.0,1,Never,Average,Yes
+CUST_0186,53.0,Female,Bachelor,Government,Karachi,25,58869.0,8403.0,26.5,570.0,3,Never,Good,Yes
+CUST_0187,62.0,Male,High School,Private,Islamabad,32,20179.0,,35.8,672.0,0,Current,Good,Yes
+CUST_0188,64.0,Female,,,Peshawar,35,40848.0,10659.0,34.1,591.0,3,Current,Good,Yes
+CUST_0189,44.0,Female,PhD,Private,Lahore,16,102189.0,12390.0,23.9,850.0,3,Current,Good,Yes
+CUST_0190,35.0,Male,High School,Private,Lahore,9,17964.0,1434.0,,690.0,1,Never,Average,No
+CUST_0191,52.0,Male,High School,Private,Lahore,32,95742.0,2221.0,25.6,592.0,2,Never,Average,Yes
+CUST_0192,52.0,Male,Bachelor,Private,Peshawar,24,44332.0,7787.0,27.6,850.0,3,Never,,No
+CUST_0193,44.0,Female,,Private,Rawalpindi,16,67369.0,1214.0,28.2,640.0,3,Former,Good,Yes
+CUST_0194,61.0,Male,Bachelor,Unemployed,Rawalpindi,40,73987.0,12273.0,,664.0,0,Never,Good,Yes
+CUST_0195,32.0,Female,,,Rawalpindi,9,65695.0,3269.0,17.0,670.0,0,Current,,Yes
+CUST_0196,59.0,Female,Master,Private,Karachi,28,32025.0,6511.0,28.8,616.0,0,Never,Average,No
+CUST_0197,22.0,Female,High School,Private,Peshawar,0,42171.0,3877.0,25.1,699.0,4,Never,Poor,Yes
+CUST_0198,,Female,Master,Government,Lahore,2,23067.0,1489.0,,514.0,3,Former,Excellent,No
+CUST_0199,57.0,Male,Bachelor,Private,Karachi,32,67541.0,,30.8,761.0,0,Former,Good,Yes
+CUST_0200,37.0,Male,Bachelor,Self-Employed,Rawalpindi,10,131417.0,33291.0,34.0,595.0,1,Never,Average,Yes
+CUST_0201,22.0,Male,Master,Self-Employed,Islamabad,0,18893.0,2875.0,30.3,649.0,4,Current,Good,Yes
+CUST_0202,22.0,Female,PhD,Self-Employed,Karachi,0,,3322.0,24.5,736.0,2,Never,Average,No
+CUST_0203,48.0,Male,Bachelor,Private,Karachi,30,46631.0,580.0,21.8,665.0,3,Never,Good,No
+CUST_0204,43.0,Male,High School,Private,Peshawar,18,56689.0,11657.0,17.0,668.0,3,Current,Good,Yes
+CUST_0205,57.0,Male,Master,Private,Karachi,36,,8382.0,27.9,604.0,1,Current,Average,Yes
+CUST_0206,52.0,Female,Bachelor,Private,Peshawar,27,47396.0,1153.0,29.8,837.0,2,Current,Excellent,No
+CUST_0207,53.0,Male,PhD,Private,Islamabad,26,43314.0,899.0,26.5,720.0,2,Current,Good,No
+CUST_0208,21.0,Female,PhD,Unemployed,Lahore,1,94535.0,981.0,31.5,599.0,4,Former,Average,Yes
+CUST_0209,39.0,Male,High School,Self-Employed,Lahore,16,74169.0,6863.0,20.7,693.0,3,Current,Good,No
+CUST_0210,22.0,Female,PhD,Unemployed,Rawalpindi,0,69316.0,,26.2,593.0,0,Never,Good,Yes
+CUST_0211,64.0,Male,Bachelor,Self-Employed,Rawalpindi,40,54824.0,2116.0,25.8,809.0,1,Former,Excellent,No
+CUST_0212,46.0,Female,Master,Private,Islamabad,25,88498.0,6151.0,26.5,695.0,1,Former,Average,Yes
+CUST_0213,52.0,Female,High School,Government,Lahore,24,35919.0,4766.0,32.6,607.0,1,Never,Average,Yes
+CUST_0214,26.0,Male,Master,Private,Rawalpindi,4,33324.0,3212.0,26.5,732.0,1,Never,Good,No
+CUST_0215,,Female,Master,Private,Karachi,33,77680.0,8757.0,25.6,659.0,0,Never,Good,Yes
+CUST_0216,24.0,Female,Master,Government,Peshawar,2,21083.0,1714.0,22.5,583.0,0,Former,Average,Yes
+CUST_0217,31.0,Female,PhD,Self-Employed,Rawalpindi,5,54214.0,10003.0,33.4,709.0,4,Never,,Yes
+CUST_0218,37.0,Female,Bachelor,Government,Islamabad,13,43299.0,2449.0,20.1,706.0,3,Current,Average,Yes
+CUST_0219,58.0,Male,Bachelor,Private,Lahore,32,23786.0,16093.0,24.3,765.0,0,Never,Average,No
+CUST_0220,44.0,Female,Master,Private,Islamabad,21,30878.0,1990.0,35.1,685.0,4,Never,Excellent,Yes
+CUST_0221,25.0,Female,Master,Private,Peshawar,1,48536.0,3250.0,29.2,688.0,2,Current,Poor,Yes
+CUST_0222,54.0,Female,PhD,Private,Peshawar,31,91006.0,,26.9,692.0,3,Never,Average,No
+CUST_0223,26.0,Female,PhD,Private,Islamabad,0,35986.0,4399.0,27.1,800.0,0,Never,Good,Yes
+CUST_0224,42.0,Male,Bachelor,Self-Employed,Rawalpindi,22,100444.0,6113.0,22.5,657.0,2,Never,Average,No
+CUST_0225,31.0,Female,Bachelor,Self-Employed,Rawalpindi,10,53356.0,1613.0,26.7,715.0,4,Former,Excellent,No
+CUST_0226,36.0,Female,Bachelor,Private,Lahore,11,,4113.0,25.3,726.0,0,Current,Good,No
+CUST_0227,53.0,Male,Master,Self-Employed,Lahore,27,36958.0,4692.0,27.9,706.0,0,Current,Good,No
+CUST_0228,29.0,Female,Bachelor,Private,Karachi,8,50169.0,2847.0,19.8,654.0,2,Former,Average,No
+CUST_0229,26.0,Female,Master,Unemployed,Karachi,5,63112.0,5728.0,28.9,689.0,0,Never,Average,Yes
+CUST_0230,36.0,Male,High School,Private,Lahore,7,46689.0,1541.0,31.9,,1,Never,Good,Yes
+CUST_0231,49.0,Male,High School,Self-Employed,Karachi,31,87044.0,3312.0,26.0,827.0,0,Never,Good,Yes
+CUST_0232,23.0,Female,Bachelor,Unemployed,Islamabad,0,15304.0,2405.0,30.1,646.0,3,Never,Good,Yes
+CUST_0233,40.0,Male,High School,Self-Employed,Rawalpindi,18,195306.0,3319.0,28.5,612.0,2,Never,Average,No
+CUST_0234,,Male,Bachelor,Private,Karachi,29,82601.0,12522.0,24.1,680.0,3,Never,Good,No
+CUST_0235,39.0,,High School,Government,Karachi,20,,12706.0,21.9,674.0,4,,Average,Yes
+CUST_0236,46.0,Male,High School,Private,Islamabad,22,38034.0,10969.0,22.6,695.0,3,Never,Good,No
+CUST_0237,23.0,Female,High School,Private,Peshawar,3,31999.0,2991.0,28.4,646.0,1,Former,,Yes
+CUST_0238,39.0,Male,Master,Private,Lahore,15,73504.0,8356.0,26.7,688.0,1,Current,Average,Yes
+CUST_0239,40.0,Female,Master,Unemployed,Islamabad,16,89076.0,4602.0,33.1,690.0,3,Former,Good,No
+CUST_0240,52.0,Female,High School,Unemployed,Peshawar,28,47127.0,4377.0,30.8,748.0,4,Former,Poor,Yes
+CUST_0241,27.0,Female,Master,Private,Islamabad,9,94736.0,3992.0,30.8,,0,Former,Good,No
+CUST_0242,61.0,Male,Bachelor,Government,Rawalpindi,38,31289.0,15817.0,28.3,688.0,1,Never,Good,Yes
+CUST_0243,53.0,Female,Bachelor,Unemployed,Islamabad,28,28393.0,11783.0,22.4,719.0,3,Never,Poor,No
+CUST_0244,60.0,Male,Bachelor,Government,Islamabad,32,139712.0,7396.0,28.6,745.0,3,Never,,Yes
+CUST_0245,59.0,Male,High School,Private,Rawalpindi,32,71333.0,3723.0,27.3,606.0,3,Never,Good,No
+CUST_0246,38.0,Female,Master,Government,Lahore,12,111109.0,4358.0,21.5,586.0,0,Former,Excellent,Yes
+CUST_0247,60.0,Female,High School,Self-Employed,Peshawar,31,32220.0,6298.0,,807.0,2,Current,Average,Yes
+CUST_0248,21.0,Female,PhD,Private,Karachi,0,31010.0,2861.0,32.3,733.0,4,Current,Excellent,No
+CUST_0249,31.0,Female,High School,Self-Employed,Lahore,6,42309.0,8550.0,21.5,664.0,2,Never,Average,Yes
+CUST_0250,48.0,Female,Bachelor,Private,Islamabad,22,32754.0,2120.0,23.9,681.0,4,Current,Good,No
+CUST_0251,45.0,Female,PhD,Private,Karachi,26,75959.0,5675.0,24.4,651.0,4,Never,Excellent,Yes
+CUST_0252,43.0,Female,High School,Private,Rawalpindi,26,34094.0,760.0,29.9,696.0,3,Current,Average,Yes
+CUST_0253,51.0,Male,Bachelor,Private,Lahore,27,27054.0,2799.0,29.4,607.0,1,Never,Poor,Yes
+CUST_0254,50.0,Male,Bachelor,Government,Peshawar,26,55721.0,20096.0,27.2,743.0,3,,Good,Yes
+CUST_0255,62.0,Female,Bachelor,Private,Lahore,44,25349.0,9202.0,28.3,693.0,0,Never,Good,No
+CUST_0256,55.0,Female,Bachelor,Self-Employed,Lahore,33,19155.0,13381.0,20.8,696.0,4,Current,Good,No
+CUST_0257,27.0,Male,High School,Private,Karachi,7,55453.0,2565.0,28.8,613.0,1,Never,Poor,Yes
+CUST_0258,36.0,Male,Bachelor,Self-Employed,Rawalpindi,13,19691.0,4573.0,26.5,719.0,4,Never,Good,No
+CUST_0259,46.0,Male,Bachelor,Unemployed,Rawalpindi,16,78937.0,11064.0,23.7,615.0,4,Current,Average,Yes
+CUST_0260,22.0,Female,Bachelor,Self-Employed,Lahore,3,23922.0,6801.0,19.6,628.0,3,Current,Excellent,No
+CUST_0261,21.0,Female,Bachelor,Unemployed,Rawalpindi,0,15027.0,6195.0,27.1,687.0,1,Never,Good,No
+CUST_0262,32.0,Female,Bachelor,Government,Karachi,5,43845.0,14371.0,28.7,850.0,1,Former,Good,Yes
+CUST_0263,25.0,Female,Bachelor,Private,Karachi,7,55800.0,1938.0,18.8,693.0,4,Never,Average,Yes
+CUST_0264,57.0,Female,Bachelor,Unemployed,Peshawar,32,67529.0,3684.0,27.1,487.0,1,Never,Excellent,Yes
+CUST_0265,52.0,Male,Bachelor,Self-Employed,Rawalpindi,26,56648.0,,27.6,632.0,1,Never,Good,No
+CUST_0266,29.0,Male,Bachelor,Self-Employed,Peshawar,5,28778.0,1861.0,24.3,731.0,3,,Excellent,No
+CUST_0267,61.0,Male,Bachelor,Self-Employed,Islamabad,35,,9468.0,28.8,595.0,2,Never,Average,Yes
+CUST_0268,55.0,Female,High School,Government,Karachi,34,87385.0,2126.0,26.4,742.0,0,Former,Good,Yes
+CUST_0269,39.0,Male,Bachelor,Private,Lahore,16,26551.0,7344.0,28.4,692.0,2,Never,Good,No
+CUST_0270,,Female,High School,Self-Employed,Karachi,11,46651.0,14674.0,29.6,754.0,1,Former,Poor,Yes
+CUST_0271,23.0,Female,Master,Private,Islamabad,0,44314.0,3702.0,29.6,638.0,4,Former,Average,Yes
+CUST_0272,40.0,Male,Bachelor,Private,Lahore,16,58175.0,6247.0,31.9,632.0,0,Never,Average,Yes
+CUST_0273,44.0,Female,Bachelor,Government,Rawalpindi,16,,7387.0,28.6,722.0,0,Never,Average,No
+CUST_0274,53.0,Female,Bachelor,Private,Rawalpindi,35,49646.0,1692.0,24.7,679.0,4,Former,Average,No
+CUST_0275,44.0,Male,Bachelor,Private,Karachi,15,73350.0,,23.9,675.0,0,Former,Good,Yes
+CUST_0276,31.0,Male,Bachelor,Self-Employed,Lahore,3,27928.0,1993.0,,798.0,4,Former,Good,No
+CUST_0277,28.0,Female,PhD,Self-Employed,Lahore,7,77308.0,2828.0,27.7,725.0,0,Former,Good,Yes
+CUST_0278,56.0,Male,Master,Self-Employed,Peshawar,36,96531.0,7238.0,33.3,,2,Never,Poor,No
+CUST_0279,58.0,Male,Master,Government,Islamabad,32,126598.0,2707.0,25.3,740.0,0,Former,Good,No
+CUST_0280,60.0,,Master,Unemployed,Rawalpindi,35,15854.0,4120.0,29.2,,3,Never,Excellent,Yes
+CUST_0281,40.0,Female,,Private,Karachi,17,46602.0,1936.0,23.4,769.0,4,Current,Average,No
+CUST_0282,55.0,Male,High School,Self-Employed,Lahore,32,17487.0,10613.0,27.9,610.0,0,Former,Average,No
+CUST_0283,45.0,Female,Bachelor,Private,Rawalpindi,23,13504.0,2811.0,33.0,,4,Never,Good,Yes
+CUST_0284,55.0,Female,High School,Private,Karachi,27,55784.0,13256.0,30.3,688.0,3,Never,Good,No
+CUST_0285,45.0,Male,Bachelor,Government,Rawalpindi,23,41376.0,,19.5,608.0,0,Current,Good,Yes
+CUST_0286,49.0,Female,Master,Self-Employed,Karachi,20,60774.0,1473.0,29.7,751.0,0,Never,Good,Yes
+CUST_0287,38.0,Male,Master,Private,Rawalpindi,9,67331.0,3721.0,30.0,662.0,3,Never,Average,No
+CUST_0288,38.0,Male,Bachelor,Private,Peshawar,8,102369.0,1906.0,27.8,,3,Former,Good,Yes
+CUST_0289,22.0,Female,Bachelor,Government,Islamabad,4,53085.0,6581.0,30.2,624.0,3,Former,Average,No
+CUST_0290,55.0,Female,Bachelor,Government,Rawalpindi,27,257261.0,,23.0,570.0,4,Never,Average,Yes
+CUST_0291,36.0,Male,Master,Government,Islamabad,13,60994.0,4781.0,,662.0,3,Never,Poor,No
+CUST_0292,61.0,,Master,,Rawalpindi,32,141969.0,3207.0,32.3,697.0,4,Current,Average,Yes
+CUST_0293,56.0,Female,PhD,Government,Lahore,31,14285.0,2789.0,31.9,640.0,2,,,No
+CUST_0294,53.0,Female,High School,Private,Peshawar,32,108267.0,2038.0,29.6,450.0,0,Former,Good,Yes
+CUST_0295,24.0,Male,Bachelor,Private,Peshawar,0,46657.0,7920.0,22.8,709.0,0,Current,Excellent,No
+CUST_0296,53.0,Female,Bachelor,Government,Islamabad,28,17649.0,3715.0,22.0,708.0,1,Never,Average,No
+CUST_0297,34.0,Male,High School,Self-Employed,Lahore,9,64945.0,3341.0,27.5,732.0,2,Never,Excellent,Yes
+CUST_0298,41.0,Male,PhD,Private,Karachi,23,43625.0,3646.0,27.9,651.0,3,Never,Good,No
+CUST_0299,40.0,Female,PhD,Private,Peshawar,11,70900.0,2542.0,26.5,647.0,3,Never,Good,Yes
+CUST_0300,28.0,Female,High School,Government,Lahore,5,89868.0,3349.0,23.1,788.0,2,Never,Excellent,No
+CUST_0301,27.0,Female,High School,Private,Lahore,5,22719.0,4936.0,29.1,562.0,3,Never,Good,No
+CUST_0302,23.0,Male,Bachelor,Private,Islamabad,0,90058.0,1948.0,27.5,661.0,1,Current,Average,No
+CUST_0303,37.0,Male,Master,Private,Lahore,15,51718.0,2171.0,28.4,691.0,4,Former,Excellent,Yes
+CUST_0304,53.0,Female,Bachelor,Private,Lahore,26,108452.0,11893.0,29.8,725.0,0,Former,Good,Yes
+CUST_0305,32.0,Male,High School,Private,Karachi,9,46036.0,3223.0,25.7,693.0,2,Never,Good,No
+CUST_0306,42.0,Female,High School,Self-Employed,Islamabad,23,39786.0,2797.0,24.7,611.0,0,Never,Excellent,No
+CUST_0307,42.0,Male,Bachelor,Self-Employed,Islamabad,20,52307.0,1544.0,32.3,768.0,4,Never,Average,No
+CUST_0308,50.0,Female,PhD,Self-Employed,Lahore,32,54504.0,8006.0,23.4,680.0,2,Former,Good,No
+CUST_0309,58.0,Female,Bachelor,Government,Karachi,31,35792.0,1916.0,24.7,555.0,4,Never,Good,No
+CUST_0310,58.0,Female,Bachelor,Self-Employed,Rawalpindi,35,39224.0,4182.0,32.9,696.0,3,Never,Good,Yes
+CUST_0311,65.0,Female,High School,Unemployed,Peshawar,45,26245.0,1175.0,24.4,716.0,3,Never,Poor,No
+CUST_0312,28.0,Female,Bachelor,Government,Islamabad,1,40577.0,7814.0,26.5,827.0,3,Former,Good,No
+CUST_0313,47.0,Male,,,Karachi,20,74755.0,10226.0,25.0,711.0,4,Current,Poor,Yes
+CUST_0314,47.0,Male,Bachelor,Government,Karachi,19,47784.0,6084.0,18.4,569.0,4,Former,Good,No
+CUST_0315,54.0,Female,,Private,Lahore,24,89768.0,1338.0,26.4,571.0,4,Never,Excellent,Yes
+CUST_0316,41.0,Male,Master,Government,Peshawar,20,46538.0,7935.0,22.1,774.0,0,Never,Average,No
+CUST_0317,50.0,Female,,Government,Islamabad,27,23451.0,2274.0,28.2,620.0,4,Never,Average,No
+CUST_0318,53.0,Male,Master,Self-Employed,Rawalpindi,30,71575.0,1758.0,32.3,564.0,3,Never,Average,Yes
+CUST_0319,48.0,Male,Bachelor,Government,Lahore,22,35579.0,3173.0,17.0,755.0,1,Never,Good,No
+CUST_0320,53.0,Male,Bachelor,,Islamabad,24,45327.0,3126.0,25.0,644.0,4,Never,Excellent,Yes
+CUST_0321,25.0,Female,Master,Private,Islamabad,1,101790.0,,29.2,751.0,1,Never,Good,No
+CUST_0322,39.0,Female,Master,Private,Karachi,10,,10996.0,17.0,,3,Never,Average,No
+CUST_0323,24.0,Female,Bachelor,Private,Peshawar,4,56422.0,19127.0,33.4,791.0,4,Never,Good,Yes
+CUST_0324,55.0,Female,High School,Private,Rawalpindi,28,50398.0,1515.0,,745.0,0,Former,Good,Yes
+CUST_0325,37.0,Male,Bachelor,Private,Peshawar,15,,2523.0,32.2,626.0,0,Current,Average,No
+CUST_0326,64.0,Male,Bachelor,Private,Karachi,33,82482.0,4708.0,24.3,555.0,1,Current,Good,No
+CUST_0327,48.0,Female,Bachelor,Unemployed,Rawalpindi,23,59582.0,3160.0,24.9,850.0,0,Never,Average,No
+CUST_0328,50.0,,Master,Private,Rawalpindi,21,42268.0,5708.0,26.2,664.0,0,Never,Good,Yes
+CUST_0329,49.0,Male,High School,Private,Lahore,19,66860.0,8408.0,37.3,623.0,0,Current,Average,No
+CUST_0330,,Female,Bachelor,Private,Rawalpindi,4,107432.0,,33.3,784.0,3,Never,Average,No
+CUST_0331,55.0,Male,Bachelor,Government,Islamabad,36,50766.0,6683.0,27.6,751.0,0,Current,Excellent,Yes
+CUST_0332,61.0,Male,Bachelor,Private,Peshawar,33,44490.0,14681.0,28.2,769.0,2,Former,Good,Yes
+CUST_0333,57.0,Female,Master,Government,Peshawar,33,63799.0,1285.0,30.0,673.0,4,Current,Average,Yes
+CUST_0334,44.0,Male,Bachelor,Private,Lahore,16,52644.0,12837.0,38.5,821.0,0,Current,Excellent,No
+CUST_0335,49.0,Male,Bachelor,Government,Rawalpindi,25,24693.0,3103.0,28.8,582.0,0,Former,Good,Yes
+CUST_0336,51.0,,PhD,,Karachi,20,58784.0,7622.0,27.2,,0,Former,Average,Yes
+CUST_0337,55.0,Male,Bachelor,Private,Islamabad,37,24570.0,1954.0,25.4,709.0,2,Never,Good,No
+CUST_0338,53.0,Female,Bachelor,Private,Lahore,26,63320.0,2140.0,28.1,,0,Never,Excellent,No
+CUST_0339,41.0,Female,Bachelor,,Rawalpindi,15,33242.0,6951.0,24.2,730.0,0,Never,Good,No
+CUST_0340,52.0,Female,PhD,Self-Employed,Karachi,27,52590.0,996.0,29.4,674.0,4,Never,Average,Yes
+CUST_0341,43.0,Female,PhD,Private,Rawalpindi,26,63884.0,8885.0,20.1,644.0,2,Never,Good,No
+CUST_0342,53.0,Male,Bachelor,Government,Lahore,35,198719.0,10883.0,25.7,768.0,2,Never,Good,No
+CUST_0343,23.0,Male,High School,,Karachi,0,77537.0,4834.0,30.5,737.0,0,Current,Good,Yes
+CUST_0344,38.0,Male,PhD,Government,Karachi,15,,4705.0,28.8,614.0,2,Never,Average,No
+CUST_0345,45.0,Male,Bachelor,Private,Karachi,14,144273.0,2264.0,24.8,612.0,1,Never,Good,Yes
+CUST_0346,62.0,Male,Bachelor,Private,Karachi,39,67447.0,7015.0,25.9,639.0,2,Never,Poor,No
+CUST_0347,51.0,Female,Master,Self-Employed,Rawalpindi,26,,5490.0,32.0,629.0,2,Never,Good,No
+CUST_0348,23.0,Female,Bachelor,Self-Employed,Karachi,0,28661.0,,21.2,757.0,2,Never,Excellent,No
+CUST_0349,60.0,Female,High School,Unemployed,Rawalpindi,38,48332.0,3154.0,21.2,713.0,3,Current,Average,No
+CUST_0350,44.0,Female,Master,Unemployed,Karachi,20,34624.0,3754.0,22.5,722.0,3,,Average,Yes
+CUST_0351,52.0,Male,Bachelor,Self-Employed,Karachi,30,41333.0,3151.0,26.9,694.0,3,Never,Good,No
+CUST_0352,42.0,Female,Bachelor,Government,Lahore,16,144187.0,1522.0,20.5,698.0,2,Never,Good,Yes
+CUST_0353,43.0,Female,Bachelor,Self-Employed,Rawalpindi,15,54888.0,7146.0,31.6,561.0,1,Never,Average,Yes
+CUST_0354,22.0,Male,Bachelor,Private,Rawalpindi,0,31833.0,3524.0,22.6,740.0,2,Current,Good,Yes
+CUST_0355,47.0,Male,,Government,Peshawar,20,109754.0,4279.0,28.1,638.0,0,Never,Excellent,No
+CUST_0356,62.0,Female,Bachelor,Private,Lahore,44,87151.0,2742.0,24.2,678.0,1,Never,Good,No
+CUST_0357,22.0,Female,Master,Private,Rawalpindi,0,,,26.7,645.0,3,Never,Good,No
+CUST_0358,46.0,Female,Master,Self-Employed,Lahore,19,17096.0,4910.0,19.3,691.0,4,Current,Average,No
+CUST_0359,37.0,Female,Bachelor,,Lahore,16,,10505.0,31.8,723.0,1,Never,,No
+CUST_0360,60.0,Female,Master,Private,Lahore,32,37904.0,6066.0,22.4,604.0,3,Current,Average,No
+CUST_0361,53.0,Male,Master,Private,Islamabad,30,79053.0,3634.0,21.9,699.0,1,Never,Average,Yes
+CUST_0362,29.0,Male,Master,Self-Employed,Rawalpindi,3,206507.0,2429.0,38.4,646.0,1,Former,Average,No
+CUST_0363,63.0,Male,Bachelor,Government,Lahore,37,168625.0,8099.0,29.7,779.0,2,Former,Good,Yes
+CUST_0364,59.0,Male,Master,Government,Islamabad,35,30102.0,3422.0,31.6,596.0,0,Never,Excellent,Yes
+CUST_0365,49.0,Female,Bachelor,Private,Islamabad,18,23284.0,,29.2,605.0,4,Never,Average,Yes
+CUST_0366,62.0,Female,High School,Private,Karachi,36,113175.0,3718.0,24.8,653.0,3,Never,Good,No
+CUST_0367,46.0,Female,Bachelor,Private,Karachi,25,55722.0,3130.0,20.7,611.0,1,Never,Good,Yes
+CUST_0368,55.0,Male,Master,Private,Rawalpindi,28,39125.0,3767.0,25.6,663.0,4,Current,,No
+CUST_0369,45.0,Female,High School,Self-Employed,Karachi,17,,17938.0,22.3,640.0,1,Never,Good,No
+CUST_0370,44.0,Male,High School,Private,Rawalpindi,18,47118.0,1928.0,22.6,687.0,0,Former,Average,Yes
+CUST_0371,33.0,Male,,Private,Islamabad,10,75791.0,2296.0,19.4,756.0,4,,Average,No
+CUST_0372,27.0,Female,Master,Private,Islamabad,4,53468.0,11947.0,27.5,685.0,3,Never,Excellent,No
+CUST_0373,56.0,Female,Master,Private,Rawalpindi,37,76674.0,3194.0,34.6,692.0,1,Former,Good,No
+CUST_0374,65.0,Male,Bachelor,Private,Karachi,45,31508.0,3017.0,29.7,601.0,0,Never,Average,Yes
+CUST_0375,40.0,Male,High School,Government,Karachi,20,,9193.0,26.5,670.0,4,Never,Good,Yes
+CUST_0376,21.0,Female,Bachelor,,Rawalpindi,0,75636.0,1458.0,,648.0,1,,Excellent,No
+CUST_0377,28.0,Male,High School,Self-Employed,Peshawar,10,73531.0,7833.0,,731.0,1,Never,Good,Yes
+CUST_0378,36.0,Male,Bachelor,Government,Karachi,16,27869.0,4377.0,25.0,623.0,3,Current,Average,No
+CUST_0379,34.0,Female,Bachelor,Private,Lahore,8,131242.0,5995.0,20.2,615.0,0,Never,Good,No
+CUST_0380,32.0,Male,PhD,Government,Karachi,10,51147.0,5911.0,27.6,704.0,2,Never,Good,Yes
+CUST_0381,43.0,Male,Bachelor,Self-Employed,Peshawar,15,76913.0,,25.8,829.0,1,Former,Poor,No
+CUST_0382,35.0,Male,Bachelor,Private,Islamabad,15,43150.0,9306.0,22.8,667.0,4,Never,Average,No
+CUST_0383,48.0,Female,Master,Government,Islamabad,20,59486.0,2800.0,27.5,693.0,3,Never,Good,Yes
+CUST_0384,54.0,Female,Bachelor,Unemployed,Islamabad,30,60683.0,5748.0,27.5,751.0,3,Never,Good,Yes
+CUST_0385,22.0,Male,Bachelor,,Karachi,0,10928.0,10703.0,34.3,718.0,1,Current,Average,Yes
+CUST_0386,52.0,Male,Master,Government,Islamabad,28,70994.0,11899.0,30.3,719.0,1,Current,Average,Yes
+CUST_0387,43.0,Male,,Self-Employed,Peshawar,20,151894.0,3462.0,28.0,673.0,1,Former,Poor,No
+CUST_0388,42.0,Male,Bachelor,Government,Peshawar,13,69347.0,,22.5,674.0,2,Never,,Yes
+CUST_0389,45.0,Female,Bachelor,,Karachi,18,30432.0,3230.0,21.8,623.0,1,Former,Average,Yes
+CUST_0390,42.0,Female,High School,Private,Lahore,19,73679.0,27663.0,29.9,716.0,0,Never,Good,No
+CUST_0391,42.0,Male,High School,Private,Karachi,17,92292.0,7594.0,26.0,715.0,4,Never,,No
+CUST_0392,62.0,Male,Master,Government,Islamabad,38,68313.0,4505.0,28.2,734.0,1,Current,Good,Yes
+CUST_0393,26.0,Male,Master,Self-Employed,Karachi,3,49475.0,5348.0,31.7,643.0,2,Never,Average,No
+CUST_0394,35.0,Male,Bachelor,Unemployed,Peshawar,15,45108.0,5741.0,19.7,742.0,4,Never,Average,No
+CUST_0395,63.0,Male,Bachelor,Private,Karachi,41,45005.0,5870.0,33.7,765.0,3,Current,Average,No
+CUST_0396,57.0,Female,PhD,Private,Karachi,34,75643.0,3533.0,31.7,589.0,1,Former,Average,No
+CUST_0397,53.0,Female,PhD,Private,Lahore,30,23768.0,3147.0,,658.0,4,Never,Average,No
+CUST_0398,28.0,Female,Bachelor,,Peshawar,7,42002.0,3775.0,38.3,768.0,3,Never,Average,No
+CUST_0399,64.0,Male,Master,Private,Rawalpindi,39,123944.0,1799.0,28.5,631.0,2,Never,Excellent,No
+CUST_0400,64.0,Female,Master,Private,Rawalpindi,44,126602.0,7250.0,24.7,720.0,0,Never,Average,No
+CUST_0401,25.0,Male,Bachelor,Private,Peshawar,0,22857.0,2319.0,29.5,681.0,1,Never,Excellent,No
+CUST_0402,59.0,Male,,Private,Rawalpindi,34,27659.0,1910.0,22.3,705.0,0,Never,Average,Yes
+CUST_0403,24.0,Female,High School,Private,Islamabad,4,44407.0,4185.0,29.6,683.0,2,Current,Average,Yes
+CUST_0404,26.0,Male,Master,Unemployed,Rawalpindi,2,84198.0,3837.0,23.2,736.0,4,Never,Good,No
+CUST_0405,65.0,Female,Master,Self-Employed,Islamabad,35,18862.0,5101.0,36.7,603.0,4,Never,Poor,No
+CUST_0406,52.0,Female,,Private,Peshawar,26,50004.0,2762.0,27.3,612.0,2,Never,Average,No
+CUST_0407,50.0,Female,High School,Self-Employed,Rawalpindi,30,39704.0,3151.0,30.1,790.0,2,Never,Excellent,No
+CUST_0408,55.0,Female,Master,Government,Rawalpindi,32,106861.0,7109.0,23.2,838.0,1,Never,Good,No
+CUST_0409,60.0,Male,Master,Self-Employed,Islamabad,38,20490.0,6791.0,30.9,680.0,3,,Poor,Yes
+CUST_0410,36.0,Female,Master,Private,Islamabad,16,54225.0,6582.0,26.9,809.0,0,Current,Poor,Yes
+CUST_0411,33.0,Female,High School,Private,Karachi,12,41503.0,4339.0,20.2,622.0,0,Never,Excellent,No
+CUST_0412,62.0,Female,Master,Self-Employed,Lahore,34,115658.0,4802.0,25.9,640.0,4,Current,Excellent,No
+CUST_0413,50.0,Male,High School,Private,Rawalpindi,33,71590.0,5028.0,36.3,789.0,4,Never,Good,Yes
+CUST_0414,39.0,Female,Master,Unemployed,Lahore,13,37339.0,2586.0,31.1,740.0,1,,Average,No
+CUST_0415,37.0,Male,Master,Self-Employed,Lahore,14,82402.0,12779.0,25.2,800.0,2,Never,Good,No
+CUST_0416,39.0,Female,High School,Unemployed,Rawalpindi,11,41612.0,11484.0,18.0,715.0,0,Current,Average,No
+CUST_0417,48.0,Male,Master,Private,Islamabad,23,89289.0,7675.0,23.0,604.0,1,Never,Average,Yes
+CUST_0418,46.0,Female,High School,Private,Karachi,20,45234.0,3074.0,20.2,697.0,4,Never,,No
+CUST_0419,57.0,Male,Master,Private,Peshawar,37,,6338.0,18.1,770.0,4,Former,Average,Yes
+CUST_0420,46.0,Male,Bachelor,Unemployed,Rawalpindi,24,65503.0,8811.0,30.8,670.0,0,Never,Good,No
+CUST_0421,43.0,Male,Master,Private,Rawalpindi,20,309672.0,1690.0,27.3,659.0,4,Never,Excellent,Yes
+CUST_0422,29.0,Male,PhD,Government,Peshawar,11,50056.0,15076.0,35.6,716.0,4,Never,Good,Yes
+CUST_0423,32.0,Male,Bachelor,Private,Lahore,10,63613.0,1148.0,22.2,638.0,3,Former,Average,No
+CUST_0424,21.0,Male,Bachelor,Private,Karachi,0,39589.0,7176.0,27.0,702.0,2,Never,Average,Yes
+CUST_0425,,Female,Bachelor,Private,Lahore,0,51610.0,12581.0,20.3,685.0,4,Never,Average,No
+CUST_0426,54.0,Female,High School,Government,Peshawar,28,11661.0,3886.0,24.1,643.0,3,Current,Average,No
+CUST_0427,52.0,Female,,Self-Employed,Peshawar,32,66574.0,3779.0,25.9,754.0,1,Never,Good,No
+CUST_0428,45.0,Male,Master,Private,Karachi,22,107859.0,6980.0,25.2,728.0,4,Never,Average,No
+CUST_0429,60.0,Male,PhD,Self-Employed,Peshawar,38,64097.0,16965.0,27.3,653.0,1,Former,Average,No
+CUST_0430,65.0,Male,Master,,Peshawar,38,25019.0,3426.0,31.7,679.0,4,Former,Average,Yes
+CUST_0431,21.0,Female,Bachelor,Government,Karachi,1,33157.0,2355.0,31.2,660.0,0,Current,Average,Yes
+CUST_0432,36.0,Female,Master,Government,Rawalpindi,17,13540.0,3078.0,23.3,632.0,3,Never,Good,No
+CUST_0433,59.0,Male,Master,Private,Lahore,32,88292.0,1320.0,26.9,553.0,3,,Good,No
+CUST_0434,25.0,Male,Bachelor,Private,Rawalpindi,3,29626.0,8294.0,30.8,644.0,0,Current,Good,Yes
+CUST_0435,42.0,Female,,Self-Employed,Rawalpindi,19,50727.0,2877.0,32.0,633.0,2,Current,Good,Yes
+CUST_0436,,Female,Bachelor,Private,Lahore,29,47356.0,3618.0,,689.0,3,Former,Good,Yes
+CUST_0437,23.0,Female,Master,Private,Rawalpindi,1,116804.0,,30.4,713.0,1,Never,Average,No
+CUST_0438,32.0,Female,Bachelor,Private,Karachi,13,54009.0,3189.0,28.6,620.0,3,Never,Average,No
+CUST_0439,46.0,Male,Master,Self-Employed,Lahore,21,80410.0,7475.0,21.9,708.0,2,Never,Good,No
+CUST_0440,36.0,Male,High School,Private,Islamabad,12,69602.0,1942.0,30.8,608.0,1,Current,Average,No
+CUST_0441,57.0,Male,PhD,Government,Rawalpindi,33,108845.0,8682.0,27.7,671.0,1,Never,Average,Yes
+CUST_0442,42.0,Male,Bachelor,Private,Peshawar,23,45183.0,5467.0,18.6,635.0,0,Never,Excellent,Yes
+CUST_0443,49.0,Male,Master,Unemployed,Lahore,20,144104.0,3958.0,25.6,736.0,4,Former,Average,Yes
+CUST_0444,34.0,Female,High School,Private,Islamabad,12,17290.0,4667.0,27.2,689.0,0,Never,Good,No
+CUST_0445,48.0,Male,High School,Government,Peshawar,25,82587.0,1612.0,24.1,672.0,4,Never,Good,No
+CUST_0446,25.0,Male,Master,Government,Islamabad,5,31996.0,4587.0,32.9,633.0,0,Former,Average,No
+CUST_0447,50.0,Male,PhD,Self-Employed,Rawalpindi,32,39300.0,3804.0,33.1,655.0,4,Never,Poor,Yes
+CUST_0448,25.0,Male,,Private,Peshawar,0,70487.0,1645.0,25.2,817.0,3,Never,Good,No
+CUST_0449,32.0,Male,High School,Self-Employed,Rawalpindi,8,70177.0,2557.0,24.6,642.0,1,Never,Average,Yes
+CUST_0450,36.0,Female,Bachelor,Private,Peshawar,17,71936.0,3839.0,26.4,716.0,4,Current,,Yes
+CUST_0451,46.0,Female,High School,Private,Lahore,18,24043.0,,26.0,672.0,3,Current,Excellent,No
+CUST_0452,46.0,Male,High School,Government,Karachi,19,114344.0,693.0,24.2,714.0,2,Former,Good,Yes
+CUST_0453,41.0,Male,Master,Self-Employed,Karachi,22,31403.0,9483.0,17.0,743.0,0,Former,Poor,No
+CUST_0454,59.0,Male,PhD,Government,Islamabad,38,33792.0,3803.0,35.4,653.0,2,Never,Average,Yes
+CUST_0455,56.0,Female,High School,Self-Employed,Peshawar,28,73192.0,769.0,27.0,733.0,3,Former,Good,No
+CUST_0456,53.0,Male,Bachelor,Private,Rawalpindi,32,44016.0,20978.0,26.1,850.0,2,Current,Average,No
+CUST_0457,50.0,Male,Bachelor,Unemployed,Lahore,27,61056.0,10733.0,28.6,723.0,2,Never,Poor,Yes
+CUST_0458,57.0,Female,High School,Private,Lahore,33,15739.0,3256.0,26.6,801.0,3,Never,Average,No
+CUST_0459,43.0,Male,Bachelor,Government,Lahore,19,60257.0,2249.0,24.9,716.0,1,Current,Average,Yes
+CUST_0460,30.0,Male,Bachelor,Government,Karachi,6,58093.0,5724.0,22.2,610.0,4,Former,Good,Yes
+CUST_0461,25.0,Male,High School,Government,Rawalpindi,0,38932.0,4923.0,18.2,701.0,0,Never,Good,No
+CUST_0462,56.0,Male,Bachelor,Private,Lahore,28,16469.0,6352.0,20.5,655.0,4,Current,Poor,No
+CUST_0463,54.0,Male,High School,Government,Lahore,30,45842.0,2254.0,21.6,635.0,0,Never,Average,Yes
+CUST_0464,51.0,Female,Bachelor,Private,Islamabad,29,50486.0,9637.0,30.1,675.0,4,,Average,Yes
+CUST_0465,30.0,Female,High School,Private,Peshawar,1,42109.0,2966.0,30.5,668.0,2,Former,Good,Yes
+CUST_0466,39.0,Female,Master,Private,Peshawar,12,18772.0,7049.0,22.8,601.0,1,Never,,No
+CUST_0467,52.0,Male,Master,Government,Peshawar,35,123884.0,2327.0,17.0,850.0,2,Former,Average,Yes
+CUST_0468,21.0,Male,Master,Private,Islamabad,1,36266.0,30826.0,27.0,741.0,1,Never,Excellent,Yes
+CUST_0469,25.0,Male,Bachelor,Private,Karachi,4,45606.0,7127.0,25.0,698.0,3,Never,Poor,Yes
+CUST_0470,65.0,Male,Bachelor,Private,Islamabad,37,13695.0,36797.0,24.9,687.0,0,Never,Excellent,Yes
+CUST_0471,24.0,Female,Bachelor,Private,Lahore,1,123893.0,7869.0,31.6,770.0,0,Never,Poor,No
+CUST_0472,36.0,Male,High School,Self-Employed,Rawalpindi,9,39871.0,2776.0,27.7,836.0,3,Never,Average,No
+CUST_0473,44.0,Female,Master,Unemployed,Lahore,21,,7880.0,22.3,731.0,4,Current,Good,No
+CUST_0474,36.0,Male,Bachelor,Private,Lahore,9,95455.0,8312.0,21.2,689.0,3,Never,Average,No
+CUST_0475,,Male,Bachelor,Government,Rawalpindi,0,35526.0,5597.0,25.7,790.0,3,Never,Average,Yes
+CUST_0476,48.0,Male,Bachelor,Self-Employed,Peshawar,27,87534.0,6787.0,22.6,691.0,1,,Average,Yes
+CUST_0477,52.0,Male,Bachelor,Government,Islamabad,30,16585.0,,26.7,713.0,3,Current,Excellent,Yes
+CUST_0478,47.0,Male,PhD,Government,Karachi,23,69776.0,2008.0,31.9,755.0,0,,Average,No
+CUST_0479,40.0,Male,Bachelor,Private,Lahore,13,122361.0,1903.0,20.4,651.0,2,Never,Good,No
+CUST_0480,44.0,Male,Bachelor,Government,Lahore,25,37450.0,2332.0,27.4,524.0,1,Never,Good,No
+CUST_0481,32.0,Female,Bachelor,Private,Karachi,6,95357.0,4655.0,31.4,647.0,1,Never,Good,Yes
+CUST_0482,55.0,Female,PhD,Private,Islamabad,29,141302.0,3578.0,26.6,738.0,4,Never,Good,No
+CUST_0483,53.0,Male,Bachelor,,Lahore,32,44794.0,2035.0,30.5,733.0,2,Former,Average,Yes
+CUST_0484,53.0,Male,Master,Government,Karachi,31,42803.0,7566.0,25.6,781.0,1,Current,Average,No
+CUST_0485,63.0,Female,High School,Private,Lahore,39,31443.0,,27.8,650.0,3,Never,Average,No
+CUST_0486,57.0,Female,Master,Private,Peshawar,30,38935.0,4802.0,29.1,799.0,1,Current,Average,Yes
+CUST_0487,32.0,Female,Bachelor,Self-Employed,Peshawar,10,32911.0,3486.0,24.3,694.0,1,Current,Average,No
+CUST_0488,23.0,Male,Bachelor,Self-Employed,Lahore,0,31429.0,3185.0,36.6,725.0,1,Current,Poor,No
+CUST_0489,21.0,Female,Master,Government,Lahore,0,99644.0,2251.0,29.8,748.0,4,Current,,Yes
+CUST_0490,53.0,Female,PhD,Private,Peshawar,29,,,33.3,576.0,1,Current,,Yes
+CUST_0491,60.0,Male,Bachelor,Government,Lahore,35,59408.0,2496.0,32.1,605.0,1,,Poor,Yes
+CUST_0492,30.0,Female,Master,Private,Islamabad,9,52629.0,4950.0,28.6,602.0,4,Never,Average,Yes
+CUST_0493,63.0,Male,High School,Private,Islamabad,37,117472.0,14713.0,33.7,760.0,2,Never,Average,Yes
+CUST_0494,64.0,Female,Master,Private,Rawalpindi,39,39076.0,3297.0,27.9,657.0,0,,Average,Yes
+CUST_0495,49.0,Female,Bachelor,Government,Islamabad,28,63553.0,8695.0,,832.0,4,Never,Average,Yes
+CUST_0496,33.0,Female,Bachelor,Government,Lahore,7,79625.0,6480.0,27.1,680.0,4,Never,Excellent,No
+CUST_0497,32.0,Female,Master,Unemployed,Lahore,8,116934.0,5343.0,22.2,570.0,1,Never,Poor,No
+CUST_0498,51.0,Male,Master,Self-Employed,Karachi,25,38764.0,5842.0,17.0,630.0,1,Current,Average,Yes
+CUST_0499,22.0,Male,Bachelor,Private,Islamabad,2,36686.0,3940.0,22.9,689.0,0,Former,Poor,Yes
+CUST_0500,55.0,Female,Master,Private,Peshawar,33,28739.0,4342.0,27.3,719.0,1,Never,Excellent,No
+CUST_0501,,Female,High School,Private,Peshawar,16,,2804.0,32.1,606.0,3,Never,Excellent,Yes
+CUST_0502,37.0,Female,Master,Self-Employed,Rawalpindi,10,110355.0,4364.0,22.9,723.0,1,Former,Good,Yes
+CUST_0503,46.0,Female,Master,Self-Employed,Karachi,26,50352.0,2727.0,31.8,743.0,1,Never,Average,Yes
+CUST_0504,28.0,Female,High School,Unemployed,Peshawar,7,149088.0,8993.0,21.2,632.0,3,Never,Average,No
+CUST_0505,49.0,Female,Master,Government,Rawalpindi,26,48726.0,1182.0,22.6,828.0,0,Never,Average,No
+CUST_0506,46.0,Male,Bachelor,Self-Employed,Islamabad,26,76759.0,6068.0,34.0,640.0,3,Current,Average,No
+CUST_0507,30.0,Male,Bachelor,Government,Karachi,9,51823.0,5445.0,27.2,605.0,4,Never,Good,Yes
+CUST_0508,,Female,Bachelor,Self-Employed,Karachi,17,64138.0,5087.0,26.2,565.0,3,Never,Average,Yes
+CUST_0509,54.0,Male,Bachelor,Self-Employed,Lahore,34,60504.0,9121.0,28.1,772.0,2,Former,Average,Yes
+CUST_0510,61.0,Male,Master,Government,Islamabad,36,40793.0,3413.0,21.2,682.0,4,Never,Good,No
+CUST_0511,27.0,Male,Bachelor,Government,Karachi,1,93983.0,5123.0,25.4,644.0,1,Never,Average,Yes
+CUST_0512,24.0,Female,Bachelor,Self-Employed,Rawalpindi,0,76403.0,1167.0,27.0,569.0,4,Never,Good,No
+CUST_0513,65.0,Female,Master,,Peshawar,41,90693.0,3098.0,32.9,651.0,0,Current,Average,No
+CUST_0514,31.0,Female,High School,,Islamabad,11,,8037.0,19.0,850.0,0,Never,Poor,No
+CUST_0515,49.0,Male,Bachelor,Private,Islamabad,24,31300.0,,35.5,519.0,3,Former,Average,No
+CUST_0516,56.0,Female,Bachelor,Private,Karachi,33,131948.0,4769.0,26.4,633.0,4,,Excellent,Yes
+CUST_0517,45.0,Female,Master,,Karachi,16,44605.0,2545.0,21.7,814.0,1,Current,Average,No
+CUST_0518,41.0,Male,Bachelor,Private,Karachi,12,62959.0,3892.0,20.8,774.0,0,Former,,No
+CUST_0519,56.0,Male,Bachelor,Private,Rawalpindi,33,73091.0,2662.0,28.3,637.0,1,Former,Poor,No
+CUST_0520,30.0,Male,Bachelor,Private,Lahore,10,62729.0,1660.0,20.5,695.0,2,Current,Good,No
+CUST_0521,57.0,Female,Master,Government,Karachi,30,85262.0,5651.0,24.3,715.0,0,Current,Good,No
+CUST_0522,29.0,Female,High School,Private,Lahore,2,93000.0,4076.0,25.8,690.0,3,Current,Average,Yes
+CUST_0523,44.0,Male,,Private,Lahore,23,45540.0,6697.0,32.5,,2,Former,Average,Yes
+CUST_0524,55.0,,Master,Private,Islamabad,28,125996.0,7676.0,31.9,705.0,4,Never,Excellent,No
+CUST_0525,,Male,Master,Private,Peshawar,34,44498.0,10604.0,23.9,765.0,1,Never,Good,No
+CUST_0526,56.0,Male,Bachelor,Self-Employed,Peshawar,34,62020.0,4676.0,26.0,694.0,0,Never,Good,Yes
+CUST_0527,38.0,Male,Bachelor,Private,Rawalpindi,8,41638.0,10954.0,19.3,528.0,2,Current,Average,Yes
+CUST_0528,,Male,PhD,Self-Employed,Rawalpindi,35,35582.0,2035.0,17.2,591.0,2,Current,Average,Yes
+CUST_0529,52.0,Male,High School,Government,Peshawar,25,91519.0,8364.0,21.1,606.0,0,Never,Good,No
+CUST_0530,44.0,Male,High School,Unemployed,Peshawar,16,286944.0,5970.0,32.4,661.0,4,Never,Good,No
+CUST_0531,43.0,Male,Bachelor,Private,Islamabad,15,42236.0,5038.0,30.7,,4,Never,Good,Yes
+CUST_0532,52.0,Male,PhD,Private,Islamabad,32,100552.0,5905.0,28.8,707.0,3,Never,,Yes
+CUST_0533,,Female,Master,Private,Peshawar,29,43077.0,2058.0,20.0,672.0,4,Former,Good,Yes
+CUST_0534,32.0,Male,Bachelor,Private,Karachi,3,51238.0,1724.0,23.6,773.0,3,Never,Good,No
+CUST_0535,,Male,Master,Self-Employed,Karachi,15,135492.0,15251.0,22.9,571.0,2,Never,Excellent,No
+CUST_0536,43.0,Female,Bachelor,Private,Islamabad,22,28554.0,3727.0,26.2,643.0,0,Never,Average,Yes
+CUST_0537,45.0,Male,,Private,Lahore,19,24687.0,3688.0,25.9,632.0,4,Never,Good,Yes
+CUST_0538,55.0,Female,Bachelor,Self-Employed,Peshawar,30,49121.0,1851.0,22.2,710.0,3,Current,Good,No
+CUST_0539,61.0,Female,Master,Government,Rawalpindi,40,74236.0,1392.0,28.7,747.0,2,Never,Excellent,Yes
+CUST_0540,50.0,Male,,,Karachi,27,66504.0,3959.0,28.1,715.0,4,Current,Good,Yes
+CUST_0541,37.0,Female,Bachelor,Private,Lahore,11,62842.0,3274.0,,717.0,1,Never,Excellent,No
+CUST_0542,40.0,Female,Bachelor,Private,Karachi,16,52511.0,4236.0,28.5,653.0,2,Never,Excellent,No
+CUST_0543,45.0,,Bachelor,Unemployed,Lahore,19,79427.0,4516.0,32.4,,4,Former,Average,No
+CUST_0544,42.0,Female,Master,Self-Employed,Peshawar,21,10378.0,27367.0,33.9,617.0,2,Former,Good,Yes
+CUST_0545,33.0,Male,,Self-Employed,Peshawar,6,34100.0,3282.0,29.4,731.0,0,Never,Good,No
+CUST_0546,39.0,Female,Bachelor,Unemployed,Peshawar,8,48948.0,13835.0,29.2,642.0,0,Never,,Yes
+CUST_0547,56.0,Male,Bachelor,Government,Islamabad,33,75924.0,14494.0,25.8,596.0,0,Never,Average,Yes
+CUST_0548,32.0,Male,Bachelor,Private,Lahore,7,116935.0,7444.0,31.9,683.0,1,Former,Poor,Yes
+CUST_0549,61.0,Male,High School,Private,Rawalpindi,36,31672.0,3546.0,21.9,537.0,0,Never,Good,No
+CUST_0550,39.0,Male,Bachelor,Self-Employed,Rawalpindi,13,114851.0,1524.0,31.4,791.0,1,Never,Average,No
+CUST_0551,32.0,Male,Bachelor,Self-Employed,Peshawar,9,40179.0,6054.0,25.6,740.0,0,Former,Excellent,No
+CUST_0552,29.0,Female,Bachelor,Private,Rawalpindi,0,47980.0,9083.0,,705.0,2,Never,Good,Yes
+CUST_0553,27.0,Female,Bachelor,Government,Karachi,3,70954.0,15690.0,29.8,558.0,4,Never,Good,Yes
+CUST_0554,48.0,Male,PhD,,Lahore,25,46084.0,2075.0,26.7,627.0,4,Never,Average,Yes
+CUST_0555,34.0,Female,Master,Private,Lahore,11,94899.0,3524.0,25.9,683.0,0,Current,Good,No
+CUST_0556,51.0,,Bachelor,Self-Employed,Lahore,24,41253.0,2084.0,29.5,660.0,4,Never,Average,No
+CUST_0557,39.0,Male,Master,Private,Karachi,13,41596.0,2630.0,29.3,553.0,0,,Average,No
+CUST_0558,36.0,Male,Master,,Islamabad,12,91912.0,6962.0,25.1,581.0,0,Never,Good,No
+CUST_0559,25.0,Female,Bachelor,Private,Karachi,0,33870.0,2542.0,27.4,659.0,3,Former,Good,No
+CUST_0560,55.0,Female,Master,Government,Lahore,36,59096.0,2280.0,31.3,584.0,3,,Poor,No
+CUST_0561,32.0,Female,High School,Government,Lahore,14,20676.0,7691.0,20.5,783.0,3,Never,,No
+CUST_0562,45.0,Female,Master,Private,Lahore,23,140197.0,5932.0,30.5,717.0,1,Current,Average,Yes
+CUST_0563,41.0,,Bachelor,Self-Employed,Rawalpindi,21,100068.0,5500.0,29.5,620.0,3,Current,Average,Yes
+CUST_0564,56.0,Male,Bachelor,Government,Islamabad,36,233879.0,2592.0,32.7,768.0,0,Former,Good,Yes
+CUST_0565,43.0,Female,Bachelor,Self-Employed,Karachi,21,107592.0,11156.0,23.6,753.0,2,Current,Poor,Yes
+CUST_0566,36.0,Male,PhD,,Lahore,12,27686.0,4276.0,27.0,702.0,3,Never,Good,No
+CUST_0567,59.0,Female,Master,Self-Employed,Peshawar,32,74441.0,25214.0,28.0,677.0,3,Never,Good,No
+CUST_0568,65.0,Female,Bachelor,Private,Islamabad,40,31104.0,4774.0,30.5,658.0,2,Never,Good,Yes
+CUST_0569,62.0,Female,High School,Private,Peshawar,43,122752.0,735.0,29.1,640.0,0,Current,Average,No
+CUST_0570,59.0,Female,Bachelor,Private,Islamabad,30,28124.0,711.0,21.1,580.0,1,Never,Average,Yes
+CUST_0571,34.0,Male,Bachelor,,Lahore,13,27391.0,,28.4,795.0,3,Current,Average,No
+CUST_0572,51.0,Female,High School,Self-Employed,Islamabad,27,21260.0,11219.0,36.6,641.0,2,Never,Excellent,Yes
+CUST_0573,25.0,Female,Bachelor,Private,Islamabad,0,39395.0,2350.0,29.9,682.0,0,Former,,No
+CUST_0574,55.0,Female,Master,Private,Lahore,38,35270.0,20450.0,34.9,612.0,4,Never,Average,No
+CUST_0575,43.0,Female,Master,Self-Employed,Peshawar,16,25748.0,14724.0,,661.0,1,Never,,No
+CUST_0576,49.0,Male,Bachelor,Government,Peshawar,32,,4954.0,,850.0,2,Former,Good,No
+CUST_0577,63.0,Female,Bachelor,Self-Employed,Rawalpindi,42,68971.0,6340.0,28.5,626.0,2,Never,Good,No
+CUST_0578,31.0,Female,PhD,Private,Peshawar,0,,8274.0,29.5,789.0,2,Current,Excellent,No
+CUST_0579,38.0,Male,Master,Self-Employed,Peshawar,11,123505.0,17457.0,28.2,678.0,3,Former,Average,No
+CUST_0580,32.0,Female,Master,Private,Islamabad,12,59334.0,,27.0,731.0,4,Never,Average,No
+CUST_0581,29.0,Female,,Unemployed,Rawalpindi,5,34140.0,4870.0,30.6,773.0,1,Current,Poor,No
+CUST_0582,30.0,Female,,Government,Lahore,7,20229.0,7004.0,24.5,700.0,0,Former,,No
+CUST_0583,64.0,Male,High School,Self-Employed,Lahore,40,,6330.0,36.0,654.0,0,Former,Good,Yes
+CUST_0584,37.0,Female,Bachelor,Private,Karachi,10,117946.0,8462.0,22.5,666.0,4,Never,Average,Yes
+CUST_0585,58.0,Female,,Private,Rawalpindi,35,25837.0,1303.0,30.9,669.0,2,Never,Good,Yes
+CUST_0586,27.0,Female,Bachelor,Private,Islamabad,8,62581.0,5361.0,33.6,820.0,2,Former,Poor,Yes
+CUST_0587,,Male,High School,Private,Karachi,12,91004.0,5975.0,26.2,569.0,2,Current,Average,No
+CUST_0588,60.0,Male,Bachelor,Private,Karachi,34,60291.0,4005.0,21.7,547.0,2,Never,Good,No
+CUST_0589,62.0,Female,,Self-Employed,Lahore,42,64180.0,7617.0,32.5,552.0,2,Never,Average,Yes
+CUST_0590,29.0,Female,PhD,Private,Peshawar,0,73908.0,,28.0,613.0,4,Former,Good,No
+CUST_0591,47.0,Male,Bachelor,Self-Employed,Islamabad,23,63488.0,4692.0,30.9,733.0,3,Never,Excellent,No
+CUST_0592,22.0,Male,Bachelor,Private,Rawalpindi,2,,7107.0,26.5,737.0,1,Former,Good,No
+CUST_0593,25.0,Male,Master,Private,Karachi,0,29081.0,14111.0,35.3,634.0,2,Former,Average,Yes
+CUST_0594,49.0,Female,Bachelor,Self-Employed,Islamabad,29,58820.0,4775.0,17.0,678.0,3,Never,Excellent,No
+CUST_0595,57.0,Male,High School,Self-Employed,Lahore,36,18958.0,2173.0,28.8,596.0,0,Current,Poor,Yes
+CUST_0596,58.0,Male,PhD,Private,Karachi,36,16472.0,6713.0,33.4,603.0,4,Never,,No
+CUST_0597,39.0,Male,Bachelor,Private,Karachi,17,49271.0,811.0,27.5,723.0,3,Former,Poor,Yes
+CUST_0598,28.0,Female,Bachelor,Government,Lahore,5,69484.0,755.0,28.5,759.0,2,Never,Average,No
+CUST_0599,65.0,,Bachelor,Private,Lahore,38,126357.0,5430.0,24.9,644.0,2,Never,Excellent,Yes
+CUST_0600,,Male,High School,Private,Lahore,1,195025.0,729.0,,803.0,2,Current,Average,No
+CUST_0601,42.0,Female,PhD,Government,Islamabad,21,106502.0,1578.0,19.0,752.0,3,Never,Good,Yes
+CUST_0602,37.0,Male,Bachelor,Private,Islamabad,6,76875.0,3181.0,23.6,799.0,2,Never,Average,No
+CUST_0603,27.0,Male,Bachelor,Private,Islamabad,5,56274.0,2463.0,23.2,,3,Never,Good,Yes
+CUST_0604,45.0,Female,High School,Unemployed,Peshawar,21,22199.0,3786.0,30.2,794.0,2,Never,Excellent,Yes
+CUST_0605,65.0,Male,Bachelor,Self-Employed,Karachi,42,47557.0,9746.0,,843.0,0,Never,Average,Yes
+CUST_0606,24.0,Female,Master,Private,Islamabad,0,104789.0,5059.0,24.4,649.0,0,Never,Good,No
+CUST_0607,56.0,Male,Master,Government,Peshawar,30,,2254.0,25.2,668.0,1,Current,Good,No
+CUST_0608,26.0,Female,PhD,Private,Karachi,9,25400.0,11682.0,,609.0,2,Former,Excellent,No
+CUST_0609,51.0,Male,Bachelor,Self-Employed,Islamabad,29,72237.0,1449.0,28.3,594.0,2,Never,Average,No
+CUST_0610,39.0,Female,Master,Government,Lahore,12,68914.0,4996.0,28.8,595.0,3,Former,Good,Yes
+CUST_0611,64.0,Male,Bachelor,Private,Rawalpindi,37,62470.0,1333.0,31.0,619.0,3,Never,Average,Yes
+CUST_0612,59.0,Male,Master,,Islamabad,34,50751.0,,30.1,701.0,2,Never,Average,Yes
+CUST_0613,,Female,Master,Private,Rawalpindi,21,74315.0,3331.0,29.7,622.0,1,Never,,No
+CUST_0614,30.0,Female,Bachelor,Government,Islamabad,4,75623.0,,25.4,698.0,2,Never,Good,Yes
+CUST_0615,46.0,Male,Bachelor,Self-Employed,Lahore,28,36214.0,7263.0,25.1,700.0,3,Current,Excellent,No
+CUST_0616,39.0,Female,Bachelor,Private,Rawalpindi,11,66188.0,2723.0,22.8,645.0,2,,Average,Yes
+CUST_0617,59.0,Male,Bachelor,Private,Peshawar,36,46436.0,2359.0,22.7,675.0,3,Current,Good,Yes
+CUST_0618,23.0,Female,PhD,Private,Lahore,0,22743.0,3340.0,27.9,640.0,2,Never,Good,Yes
+CUST_0619,65.0,Male,Bachelor,Private,Rawalpindi,41,37840.0,17269.0,23.5,657.0,4,Never,Average,Yes
+CUST_0620,33.0,Female,High School,Private,Rawalpindi,6,21807.0,,34.0,619.0,3,Former,Excellent,No
+CUST_0621,48.0,Male,High School,Government,Lahore,22,88349.0,2046.0,26.8,686.0,1,Former,Average,No
+CUST_0622,40.0,Male,Master,Self-Employed,Lahore,11,62676.0,7709.0,34.2,635.0,4,Never,Average,No
+CUST_0623,48.0,Male,Bachelor,Unemployed,Lahore,24,42382.0,1155.0,29.7,593.0,2,Never,Average,Yes
+CUST_0624,28.0,Male,Bachelor,Unemployed,Karachi,3,,3024.0,23.3,725.0,3,Never,Excellent,No
+CUST_0625,61.0,Female,Bachelor,Government,Peshawar,41,53498.0,2110.0,26.7,727.0,4,Current,Excellent,Yes
+CUST_0626,59.0,Female,Master,Self-Employed,Islamabad,36,23455.0,9433.0,19.0,763.0,1,Never,Average,No
+CUST_0627,21.0,Female,Bachelor,Unemployed,Rawalpindi,0,40469.0,1607.0,27.9,603.0,3,Never,Average,Yes
+CUST_0628,23.0,Male,Master,Private,Islamabad,1,126509.0,5837.0,23.7,644.0,4,Current,Good,Yes
+CUST_0629,33.0,Male,Bachelor,Private,Lahore,11,35660.0,4232.0,21.7,697.0,4,Never,Good,Yes
+CUST_0630,48.0,Female,Bachelor,Private,Peshawar,23,59956.0,3709.0,34.3,642.0,4,Never,Good,Yes
+CUST_0631,45.0,Female,High School,Government,Peshawar,18,77585.0,14819.0,31.9,723.0,0,,Excellent,Yes
+CUST_0632,53.0,Male,High School,Self-Employed,Karachi,32,71287.0,15832.0,31.8,717.0,2,Never,Good,Yes
+CUST_0633,58.0,Female,Bachelor,Private,Lahore,36,198234.0,3796.0,30.8,716.0,3,,Excellent,Yes
+CUST_0634,26.0,Female,Bachelor,,Rawalpindi,5,26985.0,3264.0,21.1,789.0,3,Never,Good,Yes
+CUST_0635,64.0,Female,Bachelor,Government,Karachi,39,28508.0,1366.0,25.1,728.0,3,Current,Average,Yes
+CUST_0636,65.0,Male,High School,Private,Lahore,47,27232.0,4217.0,25.4,692.0,4,Never,Good,No
+CUST_0637,52.0,Male,High School,Private,Karachi,27,43794.0,18306.0,18.8,665.0,2,Never,Average,Yes
+CUST_0638,65.0,Male,Master,Private,Islamabad,40,94340.0,3841.0,,671.0,1,Never,Average,Yes
+CUST_0639,41.0,Female,Bachelor,Private,Lahore,19,29218.0,7307.0,24.4,600.0,3,Former,Average,Yes
+CUST_0640,36.0,Male,Master,,Rawalpindi,12,95068.0,1483.0,27.6,548.0,2,Current,Good,No
+CUST_0641,41.0,Male,Master,Self-Employed,Rawalpindi,12,52539.0,3053.0,39.2,715.0,2,Never,Good,No
+CUST_0642,31.0,Female,Bachelor,Self-Employed,Lahore,10,28003.0,5984.0,26.9,772.0,0,Never,Good,No
+CUST_0643,57.0,Male,Master,,Karachi,30,19668.0,,27.6,655.0,3,Never,Average,No
+CUST_0644,56.0,Male,Bachelor,Self-Employed,Peshawar,29,22244.0,7852.0,25.8,799.0,4,Never,Good,Yes
+CUST_0645,,Female,Bachelor,Government,Lahore,28,35731.0,2692.0,30.5,667.0,2,Former,Average,Yes
+CUST_0646,39.0,Female,Bachelor,Government,Rawalpindi,9,46956.0,1139.0,21.8,,2,Never,Good,Yes
+CUST_0647,40.0,Female,Bachelor,Government,Islamabad,22,108048.0,9814.0,36.1,749.0,1,Never,Average,No
+CUST_0648,38.0,Male,Bachelor,Government,Rawalpindi,12,79977.0,2096.0,26.4,644.0,0,,Good,No
+CUST_0649,61.0,Female,Bachelor,Private,Peshawar,39,32487.0,6185.0,25.1,756.0,2,Never,Good,No
+CUST_0650,34.0,Female,Bachelor,Self-Employed,Rawalpindi,7,64522.0,5932.0,31.7,584.0,2,Never,Good,Yes
+CUST_0651,35.0,Male,High School,Private,Peshawar,13,127816.0,1215.0,22.7,711.0,4,Never,Good,Yes
+CUST_0652,51.0,Female,High School,Government,Lahore,22,144445.0,,30.5,620.0,4,Current,Good,Yes
+CUST_0653,21.0,Male,High School,Private,Rawalpindi,0,43351.0,2766.0,33.7,695.0,1,Never,Poor,Yes
+CUST_0654,23.0,Male,High School,Private,Karachi,2,87296.0,4409.0,,737.0,1,Current,Good,No
+CUST_0655,36.0,Male,Bachelor,Unemployed,Karachi,9,110689.0,3234.0,36.9,720.0,1,,,Yes
+CUST_0656,43.0,Male,Bachelor,Private,Rawalpindi,22,22496.0,14285.0,30.1,685.0,4,Former,Good,No
+CUST_0657,31.0,,High School,Private,Rawalpindi,8,38878.0,11587.0,30.2,,4,Never,Average,Yes
+CUST_0658,,Female,Master,,Islamabad,11,174732.0,1087.0,33.6,735.0,0,Former,Excellent,No
+CUST_0659,30.0,Male,Master,Self-Employed,Rawalpindi,8,43671.0,23020.0,34.8,757.0,3,Never,Average,Yes
+CUST_0660,52.0,Female,Bachelor,Government,Islamabad,32,10292.0,2543.0,28.3,602.0,3,Never,Average,No
+CUST_0661,36.0,Female,Master,Government,Islamabad,8,48217.0,20472.0,30.8,613.0,0,Former,Excellent,No
+CUST_0662,28.0,Male,Bachelor,Self-Employed,Islamabad,2,95659.0,3491.0,33.7,761.0,3,Former,Good,Yes
+CUST_0663,58.0,Male,High School,Private,Islamabad,35,51719.0,3276.0,,664.0,4,Never,Poor,Yes
+CUST_0664,32.0,Female,PhD,Private,Lahore,12,76378.0,3514.0,18.7,615.0,3,Never,Excellent,Yes
+CUST_0665,44.0,Female,High School,Private,Karachi,25,86338.0,,26.7,700.0,4,Never,Average,No
+CUST_0666,48.0,Male,PhD,,Islamabad,27,42395.0,28094.0,18.6,632.0,0,Never,Good,Yes
+CUST_0667,28.0,Male,Bachelor,Government,Karachi,3,38729.0,3995.0,25.5,692.0,1,Never,Good,No
+CUST_0668,48.0,Female,Bachelor,,Islamabad,25,56072.0,3372.0,28.5,649.0,0,,Good,No
+CUST_0669,56.0,Male,Bachelor,Private,Karachi,31,56828.0,4482.0,25.7,655.0,3,Never,Good,No
+CUST_0670,46.0,Female,Bachelor,Private,Rawalpindi,19,53090.0,2048.0,26.3,763.0,4,Never,Average,No
+CUST_0671,28.0,Female,High School,Government,Rawalpindi,8,54303.0,14014.0,22.2,495.0,3,Never,Average,Yes
+CUST_0672,48.0,Male,Bachelor,Private,Karachi,23,34143.0,1403.0,30.8,722.0,3,Former,Good,Yes
+CUST_0673,48.0,Male,Master,Private,Islamabad,27,,,21.9,751.0,1,Current,Average,Yes
+CUST_0674,57.0,,Bachelor,Private,Lahore,33,71652.0,8540.0,17.0,633.0,3,Never,Excellent,Yes
+CUST_0675,61.0,Female,Bachelor,Self-Employed,Karachi,38,24716.0,,26.0,750.0,1,,Good,Yes
+CUST_0676,56.0,,Bachelor,Self-Employed,Peshawar,35,41604.0,6386.0,31.4,608.0,4,Former,Average,No
+CUST_0677,47.0,Male,Master,Private,Lahore,24,54241.0,13358.0,27.4,631.0,4,Current,Good,Yes
+CUST_0678,37.0,Female,Bachelor,Self-Employed,Peshawar,19,38412.0,8981.0,,622.0,1,Current,Average,Yes
+CUST_0679,29.0,,Bachelor,,Karachi,9,73171.0,4690.0,27.5,751.0,0,Former,Average,Yes
+CUST_0680,53.0,Male,PhD,Unemployed,Islamabad,34,49673.0,20272.0,29.1,549.0,4,Never,Average,Yes
+CUST_0681,40.0,Female,Bachelor,Private,Peshawar,12,56556.0,2641.0,27.4,803.0,0,Never,Excellent,No
+CUST_0682,33.0,Male,Bachelor,Government,Karachi,9,,3924.0,25.7,657.0,4,Never,Average,Yes
+CUST_0683,48.0,Female,Master,Government,Lahore,23,17218.0,4135.0,29.3,726.0,4,Current,Average,No
+CUST_0684,49.0,Female,Master,Private,Islamabad,28,16686.0,3917.0,18.7,720.0,2,Current,Average,Yes
+CUST_0685,33.0,Male,Bachelor,Self-Employed,Peshawar,4,,1897.0,22.7,691.0,3,Former,Poor,Yes
+CUST_0686,55.0,Male,High School,Private,Karachi,32,59683.0,1290.0,20.7,635.0,3,,,No
+CUST_0687,26.0,Male,Master,Private,Islamabad,1,65596.0,5784.0,33.5,773.0,0,Current,Good,No
+CUST_0688,38.0,Female,Bachelor,Private,Islamabad,20,55490.0,2630.0,30.4,641.0,3,Never,Excellent,No
+CUST_0689,25.0,,PhD,Private,Rawalpindi,0,57989.0,17692.0,27.9,625.0,0,Former,Average,Yes
+CUST_0690,45.0,Female,High School,Private,Islamabad,17,87813.0,,20.0,746.0,4,Never,Good,Yes
+CUST_0691,22.0,Female,Bachelor,Private,Karachi,0,65811.0,3503.0,30.6,691.0,2,Never,Excellent,Yes
+CUST_0692,30.0,Male,High School,Self-Employed,Lahore,7,91354.0,9612.0,33.7,782.0,2,Never,Average,No
+CUST_0693,50.0,Female,Master,Self-Employed,Rawalpindi,26,56631.0,5720.0,29.7,675.0,4,Never,Average,Yes
+CUST_0694,65.0,Male,Master,Private,Karachi,41,43686.0,3708.0,26.8,631.0,1,Former,Excellent,No
+CUST_0695,25.0,Female,Master,Government,Karachi,5,57343.0,2616.0,30.0,701.0,1,Never,Good,No
+CUST_0696,53.0,Female,PhD,Self-Employed,Karachi,26,32536.0,65728.0,28.3,646.0,3,,Average,Yes
+CUST_0697,21.0,Male,High School,Private,Peshawar,0,41818.0,5549.0,31.4,633.0,0,,Average,No
+CUST_0698,38.0,Male,High School,Private,Peshawar,17,56821.0,9541.0,31.3,742.0,2,Never,Poor,No
+CUST_0699,52.0,Female,Master,Self-Employed,Lahore,24,56408.0,1964.0,25.9,817.0,3,Current,Average,Yes
+CUST_0700,31.0,Female,Master,Government,Karachi,4,48604.0,2742.0,23.8,662.0,4,Former,Good,No
+CUST_0701,41.0,Female,Master,Private,Peshawar,12,24017.0,20625.0,25.1,607.0,2,Never,Good,No
+CUST_0702,46.0,Male,Master,Private,Peshawar,23,73132.0,12061.0,,668.0,0,Never,Good,No
+CUST_0703,45.0,Male,Bachelor,Government,Peshawar,23,81538.0,5962.0,25.4,719.0,0,,Average,Yes
+CUST_0704,42.0,Male,Bachelor,,Lahore,24,127265.0,3177.0,23.4,699.0,1,Current,Average,Yes
+CUST_0705,47.0,Female,PhD,Private,Lahore,19,65708.0,3549.0,27.0,770.0,3,Former,Poor,Yes
+CUST_0706,33.0,Male,Bachelor,Unemployed,Karachi,6,51576.0,2548.0,32.3,730.0,4,Never,Good,No
+CUST_0707,53.0,Male,Bachelor,Private,Rawalpindi,31,29520.0,1776.0,27.6,597.0,2,,Good,Yes
+CUST_0708,54.0,Female,Master,Private,Karachi,30,117080.0,8458.0,25.7,643.0,0,Current,Average,Yes
+CUST_0709,61.0,Female,Bachelor,Private,Peshawar,38,59060.0,6337.0,28.5,,2,,Average,Yes
+CUST_0710,55.0,Male,Master,Government,Peshawar,35,57317.0,7347.0,,766.0,4,Current,Good,Yes
+CUST_0711,21.0,Male,High School,Private,Islamabad,0,44814.0,3286.0,17.7,531.0,2,Never,Good,No
+CUST_0712,41.0,Female,Master,Private,Karachi,17,43266.0,5124.0,30.3,584.0,3,Current,Average,Yes
+CUST_0713,26.0,Male,Bachelor,Self-Employed,Peshawar,2,75248.0,3059.0,29.0,642.0,1,Former,Average,Yes
+CUST_0714,48.0,Male,Bachelor,Unemployed,Peshawar,22,29384.0,2452.0,27.1,,2,Former,Average,No
+CUST_0715,37.0,Male,Bachelor,Private,Rawalpindi,6,125994.0,14769.0,32.1,641.0,1,Never,Good,Yes
+CUST_0716,25.0,Female,,Private,Islamabad,7,111763.0,4634.0,32.8,653.0,4,Current,Good,No
+CUST_0717,51.0,Female,Bachelor,Self-Employed,Karachi,28,42415.0,6189.0,30.8,654.0,1,Former,Good,No
+CUST_0718,25.0,Male,Bachelor,Government,Lahore,8,32044.0,7917.0,22.9,693.0,2,Current,Excellent,No
+CUST_0719,58.0,Male,Bachelor,Private,Karachi,29,17011.0,4678.0,23.1,588.0,2,Never,Excellent,Yes
+CUST_0720,23.0,Female,Bachelor,Unemployed,Karachi,0,25893.0,5067.0,32.4,609.0,0,Never,Average,No
+CUST_0721,43.0,Female,High School,Private,Rawalpindi,17,76992.0,1873.0,18.0,806.0,2,Never,Average,Yes
+CUST_0722,57.0,Female,High School,Government,Karachi,35,61294.0,2160.0,26.3,710.0,1,Never,Good,Yes
+CUST_0723,57.0,Female,Master,Private,Rawalpindi,29,67610.0,2078.0,29.1,737.0,0,Never,Poor,Yes
+CUST_0724,30.0,Female,High School,Government,Rawalpindi,4,18675.0,6661.0,18.6,684.0,2,Never,Good,Yes
+CUST_0725,30.0,Female,Master,Private,Peshawar,9,41452.0,4461.0,28.1,669.0,2,Never,Excellent,No
+CUST_0726,39.0,Male,Master,Self-Employed,Lahore,17,109316.0,2160.0,31.6,714.0,4,Current,Good,Yes
+CUST_0727,37.0,Male,Master,Unemployed,Rawalpindi,20,48883.0,6536.0,19.9,735.0,0,Never,Average,No
+CUST_0728,41.0,Male,Master,Private,Islamabad,18,25597.0,6359.0,35.0,743.0,4,Never,Average,No
+CUST_0729,34.0,Female,High School,Government,Islamabad,10,48466.0,2512.0,22.2,671.0,4,Current,Average,No
+CUST_0730,29.0,Female,Master,Private,Lahore,8,33723.0,4143.0,29.8,752.0,4,Never,Good,Yes
+CUST_0731,21.0,Female,Bachelor,Self-Employed,Rawalpindi,0,61915.0,6376.0,26.6,495.0,3,Former,Average,No
+CUST_0732,65.0,Male,Master,Unemployed,Lahore,34,52120.0,2222.0,27.3,747.0,4,,Poor,Yes
+CUST_0733,33.0,Male,Master,Self-Employed,Peshawar,10,69481.0,6468.0,20.8,648.0,1,Never,Average,No
+CUST_0734,24.0,Male,High School,Government,Islamabad,5,26374.0,5302.0,33.1,722.0,2,Never,Excellent,No
+CUST_0735,21.0,Male,Bachelor,Unemployed,Karachi,0,40264.0,1999.0,28.6,631.0,3,,Good,Yes
+CUST_0736,60.0,Female,Bachelor,Private,Islamabad,30,93877.0,,34.8,580.0,4,Current,Excellent,Yes
+CUST_0737,52.0,Female,Master,Private,Rawalpindi,30,24469.0,5565.0,21.0,705.0,2,Never,Good,No
+CUST_0738,54.0,Male,Bachelor,Government,Lahore,28,29682.0,2645.0,26.1,567.0,0,Never,Good,Yes
+CUST_0739,48.0,Male,Bachelor,Government,Islamabad,20,57504.0,2806.0,28.0,650.0,0,Former,Average,Yes
+CUST_0740,51.0,Female,Bachelor,Self-Employed,Karachi,23,60337.0,1986.0,27.3,619.0,2,Never,Average,Yes
+CUST_0741,28.0,Male,Bachelor,Government,Karachi,2,39385.0,3021.0,30.2,667.0,1,Never,Good,No
+CUST_0742,59.0,Female,PhD,Private,Lahore,33,44217.0,4192.0,26.1,740.0,2,Current,Excellent,Yes
+CUST_0743,46.0,Male,,Private,Lahore,23,69098.0,2812.0,37.2,643.0,2,Never,Average,No
+CUST_0744,54.0,,Bachelor,Private,Islamabad,36,82232.0,1389.0,27.2,,3,Current,Average,Yes
+CUST_0745,23.0,Male,High School,Government,Rawalpindi,0,28622.0,2524.0,17.0,735.0,0,Never,,No
+CUST_0746,32.0,Male,High School,Private,Peshawar,9,62968.0,3093.0,27.4,634.0,0,Former,Average,No
+CUST_0747,21.0,Female,Bachelor,Private,Karachi,0,118375.0,,33.1,636.0,4,Never,Good,Yes
+CUST_0748,64.0,Male,Master,Government,Lahore,45,48352.0,6608.0,22.6,783.0,2,Never,Average,No
+CUST_0749,25.0,Male,Bachelor,Self-Employed,Peshawar,2,28455.0,,22.3,674.0,2,,Average,No
+CUST_0750,50.0,Male,Bachelor,Unemployed,Peshawar,27,27741.0,2430.0,23.0,718.0,1,Current,Average,Yes
+CUST_0751,50.0,Male,Master,Unemployed,Peshawar,30,47174.0,4704.0,21.8,718.0,0,Former,Good,No
+CUST_0752,37.0,Male,PhD,Self-Employed,Rawalpindi,9,91100.0,687.0,24.7,590.0,1,Former,Good,Yes
+CUST_0753,,Female,Bachelor,Private,Lahore,18,50392.0,5835.0,31.4,623.0,3,Current,Average,Yes
+CUST_0754,35.0,Female,High School,Self-Employed,Karachi,15,57187.0,6689.0,34.3,708.0,4,Never,Excellent,Yes
+CUST_0755,57.0,Female,Bachelor,Private,Lahore,39,29793.0,3250.0,17.0,525.0,1,Never,Average,Yes
+CUST_0756,41.0,Male,Master,Self-Employed,Islamabad,16,88496.0,5279.0,25.2,,0,Never,Poor,No
+CUST_0757,,Male,PhD,Government,Karachi,10,27444.0,1358.0,,615.0,3,Former,Good,Yes
+CUST_0758,22.0,Male,High School,Self-Employed,Lahore,0,39047.0,2320.0,28.0,,2,Current,Average,No
+CUST_0759,,Male,High School,Private,Karachi,1,72872.0,7511.0,36.1,706.0,3,Former,Good,No
+CUST_0760,59.0,Female,Master,Private,Islamabad,37,16786.0,6207.0,17.3,,1,Current,Excellent,Yes
+CUST_0761,58.0,Female,Master,Government,Karachi,37,56708.0,3106.0,17.0,677.0,0,Former,Good,No
+CUST_0762,54.0,,PhD,Private,Peshawar,26,29100.0,7774.0,36.9,,1,Never,Good,No
+CUST_0763,58.0,Male,Bachelor,Unemployed,Rawalpindi,31,52005.0,4693.0,30.6,657.0,2,Never,Good,Yes
+CUST_0764,54.0,Male,Bachelor,Government,Islamabad,32,42462.0,2898.0,24.3,642.0,2,Current,,No
+CUST_0765,38.0,Female,High School,Government,Karachi,14,164096.0,3688.0,27.8,850.0,0,Never,Average,No
+CUST_0766,50.0,Male,High School,Unemployed,Islamabad,22,41514.0,3006.0,28.2,741.0,4,Never,Average,Yes
+CUST_0767,35.0,Male,Bachelor,Government,Peshawar,18,141982.0,,24.1,600.0,3,Never,Excellent,No
+CUST_0768,47.0,Female,Bachelor,Private,Rawalpindi,30,71170.0,10856.0,27.7,850.0,3,,Average,Yes
+CUST_0769,54.0,Female,High School,Private,Islamabad,36,33163.0,2763.0,28.7,650.0,2,Former,Good,Yes
+CUST_0770,58.0,Female,Master,Government,Peshawar,34,61818.0,2266.0,36.7,704.0,1,Never,,Yes
+CUST_0771,53.0,Male,High School,Self-Employed,Peshawar,29,43590.0,1343.0,31.6,750.0,1,Current,Good,No
+CUST_0772,44.0,Male,Master,Self-Employed,Peshawar,14,58876.0,586.0,35.3,565.0,4,Never,Excellent,No
+CUST_0773,35.0,Male,Bachelor,Unemployed,Karachi,12,34800.0,7159.0,20.6,618.0,1,Former,Good,No
+CUST_0774,50.0,Female,Master,Private,Lahore,22,130561.0,7671.0,25.3,804.0,3,,Average,No
+CUST_0775,62.0,Male,High School,Private,Islamabad,34,85731.0,10350.0,28.2,,1,Former,Good,No
+CUST_0776,37.0,Female,Master,Private,Lahore,19,52443.0,3783.0,17.8,755.0,4,Current,Average,Yes
+CUST_0777,25.0,Female,High School,Self-Employed,Peshawar,0,133387.0,3323.0,,646.0,3,Never,Average,Yes
+CUST_0778,49.0,Female,Bachelor,Private,Lahore,28,53683.0,2891.0,30.1,673.0,1,Never,Good,Yes
+CUST_0779,24.0,Male,Master,Private,Peshawar,0,94249.0,,25.2,814.0,3,Never,Good,No
+CUST_0780,30.0,Male,High School,,Peshawar,3,52631.0,9797.0,26.1,713.0,2,Current,Excellent,No
+CUST_0781,37.0,,Bachelor,Private,Rawalpindi,10,64000.0,4147.0,33.0,,2,Current,Excellent,Yes
+CUST_0782,30.0,Female,Master,Self-Employed,Rawalpindi,10,49277.0,5617.0,23.2,629.0,2,Never,Excellent,No
+CUST_0783,37.0,,Master,Government,Lahore,13,54307.0,3037.0,33.2,636.0,1,Former,Poor,No
+CUST_0784,40.0,Male,High School,Private,Islamabad,14,56602.0,11392.0,25.8,773.0,4,Never,Good,Yes
+CUST_0785,44.0,Male,High School,Private,Lahore,13,35655.0,1014.0,30.6,737.0,3,Never,Good,Yes
+CUST_0786,25.0,Female,High School,Self-Employed,Islamabad,0,41333.0,1694.0,27.4,594.0,0,Former,,No
+CUST_0787,54.0,Male,High School,Private,Lahore,29,45743.0,5624.0,37.7,687.0,2,Never,Average,Yes
+CUST_0788,26.0,Female,PhD,Private,Karachi,5,58474.0,15724.0,22.7,675.0,2,Never,Average,No
+CUST_0789,22.0,Female,Bachelor,,Karachi,0,,3573.0,,,0,Former,Excellent,No
+CUST_0790,33.0,Male,Bachelor,Private,Islamabad,9,98240.0,2249.0,19.8,635.0,0,Former,Average,Yes
+CUST_0791,63.0,Male,PhD,Self-Employed,Rawalpindi,39,82118.0,8960.0,21.7,762.0,1,Never,Good,Yes
+CUST_0792,63.0,Female,Bachelor,Private,Islamabad,36,,5393.0,30.4,680.0,3,Former,Average,No
+CUST_0793,31.0,Male,Master,,Lahore,9,110192.0,11133.0,34.7,708.0,2,Never,Average,Yes
+CUST_0794,43.0,Female,Bachelor,Private,Peshawar,18,144374.0,1607.0,31.0,621.0,4,Never,Good,No
+CUST_0795,36.0,Female,Bachelor,Self-Employed,Karachi,10,16746.0,10496.0,27.0,625.0,1,Former,,No
+CUST_0796,51.0,Female,Bachelor,Self-Employed,Peshawar,25,86057.0,1324.0,22.7,850.0,1,Never,Good,No
+CUST_0797,31.0,,High School,Government,Karachi,9,35202.0,3408.0,,815.0,4,Never,Poor,No
+CUST_0798,36.0,Male,Bachelor,Government,Lahore,7,80050.0,5765.0,22.4,675.0,4,Never,Average,No
+CUST_0799,28.0,Male,High School,Private,Karachi,8,101827.0,4863.0,20.5,795.0,4,Current,Average,Yes
+CUST_0800,24.0,Female,High School,Government,Islamabad,1,31814.0,9372.0,25.5,771.0,0,Never,Good,No
+CUST_0801,60.0,Male,Bachelor,,Peshawar,37,18606.0,1075.0,17.2,633.0,2,Never,Average,No
+CUST_0802,24.0,Female,Bachelor,Private,Peshawar,3,81592.0,4702.0,20.4,626.0,0,Never,Good,Yes
+CUST_0803,45.0,Female,Bachelor,Self-Employed,Lahore,18,55518.0,10402.0,36.1,730.0,2,Never,Good,No
+CUST_0804,23.0,Male,Bachelor,Private,Peshawar,0,20586.0,4423.0,19.5,700.0,0,Former,Good,No
+CUST_0805,52.0,Male,,Self-Employed,Lahore,32,207163.0,,21.3,650.0,3,Never,Good,No
+CUST_0806,23.0,Female,High School,Private,Rawalpindi,0,72652.0,9006.0,27.3,734.0,2,Current,Average,No
+CUST_0807,47.0,Female,Bachelor,Government,Islamabad,24,74500.0,2601.0,27.6,572.0,1,Former,Average,Yes
+CUST_0808,49.0,Male,Master,Unemployed,Karachi,29,109229.0,2280.0,25.9,689.0,2,Former,Good,No
+CUST_0809,,Female,,Self-Employed,Karachi,30,37442.0,2074.0,17.4,587.0,2,Never,Poor,Yes
+CUST_0810,39.0,Female,Master,Government,Karachi,14,55368.0,3645.0,31.1,590.0,2,Never,Excellent,No
+CUST_0811,41.0,Female,Master,Self-Employed,Rawalpindi,11,24944.0,4853.0,24.9,627.0,3,Never,Good,Yes
+CUST_0812,25.0,Male,High School,Unemployed,Islamabad,4,36888.0,1633.0,32.9,707.0,0,Never,Average,No
+CUST_0813,38.0,Male,High School,Private,Peshawar,20,,1905.0,23.9,629.0,1,Never,Good,No
+CUST_0814,48.0,Female,PhD,Government,Peshawar,27,20622.0,,31.7,589.0,0,Former,Excellent,No
+CUST_0815,62.0,Female,,Private,Islamabad,45,36317.0,2067.0,33.2,716.0,0,Never,Average,Yes
+CUST_0816,42.0,Male,Master,Private,Islamabad,18,30935.0,4348.0,24.8,792.0,4,Never,Good,No
+CUST_0817,41.0,Female,Bachelor,Private,Karachi,10,55723.0,5546.0,31.2,728.0,3,Never,,Yes
+CUST_0818,26.0,Female,Bachelor,Private,Peshawar,0,70692.0,5004.0,20.6,815.0,4,Never,Good,No
+CUST_0819,21.0,Male,High School,Government,Islamabad,0,77512.0,5009.0,28.3,786.0,3,Current,Excellent,Yes
+CUST_0820,25.0,Female,Bachelor,Self-Employed,Peshawar,0,89264.0,14813.0,32.9,643.0,0,Never,Good,Yes
+CUST_0821,61.0,Female,Bachelor,Self-Employed,Islamabad,35,109608.0,5812.0,29.5,727.0,0,Current,Good,Yes
+CUST_0822,32.0,Male,Master,Government,Lahore,6,71969.0,7616.0,38.5,673.0,3,Never,Excellent,Yes
+CUST_0823,46.0,Male,PhD,Private,Karachi,17,,3100.0,29.8,760.0,0,Current,Good,No
+CUST_0824,54.0,Female,Master,Private,Islamabad,36,55035.0,8587.0,25.2,673.0,0,Never,Good,Yes
+CUST_0825,34.0,Male,Bachelor,Private,Rawalpindi,4,46848.0,2991.0,40.6,621.0,1,Current,Good,Yes
+CUST_0826,46.0,Male,Master,Government,Islamabad,19,71971.0,5759.0,34.8,783.0,4,Never,Good,Yes
+CUST_0827,65.0,Female,Master,Private,Lahore,40,45751.0,1512.0,19.3,704.0,4,Never,Good,Yes
+CUST_0828,47.0,Female,PhD,Government,Rawalpindi,27,142759.0,4792.0,,,4,Never,Excellent,No
+CUST_0829,29.0,Female,Bachelor,Unemployed,Rawalpindi,4,95994.0,2035.0,22.0,643.0,2,Never,Good,No
+CUST_0830,46.0,Female,Master,Self-Employed,Islamabad,21,77859.0,8536.0,30.1,630.0,1,,Good,No
+CUST_0831,42.0,Male,Bachelor,Self-Employed,Lahore,15,55397.0,8159.0,29.7,605.0,4,Former,Average,No
+CUST_0832,50.0,,Bachelor,Self-Employed,Rawalpindi,27,41187.0,2981.0,29.7,644.0,4,Never,Good,No
+CUST_0833,63.0,Male,,Private,Karachi,39,75791.0,19677.0,19.2,,1,Never,,No
+CUST_0834,37.0,Male,,Private,Karachi,19,27725.0,3414.0,23.9,685.0,0,Former,Good,No
+CUST_0835,46.0,Female,High School,Self-Employed,Peshawar,22,119838.0,1263.0,26.3,647.0,4,Never,Average,No
+CUST_0836,56.0,Female,Master,Self-Employed,Peshawar,27,46737.0,2358.0,18.3,792.0,0,Never,Excellent,No
+CUST_0837,21.0,Male,High School,Government,Lahore,0,60950.0,1933.0,22.8,529.0,4,Current,Poor,No
+CUST_0838,,Male,,Private,Rawalpindi,4,31248.0,5623.0,33.5,703.0,3,Current,Average,Yes
+CUST_0839,55.0,Male,Master,Government,Karachi,30,76699.0,1675.0,19.5,669.0,2,Current,Good,No
+CUST_0840,35.0,Female,High School,Private,Karachi,13,40153.0,2823.0,34.0,607.0,4,Current,Good,Yes
+CUST_0841,42.0,Male,Bachelor,Private,Lahore,15,73650.0,5356.0,32.2,707.0,3,Never,Average,No
+CUST_0842,34.0,Male,Master,Private,Rawalpindi,8,78164.0,4694.0,25.6,664.0,1,Current,Good,No
+CUST_0843,46.0,Female,Bachelor,Private,Lahore,20,,4190.0,23.9,774.0,3,Never,Average,Yes
+CUST_0844,48.0,Male,PhD,Private,Islamabad,19,27780.0,4649.0,31.0,745.0,1,Never,Poor,Yes
+CUST_0845,43.0,Male,Master,Private,Karachi,17,119676.0,3204.0,23.2,823.0,4,Current,Average,No
+CUST_0846,34.0,Female,Bachelor,Self-Employed,Lahore,8,46362.0,1271.0,23.5,644.0,1,Never,Excellent,Yes
+CUST_0847,44.0,Male,High School,Government,Lahore,16,58318.0,,,785.0,3,Never,Average,No
+CUST_0848,22.0,Female,PhD,Government,Islamabad,0,67306.0,6012.0,17.0,593.0,2,Never,Average,No
+CUST_0849,65.0,Male,Bachelor,Private,Peshawar,36,25860.0,3817.0,,672.0,0,Never,Good,No
+CUST_0850,46.0,Male,High School,Unemployed,Karachi,19,66467.0,5674.0,25.5,645.0,0,Never,Average,No
+CUST_0851,34.0,Male,Master,Private,Lahore,8,,2724.0,29.3,725.0,2,Never,Good,Yes
+CUST_0852,27.0,Female,Master,Private,Karachi,8,36173.0,8917.0,23.2,723.0,0,Never,Excellent,No
+CUST_0853,23.0,Female,Master,Government,Peshawar,0,27280.0,622.0,26.1,612.0,4,Never,Good,No
+CUST_0854,43.0,Female,Bachelor,Private,Lahore,19,71915.0,4704.0,19.3,729.0,4,Never,Average,No
+CUST_0855,63.0,Female,Master,Government,Islamabad,39,95821.0,11634.0,31.5,651.0,3,Never,Good,Yes
+CUST_0856,65.0,Female,Master,Government,Karachi,44,56853.0,13007.0,28.1,619.0,3,Current,Good,No
+CUST_0857,38.0,Male,Master,Unemployed,Islamabad,9,23413.0,3555.0,28.5,679.0,1,Never,Average,No
+CUST_0858,,Male,PhD,Self-Employed,Peshawar,39,28810.0,1565.0,29.3,569.0,3,Current,Poor,Yes
+CUST_0859,55.0,Male,,Unemployed,Peshawar,33,40633.0,11788.0,27.4,750.0,4,Never,Good,Yes
+CUST_0860,35.0,Male,Master,Private,Karachi,10,121849.0,4069.0,24.7,676.0,3,Never,Poor,No
+CUST_0861,45.0,Male,PhD,Self-Employed,Peshawar,14,44994.0,3755.0,,677.0,0,Never,Excellent,Yes
+CUST_0862,57.0,Male,High School,Private,Rawalpindi,28,39826.0,2165.0,27.8,673.0,1,Never,Good,No
+CUST_0863,48.0,Male,High School,Government,Karachi,28,20529.0,1657.0,26.2,804.0,1,Never,Average,Yes
+CUST_0864,30.0,Male,Master,Self-Employed,Rawalpindi,10,35912.0,6457.0,27.0,794.0,4,Never,Average,Yes
+CUST_0865,59.0,Male,High School,Private,Peshawar,37,26157.0,6991.0,26.9,781.0,3,Never,Excellent,No
+CUST_0866,37.0,Female,High School,Government,Karachi,10,29681.0,4920.0,26.2,674.0,0,Never,Average,No
+CUST_0867,59.0,Female,High School,Private,Rawalpindi,37,55049.0,2385.0,29.1,596.0,3,Former,Good,Yes
+CUST_0868,42.0,Male,Bachelor,Private,Peshawar,14,41331.0,1903.0,,679.0,2,Current,Average,No
+CUST_0869,46.0,Male,Bachelor,Unemployed,Lahore,26,131232.0,1445.0,22.9,704.0,3,Never,Excellent,No
+CUST_0870,64.0,Male,Bachelor,Private,Lahore,40,93237.0,2778.0,29.7,741.0,4,Former,Good,Yes
+CUST_0871,45.0,Female,PhD,,Islamabad,27,36869.0,1989.0,26.3,703.0,3,Former,Poor,Yes
+CUST_0872,37.0,Male,Master,Private,Lahore,14,31124.0,1174.0,31.7,603.0,1,Never,Average,No
+CUST_0873,33.0,Female,Master,Self-Employed,Rawalpindi,13,,6895.0,29.0,640.0,0,Current,,Yes
+CUST_0874,40.0,Male,High School,,Lahore,19,128415.0,1573.0,24.3,633.0,4,Current,Excellent,Yes
+CUST_0875,45.0,Male,Master,Private,Karachi,20,15416.0,8848.0,29.8,720.0,2,Never,Average,No
+CUST_0876,24.0,Male,Master,Self-Employed,Karachi,0,54234.0,5685.0,32.7,722.0,0,Former,Good,No
+CUST_0877,30.0,Male,Master,Private,Karachi,10,44867.0,5275.0,29.1,732.0,0,Former,Average,No
+CUST_0878,23.0,Female,Bachelor,Private,Lahore,0,73645.0,14750.0,,703.0,1,Never,Excellent,Yes
+CUST_0879,61.0,Male,Bachelor,Self-Employed,Lahore,40,150012.0,1613.0,26.2,526.0,1,Never,Good,No
+CUST_0880,65.0,Female,Master,Government,Islamabad,43,39489.0,8146.0,31.8,551.0,1,Current,Average,Yes
+CUST_0881,38.0,Female,Master,Self-Employed,Peshawar,10,16591.0,3384.0,24.2,669.0,4,Former,Average,No
+CUST_0882,56.0,Female,Master,Private,Islamabad,25,70859.0,29094.0,28.6,687.0,3,Never,Poor,No
+CUST_0883,42.0,Male,Bachelor,Unemployed,Rawalpindi,17,110689.0,3179.0,39.3,,0,Never,,No
+CUST_0884,54.0,Male,Bachelor,Unemployed,Karachi,28,43605.0,,29.6,686.0,3,Current,Average,No
+CUST_0885,28.0,Male,Master,Private,Lahore,0,34969.0,5821.0,25.0,607.0,3,Never,Average,Yes
+CUST_0886,60.0,Male,High School,Private,Peshawar,40,40518.0,3617.0,25.0,730.0,1,Former,Excellent,No
+CUST_0887,64.0,Female,Master,Unemployed,Peshawar,43,82258.0,2395.0,26.7,679.0,3,Never,Good,Yes
+CUST_0888,,Male,PhD,Government,Lahore,16,40137.0,2043.0,31.1,650.0,0,Never,Good,No
+CUST_0889,62.0,Female,Master,Government,Islamabad,36,61748.0,12628.0,27.7,559.0,0,Never,,No
+CUST_0890,61.0,Male,Bachelor,Government,Peshawar,41,52328.0,1768.0,,686.0,2,Never,,Yes
+CUST_0891,57.0,Female,Bachelor,Self-Employed,Islamabad,33,49441.0,5001.0,23.9,697.0,4,Never,Average,Yes
+CUST_0892,26.0,Male,Master,Self-Employed,Lahore,0,75789.0,9341.0,27.7,,3,Former,Good,No
+CUST_0893,46.0,Male,Master,Private,Islamabad,20,39608.0,9685.0,27.2,736.0,4,Former,Good,Yes
+CUST_0894,,Female,Bachelor,Private,Karachi,30,40667.0,2694.0,29.2,729.0,4,Never,Excellent,Yes
+CUST_0895,65.0,Male,,Self-Employed,Lahore,40,,3624.0,31.4,684.0,4,Former,Average,Yes
+CUST_0896,26.0,Female,High School,Self-Employed,Lahore,6,29947.0,3133.0,40.1,681.0,4,Never,Average,Yes
+CUST_0897,57.0,Male,Master,Government,Peshawar,31,31757.0,1338.0,20.0,751.0,0,Never,Excellent,No
+CUST_0898,53.0,Male,Master,Unemployed,Peshawar,26,,6331.0,30.3,,3,Never,Average,Yes
+CUST_0899,42.0,Female,PhD,Self-Employed,Peshawar,22,82204.0,4354.0,27.5,627.0,2,Never,Average,Yes
+CUST_0900,41.0,Female,Bachelor,Private,Karachi,19,48636.0,12462.0,18.1,665.0,4,Current,,No
+CUST_0901,26.0,Male,Master,Self-Employed,Karachi,0,25022.0,2282.0,33.0,722.0,2,Former,Good,Yes
+CUST_0902,26.0,Female,Bachelor,Private,Rawalpindi,1,82421.0,9571.0,29.0,528.0,0,Never,Good,No
+CUST_0903,24.0,Female,Bachelor,Private,Lahore,0,37966.0,10091.0,30.8,610.0,0,Former,Poor,Yes
+CUST_0904,50.0,Female,Master,Private,Peshawar,27,31907.0,4382.0,18.8,731.0,1,Never,Average,No
+CUST_0905,31.0,Male,Bachelor,Self-Employed,Lahore,8,46276.0,830.0,25.9,771.0,4,Never,Good,No
+CUST_0906,,Male,Bachelor,,Islamabad,23,116227.0,2880.0,21.8,757.0,1,Never,Excellent,No
+CUST_0907,51.0,Female,Master,Private,Karachi,26,41472.0,16146.0,37.4,747.0,2,Former,Average,No
+CUST_0908,44.0,Female,Bachelor,Private,Rawalpindi,24,70717.0,5286.0,32.5,690.0,3,,Excellent,Yes
+CUST_0909,29.0,Male,High School,Government,Islamabad,5,76872.0,7116.0,,603.0,1,Current,Average,No
+CUST_0910,23.0,Male,Bachelor,Self-Employed,Lahore,4,65762.0,3957.0,19.6,665.0,0,Never,Average,No
+CUST_0911,51.0,Male,Bachelor,Self-Employed,Karachi,23,103683.0,3577.0,27.9,531.0,4,Never,Poor,Yes
+CUST_0912,60.0,Female,,Government,Peshawar,35,34929.0,1043.0,32.2,778.0,2,Current,Average,No
+CUST_0913,57.0,Male,High School,Government,Islamabad,39,29032.0,7678.0,18.7,619.0,0,Never,Average,Yes
+CUST_0914,56.0,Male,Master,Private,Karachi,34,28721.0,,22.5,,3,Current,Excellent,No
+CUST_0915,44.0,Male,High School,Private,Lahore,15,47598.0,2073.0,21.7,759.0,4,Current,Average,No
+CUST_0916,51.0,,Bachelor,Private,Lahore,27,30611.0,3699.0,31.2,559.0,3,Current,Average,Yes
+CUST_0917,26.0,Male,Bachelor,Self-Employed,Islamabad,2,55890.0,3343.0,,591.0,3,Never,Poor,No
+CUST_0918,22.0,,Master,Private,Islamabad,4,53763.0,5797.0,25.4,700.0,4,Never,Good,No
+CUST_0919,,Female,High School,Government,Islamabad,21,90239.0,,27.8,719.0,4,Former,Excellent,Yes
+CUST_0920,,Female,Master,Private,Rawalpindi,23,60484.0,8506.0,22.8,675.0,3,Never,Average,No
+CUST_0921,31.0,Male,Bachelor,Private,Peshawar,8,40991.0,4463.0,20.1,677.0,2,Never,Average,No
+CUST_0922,24.0,Male,PhD,,Karachi,0,64600.0,,33.6,775.0,4,Never,Average,No
+CUST_0923,35.0,,Master,Private,Lahore,10,29243.0,5896.0,34.0,728.0,0,Never,Good,No
+CUST_0924,26.0,Female,Master,Private,Lahore,2,50464.0,8931.0,,718.0,1,Never,Average,Yes
+CUST_0925,50.0,,Master,Self-Employed,Peshawar,30,61431.0,1783.0,28.2,738.0,2,Never,Good,Yes
+CUST_0926,58.0,Female,Master,Private,Islamabad,35,55333.0,5748.0,33.1,657.0,4,Never,Good,Yes
+CUST_0927,22.0,Female,Master,Self-Employed,Islamabad,0,64750.0,16688.0,27.8,843.0,4,Never,Good,No
+CUST_0928,35.0,Female,Bachelor,Private,Lahore,4,36162.0,4601.0,25.0,507.0,2,Never,Average,Yes
+CUST_0929,31.0,Male,High School,Government,Peshawar,7,97112.0,,27.2,789.0,1,Former,Average,Yes
+CUST_0930,28.0,Male,Bachelor,Government,Lahore,5,140392.0,3036.0,33.7,748.0,3,Former,Good,Yes
+CUST_0931,46.0,Male,Bachelor,Unemployed,Islamabad,23,21344.0,,27.3,699.0,0,Never,Good,No
+CUST_0932,65.0,Male,,Private,Karachi,44,26408.0,3628.0,,686.0,4,Never,Average,No
+CUST_0933,64.0,Female,Bachelor,Private,Islamabad,41,52770.0,3164.0,27.7,668.0,1,Never,Good,No
+CUST_0934,25.0,Male,Bachelor,Unemployed,Karachi,5,44752.0,3787.0,30.1,763.0,0,Never,Good,No
+CUST_0935,26.0,Female,Bachelor,Private,Rawalpindi,0,146243.0,1245.0,29.6,,2,Current,Average,No
+CUST_0936,46.0,,High School,Self-Employed,Peshawar,28,58156.0,3301.0,29.7,625.0,4,Former,Average,No
+CUST_0937,24.0,Male,PhD,Private,Rawalpindi,5,110846.0,11537.0,23.0,748.0,3,Current,Excellent,No
+CUST_0938,39.0,Female,PhD,Government,Islamabad,19,16697.0,2053.0,30.7,799.0,2,,Average,No
+CUST_0939,40.0,Male,PhD,Private,Peshawar,16,80643.0,1902.0,27.1,,4,Never,Excellent,Yes
+CUST_0940,53.0,Male,Bachelor,Unemployed,Islamabad,32,34768.0,4429.0,23.6,850.0,1,Former,Average,Yes
+CUST_0941,40.0,Male,Bachelor,Government,Peshawar,11,34463.0,4598.0,30.7,602.0,0,Never,Average,No
+CUST_0942,32.0,Female,PhD,Private,Peshawar,5,44954.0,5614.0,24.8,608.0,0,Never,Good,No
+CUST_0943,21.0,Male,PhD,Private,Islamabad,0,23541.0,3884.0,19.4,587.0,4,Never,Poor,Yes
+CUST_0944,46.0,,Master,Private,Islamabad,22,65745.0,4464.0,22.2,680.0,2,Never,Average,Yes
+CUST_0945,34.0,Male,Bachelor,,Peshawar,12,,3251.0,26.1,,3,Never,Average,No
+CUST_0946,58.0,Female,Bachelor,Private,Peshawar,33,,,29.8,593.0,1,Never,,No
+CUST_0947,57.0,Male,,Private,Islamabad,33,83941.0,4010.0,22.9,628.0,4,Former,Good,Yes
+CUST_0948,31.0,Female,Bachelor,Government,Islamabad,2,118555.0,7284.0,25.8,690.0,1,Current,Average,No
+CUST_0949,56.0,Female,Bachelor,Private,Lahore,28,42191.0,,21.2,698.0,0,Never,Average,Yes
+CUST_0950,33.0,Female,Master,Private,Lahore,7,67006.0,,31.7,,3,Never,Good,No
+CUST_0951,63.0,Female,Master,Private,Lahore,42,60545.0,5110.0,,771.0,1,Never,Average,No
+CUST_0952,23.0,Male,Bachelor,Self-Employed,Rawalpindi,0,63430.0,2166.0,34.7,757.0,4,Current,Average,No
+CUST_0953,53.0,Female,Bachelor,Unemployed,Peshawar,32,63955.0,12018.0,31.6,660.0,3,Never,Average,Yes
+CUST_0954,26.0,Male,PhD,Private,Karachi,4,123596.0,,31.1,542.0,2,Current,Good,Yes
+CUST_0955,30.0,Female,Bachelor,Self-Employed,Rawalpindi,3,40022.0,8285.0,17.1,540.0,4,Never,Average,Yes
+CUST_0956,25.0,Male,Master,Private,Peshawar,1,22267.0,4298.0,27.9,756.0,1,Current,Good,No
+CUST_0957,43.0,Male,Master,Private,Karachi,18,35107.0,4026.0,24.6,743.0,3,Never,Good,No
+CUST_0958,30.0,Male,Master,Government,Lahore,8,78159.0,12989.0,31.2,,4,Never,Excellent,No
+CUST_0959,64.0,Male,Master,Private,Karachi,41,52200.0,8774.0,17.0,572.0,3,Never,Good,No
+CUST_0960,22.0,Male,Bachelor,Government,Islamabad,1,39848.0,4621.0,27.9,601.0,3,Never,Average,No
+CUST_0961,33.0,Female,Bachelor,Self-Employed,Islamabad,7,28508.0,3642.0,26.0,693.0,3,Current,Good,No
+CUST_0962,60.0,Male,Bachelor,Unemployed,Peshawar,33,58204.0,1176.0,32.4,693.0,1,Former,Excellent,Yes
+CUST_0963,22.0,Male,High School,Private,Rawalpindi,3,73459.0,5396.0,34.4,758.0,4,Never,Good,Yes
+CUST_0964,40.0,Female,Bachelor,Private,Lahore,12,60976.0,3848.0,22.5,646.0,0,Current,Average,Yes
+CUST_0965,21.0,Male,High School,Unemployed,Peshawar,0,44832.0,6409.0,22.8,662.0,0,Never,Poor,No
+CUST_0966,57.0,Female,Master,Private,Lahore,35,55863.0,8049.0,28.1,764.0,1,Current,Excellent,No
+CUST_0967,29.0,Female,Bachelor,Self-Employed,Islamabad,6,55685.0,10665.0,35.3,521.0,1,Never,Average,No
+CUST_0968,37.0,Female,High School,Private,Rawalpindi,12,57201.0,5447.0,27.3,704.0,3,Current,Poor,Yes
+CUST_0969,29.0,Female,High School,Private,Rawalpindi,10,26866.0,1930.0,20.9,655.0,4,Never,Good,No
+CUST_0970,31.0,Male,Master,Private,Islamabad,3,57442.0,844.0,24.1,733.0,4,Never,Good,No
+CUST_0971,,Male,High School,Self-Employed,Karachi,9,40444.0,2279.0,28.0,718.0,2,Never,Average,No
+CUST_0972,44.0,Male,Bachelor,Self-Employed,Rawalpindi,25,91340.0,11500.0,28.2,628.0,2,Never,Good,No
+CUST_0973,58.0,Female,High School,Private,Karachi,34,55443.0,16608.0,23.6,,0,Never,Good,Yes
+CUST_0974,55.0,Male,Master,Self-Employed,Lahore,32,81594.0,3539.0,,507.0,2,Never,Good,Yes
+CUST_0975,50.0,,PhD,Private,Rawalpindi,25,43653.0,1414.0,22.3,736.0,2,Current,Good,Yes
+CUST_0976,51.0,Male,PhD,,Islamabad,30,,2601.0,32.5,698.0,0,Current,Good,No
+CUST_0977,25.0,Female,Bachelor,Self-Employed,Karachi,3,117224.0,9930.0,23.0,785.0,0,Current,Excellent,No
+CUST_0978,64.0,Male,Master,Government,Lahore,43,65512.0,2716.0,24.8,650.0,2,,Good,Yes
+CUST_0979,34.0,Female,Bachelor,Private,Lahore,11,34788.0,6580.0,24.6,749.0,4,Former,Excellent,Yes
+CUST_0980,31.0,Male,Bachelor,Private,Rawalpindi,8,84401.0,,19.3,600.0,2,Current,Average,No
+CUST_0981,29.0,Male,Bachelor,Unemployed,Rawalpindi,7,38433.0,7205.0,22.9,477.0,3,Current,,No
+CUST_0982,54.0,Male,High School,Self-Employed,Peshawar,26,58345.0,,32.9,673.0,3,Never,Poor,No
+CUST_0983,32.0,Female,Master,Self-Employed,Peshawar,10,141516.0,6584.0,21.2,637.0,3,Former,Good,No
+CUST_0984,,Female,Bachelor,Private,Rawalpindi,36,23454.0,4723.0,22.4,601.0,1,Current,Excellent,Yes
+CUST_0985,,Male,Bachelor,Self-Employed,Peshawar,28,46785.0,17967.0,20.6,747.0,3,Former,Average,No
+CUST_0986,21.0,Male,Bachelor,Private,Islamabad,0,64508.0,5498.0,26.6,,4,Never,Average,Yes
+CUST_0987,60.0,Female,Bachelor,Unemployed,Islamabad,38,78479.0,2334.0,36.1,688.0,1,Never,Poor,No
+CUST_0988,42.0,Male,Master,Private,Peshawar,22,26038.0,7084.0,26.4,666.0,1,Current,Average,No
+CUST_0989,49.0,Male,Master,Private,Rawalpindi,27,22144.0,5917.0,27.3,685.0,3,Current,Average,Yes
+CUST_0990,28.0,Male,Master,Private,Islamabad,5,93893.0,,23.2,631.0,2,Never,,No
+CUST_0991,31.0,Male,Bachelor,Self-Employed,Lahore,2,34675.0,2869.0,26.7,722.0,0,Never,Good,Yes
+CUST_0992,61.0,Male,High School,Self-Employed,Rawalpindi,38,33886.0,3382.0,,,2,Never,Average,No
+CUST_0993,57.0,Male,Bachelor,Private,Karachi,38,120890.0,2839.0,27.7,600.0,2,Former,Good,Yes
+CUST_0994,34.0,Male,PhD,Government,Karachi,7,53548.0,3466.0,37.2,621.0,1,Never,Good,Yes
+CUST_0995,,Female,PhD,Self-Employed,Rawalpindi,25,53741.0,2248.0,33.0,,1,Former,,No
+CUST_0996,55.0,Male,Master,Private,Peshawar,36,46682.0,5651.0,26.6,657.0,1,Current,Average,Yes
+CUST_0997,41.0,Female,Bachelor,Self-Employed,Islamabad,18,26286.0,5342.0,26.5,782.0,4,Former,Excellent,No
+CUST_0998,57.0,Male,High School,Unemployed,Islamabad,33,74730.0,,34.8,740.0,4,Never,Good,Yes
+CUST_0999,25.0,Female,Bachelor,Private,Rawalpindi,4,64550.0,4037.0,27.7,,0,Current,Average,Yes
+CUST_1000,39.0,Male,Master,,Lahore,18,56544.0,3702.0,33.8,728.0,1,Never,,Yes
+CUST_1001,34.0,Female,Master,Private,Peshawar,8,,12475.0,36.6,649.0,3,Never,Average,Yes
+CUST_1002,46.0,Male,Master,Private,Lahore,26,43880.0,4450.0,26.0,,1,Never,Good,No
+CUST_1003,24.0,Female,Bachelor,Private,Rawalpindi,0,85124.0,10914.0,28.7,744.0,4,Former,Good,No
+CUST_1004,45.0,Male,High School,Self-Employed,Rawalpindi,22,47681.0,2004.0,31.7,764.0,1,Current,Average,No
+CUST_1005,65.0,Male,High School,Government,Lahore,42,49750.0,6581.0,30.7,695.0,4,Current,Average,Yes
+CUST_1006,62.0,Female,High School,Private,Karachi,41,68971.0,2438.0,30.7,800.0,1,Never,Excellent,No
+CUST_1007,45.0,Female,Bachelor,Government,Rawalpindi,16,57779.0,2787.0,20.6,713.0,3,Never,Excellent,No
+CUST_1008,38.0,Male,Bachelor,Self-Employed,Peshawar,12,127166.0,,22.9,690.0,0,Never,Good,Yes
+CUST_1009,60.0,Female,Master,Unemployed,Lahore,34,19560.0,2963.0,24.6,657.0,3,Former,Good,No
+CUST_1010,28.0,Male,Master,Private,Karachi,7,60776.0,2974.0,32.8,633.0,4,Former,Good,No
+CUST_1011,59.0,Male,Bachelor,Self-Employed,Lahore,36,34958.0,10540.0,21.1,711.0,2,Never,Good,Yes
+CUST_1012,60.0,Female,High School,Unemployed,Karachi,35,30695.0,4377.0,34.3,688.0,3,Never,Average,No
+CUST_1013,34.0,Male,High School,Government,Karachi,6,40079.0,5008.0,30.7,700.0,1,Current,Poor,No
+CUST_1014,52.0,Female,Master,Private,Peshawar,28,53108.0,3002.0,32.5,716.0,0,Current,Good,Yes
+CUST_1015,58.0,Male,Bachelor,Private,Rawalpindi,35,,8044.0,22.5,699.0,1,Never,Average,No
+CUST_1016,53.0,Female,Bachelor,Self-Employed,Karachi,33,,5521.0,27.3,831.0,1,Former,Poor,No
+CUST_1017,43.0,Female,Master,Private,Rawalpindi,23,38269.0,3355.0,28.4,640.0,3,Former,Good,Yes
+CUST_1018,35.0,Female,Bachelor,Unemployed,Peshawar,14,60155.0,1289.0,28.2,712.0,0,Never,Good,Yes
+CUST_1019,53.0,Female,Bachelor,Self-Employed,Rawalpindi,35,31815.0,4975.0,28.4,663.0,2,Never,Excellent,No
+CUST_1020,45.0,Male,Master,Private,Islamabad,21,27914.0,6514.0,25.7,495.0,1,Never,Good,No
+CUST_1021,,,Master,Government,Karachi,17,14900.0,2030.0,27.6,665.0,0,Never,Excellent,No
+CUST_1022,53.0,Male,Master,Private,Peshawar,27,35784.0,3390.0,32.0,610.0,2,Former,Average,Yes
+CUST_1023,22.0,Female,Bachelor,Private,Lahore,0,27384.0,6329.0,21.4,675.0,1,Never,Good,No
+CUST_1024,34.0,Female,Bachelor,Self-Employed,Peshawar,11,29997.0,1302.0,34.4,678.0,0,Never,Average,No
+CUST_1025,60.0,Male,Master,Government,Karachi,35,44378.0,2600.0,31.7,709.0,3,Never,Poor,Yes
+CUST_1026,60.0,Female,Bachelor,Private,Peshawar,35,37053.0,5612.0,22.4,640.0,1,Never,Average,No
+CUST_1027,59.0,Male,Master,Self-Employed,Lahore,39,27135.0,,28.8,650.0,1,Former,Good,No
+CUST_1028,26.0,Male,Master,Private,Islamabad,1,16095.0,21793.0,31.3,733.0,0,Never,Average,No
+CUST_1029,26.0,Male,PhD,Private,Karachi,6,60856.0,18379.0,21.1,,1,Never,Good,No
+CUST_1030,23.0,Female,Bachelor,Private,Karachi,0,77968.0,,27.2,542.0,2,Current,Average,No
+CUST_1031,27.0,Male,High School,Private,Peshawar,2,41431.0,2942.0,26.6,692.0,1,Never,Poor,Yes
+CUST_1032,28.0,Female,Bachelor,Unemployed,Rawalpindi,6,44526.0,8454.0,23.9,760.0,4,Former,Good,Yes
+CUST_1033,62.0,Male,Master,Self-Employed,Rawalpindi,42,51614.0,2814.0,27.4,732.0,2,Never,Excellent,No
+CUST_1034,35.0,Female,Bachelor,Government,Lahore,10,122802.0,2389.0,24.1,693.0,0,Current,Average,Yes
+CUST_1035,49.0,Male,High School,Government,Islamabad,24,21759.0,,33.6,774.0,2,Current,Good,Yes
+CUST_1036,53.0,Female,High School,Private,Islamabad,24,41029.0,3063.0,24.0,761.0,4,Never,Excellent,No
+CUST_1037,50.0,Male,Bachelor,Private,Peshawar,27,19989.0,5764.0,30.8,655.0,4,Former,Good,Yes
+CUST_1038,59.0,Male,High School,Government,Peshawar,38,62898.0,2692.0,19.1,699.0,1,Never,Good,No
+CUST_1039,47.0,Male,High School,Unemployed,Rawalpindi,21,47611.0,4509.0,26.2,702.0,1,Current,Average,No
+CUST_1040,56.0,Female,Master,Self-Employed,Islamabad,34,57621.0,13992.0,27.1,673.0,3,Never,Good,No
+CUST_1041,49.0,Male,High School,Private,Islamabad,28,56062.0,4636.0,26.1,765.0,2,Current,Average,Yes
+CUST_1042,58.0,Female,High School,Private,Islamabad,33,88866.0,13195.0,25.1,669.0,3,Never,Good,Yes
+CUST_1043,53.0,Male,Master,Private,Lahore,26,69284.0,10421.0,23.8,642.0,4,Former,Good,Yes
+CUST_1044,57.0,Female,Master,Private,Lahore,36,81371.0,6595.0,30.6,486.0,1,Current,Good,Yes
+CUST_1045,47.0,Male,Bachelor,Private,Peshawar,22,28680.0,3243.0,31.8,620.0,1,Current,Poor,Yes
+CUST_1046,53.0,Male,High School,Government,Rawalpindi,30,99334.0,9232.0,26.6,581.0,1,Never,Excellent,Yes
+CUST_1047,24.0,Male,Master,Private,Karachi,0,34638.0,3507.0,21.7,677.0,0,Never,Good,No
+CUST_1048,42.0,Male,Bachelor,Government,Rawalpindi,19,35751.0,,35.6,586.0,4,Never,Excellent,No
+CUST_1049,22.0,Male,High School,Self-Employed,Lahore,0,59812.0,5419.0,22.8,726.0,1,Never,Good,No
+CUST_1050,30.0,Female,,Private,Lahore,11,60843.0,4213.0,20.0,763.0,4,Never,Poor,No
+CUST_1051,25.0,Female,High School,Self-Employed,Peshawar,3,28580.0,2465.0,17.3,678.0,1,Never,Good,No
+CUST_1052,30.0,Female,Bachelor,Private,Karachi,6,46850.0,1346.0,27.5,606.0,2,Never,Good,No
+CUST_1053,53.0,Male,Master,Government,Islamabad,33,116836.0,8685.0,26.0,701.0,4,Never,Average,No
+CUST_1054,,Male,Master,Self-Employed,Karachi,39,22981.0,6488.0,31.9,822.0,3,Never,Good,Yes
+CUST_1055,33.0,Female,Bachelor,Government,Karachi,7,116643.0,1164.0,29.9,799.0,0,Never,Good,Yes
+CUST_1056,51.0,Male,Bachelor,Unemployed,Karachi,25,45119.0,2416.0,28.4,,3,Never,Good,Yes
+CUST_1057,56.0,Female,Bachelor,Private,Peshawar,34,14246.0,4838.0,25.7,,4,Former,Average,Yes
+CUST_1058,65.0,Male,Bachelor,,Lahore,47,24302.0,5895.0,32.3,553.0,1,Never,Good,No
+CUST_1059,44.0,Female,Bachelor,Government,Islamabad,19,,1354.0,36.0,595.0,4,Never,Average,No
+CUST_1060,35.0,Male,Master,Government,Karachi,10,36565.0,3956.0,31.8,699.0,0,Never,Average,Yes
+CUST_1061,49.0,Female,Master,,Islamabad,23,48650.0,6341.0,24.8,638.0,4,Never,Average,No
+CUST_1062,28.0,Male,Bachelor,Self-Employed,Karachi,6,11650.0,3250.0,30.8,617.0,1,Former,Poor,Yes
+CUST_1063,25.0,Female,Master,Self-Employed,Lahore,0,57110.0,5125.0,25.1,758.0,3,Never,Average,No
+CUST_1064,49.0,Male,Bachelor,Private,Islamabad,26,28845.0,2935.0,21.7,720.0,2,Never,Average,No
+CUST_1065,24.0,Female,Bachelor,Private,Rawalpindi,0,110723.0,8366.0,,552.0,3,Current,Average,No
+CUST_1066,32.0,Female,High School,Government,Lahore,7,44418.0,2323.0,25.3,754.0,1,Current,Excellent,No
+CUST_1067,65.0,Male,Master,Government,Islamabad,45,86558.0,1796.0,27.5,718.0,1,Never,Good,No
+CUST_1068,22.0,Male,Master,Unemployed,Karachi,0,94911.0,4323.0,36.9,720.0,0,Never,Good,No
+CUST_1069,47.0,Male,Master,Private,Karachi,26,93508.0,1444.0,22.8,637.0,4,Never,Excellent,Yes
+CUST_1070,51.0,Male,High School,Private,Lahore,26,37740.0,,,666.0,4,Never,Excellent,No
+CUST_1071,56.0,Male,High School,Government,Lahore,33,37475.0,9536.0,25.5,532.0,3,Never,Excellent,No
+CUST_1072,,Male,Bachelor,Self-Employed,Karachi,33,,2022.0,,745.0,2,Former,Poor,No
+CUST_1073,46.0,Male,Bachelor,Unemployed,Islamabad,17,73125.0,1556.0,24.6,605.0,2,Never,Good,No
+CUST_1074,63.0,Female,Bachelor,Private,Rawalpindi,46,38914.0,2301.0,32.6,615.0,0,Current,,Yes
+CUST_1075,47.0,Female,PhD,Private,Peshawar,23,48262.0,2225.0,28.7,614.0,1,Never,Good,No
+CUST_1076,25.0,Male,Master,Private,Lahore,0,59903.0,3803.0,28.9,815.0,0,Never,Good,No
+CUST_1077,40.0,Female,Bachelor,Private,Karachi,16,31329.0,1863.0,33.4,630.0,4,,Poor,No
+CUST_1078,31.0,Female,High School,Unemployed,Islamabad,7,30259.0,6147.0,22.0,751.0,1,Never,Excellent,Yes
+CUST_1079,30.0,Male,High School,Private,Lahore,5,47238.0,6868.0,22.0,678.0,0,Never,Good,No
+CUST_1080,60.0,Male,,Private,Islamabad,38,50807.0,1626.0,17.0,618.0,3,Never,Average,No
+CUST_1081,58.0,Male,Master,Private,Lahore,32,65424.0,2661.0,31.2,604.0,4,Never,,No
+CUST_1082,26.0,Female,Master,Private,Karachi,3,,2858.0,29.7,633.0,2,Never,Average,Yes
+CUST_1083,28.0,Female,Bachelor,Self-Employed,Islamabad,5,28156.0,3738.0,,674.0,0,Never,Average,No
+CUST_1084,43.0,Male,High School,Private,Karachi,18,32970.0,,21.3,725.0,4,Never,Average,Yes
+CUST_1085,46.0,Female,PhD,Private,Islamabad,26,,9949.0,19.3,645.0,4,Never,Excellent,No
+CUST_1086,63.0,Male,PhD,Unemployed,Lahore,35,112066.0,27561.0,20.7,642.0,2,Current,Average,No
+CUST_1087,32.0,Male,Bachelor,Private,Peshawar,9,48236.0,771.0,22.6,614.0,2,Never,Good,Yes
+CUST_1088,46.0,Female,High School,Self-Employed,Peshawar,22,51993.0,2115.0,34.5,590.0,2,Never,Good,Yes
+CUST_1089,33.0,Female,Bachelor,Private,Rawalpindi,11,53198.0,16490.0,31.8,584.0,0,Current,Good,Yes
+CUST_1090,,Male,Master,Government,Rawalpindi,36,34766.0,1096.0,24.8,754.0,2,Former,Average,Yes
+CUST_1091,38.0,Female,Master,Private,Karachi,12,121826.0,,,640.0,3,Never,Good,No
+CUST_1092,45.0,Female,Master,Private,Islamabad,17,64606.0,4724.0,,647.0,4,Never,Average,Yes
+CUST_1093,53.0,Female,High School,,Rawalpindi,33,52669.0,4857.0,28.7,630.0,2,Former,Average,Yes
+CUST_1094,60.0,Female,High School,Private,Lahore,36,28060.0,1620.0,21.5,656.0,4,Never,Good,No
+CUST_1095,63.0,Male,,Government,Peshawar,37,27199.0,3016.0,30.6,708.0,1,Former,Excellent,No
+CUST_1096,32.0,Male,PhD,Private,Islamabad,5,43482.0,15686.0,22.9,,1,Current,Good,No
+CUST_1097,64.0,Male,Bachelor,Government,Peshawar,39,35067.0,4082.0,30.9,694.0,2,Never,Poor,Yes
+CUST_1098,56.0,Female,Master,Unemployed,Islamabad,30,28650.0,3031.0,24.9,786.0,4,Never,Average,Yes
+CUST_1099,24.0,Female,High School,Private,Rawalpindi,1,42023.0,5735.0,23.2,619.0,1,Former,Poor,No
+CUST_1100,25.0,Male,PhD,Private,Rawalpindi,0,45751.0,3662.0,34.7,647.0,2,Never,,Yes
+CUST_1101,57.0,Male,Master,Self-Employed,Karachi,33,,5480.0,27.8,728.0,4,Never,Average,Yes
+CUST_1102,28.0,Male,Bachelor,Government,Islamabad,5,39060.0,2237.0,25.5,792.0,2,Never,Excellent,No
+CUST_1103,62.0,Male,Master,Private,Lahore,38,29609.0,3992.0,30.6,587.0,4,Former,Average,Yes
+CUST_1104,48.0,Female,Bachelor,Government,Rawalpindi,28,30179.0,2615.0,20.6,552.0,1,Never,Poor,Yes
+CUST_1105,51.0,Female,Bachelor,Private,Karachi,27,100422.0,,32.3,680.0,2,Current,Good,Yes
+CUST_1106,29.0,Male,Bachelor,,Rawalpindi,3,25888.0,6072.0,26.3,672.0,1,,Average,No
+CUST_1107,49.0,Female,PhD,Unemployed,Peshawar,29,62928.0,1677.0,29.9,733.0,2,Never,Good,Yes
+CUST_1108,34.0,Female,PhD,Self-Employed,Rawalpindi,12,68580.0,3739.0,19.6,721.0,0,Former,Excellent,Yes
+CUST_1109,60.0,Female,Bachelor,Self-Employed,Islamabad,38,48209.0,8472.0,25.2,677.0,1,Never,Poor,No
+CUST_1110,61.0,Male,Master,Private,Karachi,39,,1376.0,27.0,759.0,1,Former,Average,Yes
+CUST_1111,42.0,Male,Master,Private,Islamabad,20,67910.0,6658.0,31.9,629.0,3,Never,Excellent,Yes
+CUST_1112,31.0,Male,Master,Self-Employed,Lahore,10,142002.0,3378.0,30.3,696.0,1,Never,Good,No
+CUST_1113,43.0,Female,Bachelor,Private,Lahore,23,36023.0,2049.0,25.1,589.0,4,Former,Excellent,No
+CUST_1114,21.0,Female,Bachelor,Private,Rawalpindi,0,36364.0,19287.0,28.5,677.0,2,Never,Average,No
+CUST_1115,57.0,Male,Master,Private,Karachi,40,68882.0,4228.0,33.0,570.0,0,Current,Average,Yes
+CUST_1116,41.0,Male,High School,Government,Karachi,16,44631.0,2763.0,26.0,596.0,4,Former,Average,No
+CUST_1117,46.0,Male,Bachelor,Private,Karachi,21,130238.0,2356.0,25.5,808.0,4,Never,Average,Yes
+CUST_1118,56.0,Male,Master,,Karachi,29,62189.0,8192.0,17.9,543.0,4,Never,Good,Yes
+CUST_1119,43.0,Female,Bachelor,Self-Employed,Rawalpindi,18,29013.0,2673.0,25.7,664.0,4,Current,Average,Yes
+CUST_1120,21.0,Male,PhD,Government,Islamabad,0,,7461.0,18.6,742.0,0,Never,Good,Yes
+CUST_1121,60.0,Male,High School,Private,Rawalpindi,40,49364.0,4222.0,26.5,847.0,3,Former,Average,Yes
+CUST_1122,35.0,Female,PhD,Self-Employed,Islamabad,15,49069.0,9771.0,31.7,693.0,1,Former,Good,No
+CUST_1123,41.0,Female,Bachelor,Private,Peshawar,17,61241.0,,17.0,698.0,4,Current,Poor,No
+CUST_1124,29.0,Female,High School,Private,Peshawar,7,100296.0,2149.0,32.9,683.0,1,Former,Average,No
+CUST_1125,29.0,Male,Bachelor,,Islamabad,1,93294.0,3426.0,25.4,759.0,1,Former,Good,Yes
+CUST_1126,30.0,Female,Master,Private,Rawalpindi,10,37482.0,3646.0,26.9,,4,,Poor,No
+CUST_1127,46.0,Male,Master,Private,Lahore,19,25296.0,3242.0,24.6,637.0,3,Current,,Yes
+CUST_1128,61.0,Female,Bachelor,Self-Employed,Rawalpindi,37,26140.0,30442.0,18.8,764.0,1,Former,Average,Yes
+CUST_1129,55.0,Male,High School,Unemployed,Lahore,30,34364.0,19879.0,23.2,,2,Never,Excellent,Yes
+CUST_1130,45.0,Male,Master,Government,Rawalpindi,19,,5294.0,37.1,560.0,1,Never,Good,No
+CUST_1131,46.0,Female,Bachelor,Private,Karachi,25,60948.0,,21.7,560.0,4,Former,Good,Yes
+CUST_1132,31.0,Female,Master,Private,Karachi,2,33172.0,3543.0,19.4,665.0,0,Never,Excellent,No
+CUST_1133,58.0,Female,High School,,Peshawar,41,60127.0,1925.0,27.7,688.0,1,Never,Excellent,No
+CUST_1134,22.0,Male,,Private,Peshawar,0,62889.0,3690.0,26.6,752.0,3,Never,Good,No
+CUST_1135,27.0,Male,Master,Private,Islamabad,9,55762.0,7543.0,25.4,728.0,2,Never,Good,No
+CUST_1136,,Female,PhD,Government,Lahore,9,27702.0,11262.0,27.1,,2,Never,Good,No
+CUST_1137,47.0,Female,Master,Private,Karachi,17,66656.0,8927.0,30.1,756.0,0,Never,Average,Yes
+CUST_1138,54.0,Female,Bachelor,Private,Rawalpindi,24,161894.0,1363.0,,,0,Never,Excellent,Yes
+CUST_1139,47.0,Female,High School,Government,Islamabad,30,58997.0,3405.0,27.9,583.0,1,Former,Good,No
+CUST_1140,37.0,Male,Master,Private,Rawalpindi,18,10156.0,1406.0,31.9,567.0,4,Never,Average,No
+CUST_1141,63.0,Female,,Unemployed,Karachi,45,101975.0,10164.0,22.2,776.0,3,Never,Poor,No
+CUST_1142,64.0,Male,Master,Private,Karachi,37,35013.0,3105.0,17.0,512.0,2,Never,Poor,No
+CUST_1143,44.0,Male,Master,Self-Employed,Karachi,23,,4083.0,30.2,,0,Never,Average,No
+CUST_1144,45.0,Male,Bachelor,Self-Employed,Karachi,18,54940.0,6063.0,39.0,850.0,3,Former,,Yes
+CUST_1145,27.0,Male,Bachelor,Self-Employed,Rawalpindi,0,20403.0,33678.0,27.0,714.0,4,Former,Average,Yes
+CUST_1146,26.0,Female,Bachelor,Private,Islamabad,0,16555.0,5173.0,28.0,664.0,2,Never,Average,Yes
+CUST_1147,44.0,Male,Bachelor,Unemployed,Karachi,16,,3538.0,25.6,,2,Never,Good,No
+CUST_1148,53.0,Female,High School,Private,Peshawar,35,94679.0,1668.0,34.6,801.0,4,Current,Average,No
+CUST_1149,49.0,Male,Bachelor,Private,Islamabad,20,175310.0,12632.0,26.6,771.0,2,Never,Average,No
+CUST_1150,63.0,Male,Bachelor,Private,Peshawar,41,51845.0,3691.0,26.1,731.0,4,Never,Good,No
+CUST_1151,42.0,Male,Bachelor,Private,Rawalpindi,14,49957.0,14660.0,31.4,680.0,2,Never,Excellent,Yes
+CUST_1152,46.0,Female,High School,Private,Karachi,25,,9693.0,24.7,723.0,1,Never,Good,No
+CUST_1153,48.0,Male,High School,Private,Islamabad,29,35880.0,2989.0,20.8,669.0,4,Never,Average,Yes
+CUST_1154,41.0,Female,High School,Private,Karachi,18,41530.0,1489.0,31.2,607.0,3,,Good,Yes
+CUST_1155,27.0,Male,Master,Self-Employed,Karachi,1,58082.0,5190.0,24.2,752.0,1,Never,Average,No
+CUST_1156,37.0,Male,Bachelor,Private,Islamabad,16,32398.0,2667.0,22.3,676.0,3,Never,Average,No
+CUST_1157,40.0,Female,Bachelor,Government,Karachi,15,20576.0,4357.0,37.1,719.0,2,Never,Average,Yes
+CUST_1158,61.0,Female,,Unemployed,Karachi,44,,9291.0,26.1,671.0,3,Never,Good,Yes
+CUST_1159,40.0,Male,PhD,Private,Lahore,13,32003.0,1224.0,29.4,715.0,1,Never,Good,Yes
+CUST_1160,42.0,Female,High School,Government,Lahore,19,8676.0,5159.0,27.1,679.0,4,Never,Good,No
+CUST_1161,48.0,Female,Bachelor,Unemployed,Islamabad,24,69836.0,7478.0,22.7,673.0,0,Never,Average,Yes
+CUST_1162,60.0,Female,Bachelor,Private,Islamabad,34,28017.0,7755.0,30.3,682.0,3,Former,Good,No
+CUST_1163,,Female,Bachelor,Private,Karachi,1,74160.0,,28.5,850.0,0,Former,,Yes
+CUST_1164,21.0,Female,PhD,Self-Employed,Peshawar,0,73190.0,5794.0,23.8,740.0,3,Never,Average,Yes
+CUST_1165,52.0,Male,Master,Unemployed,Islamabad,35,60233.0,10432.0,29.1,,3,Never,Average,Yes
+CUST_1166,33.0,Female,Master,Government,Karachi,12,203465.0,5472.0,24.5,679.0,4,Former,Good,Yes
+CUST_1167,50.0,Male,Bachelor,Private,Peshawar,25,47766.0,3879.0,21.7,657.0,2,Never,Average,No
+CUST_1168,43.0,Female,Master,Unemployed,Lahore,21,44042.0,9944.0,21.2,599.0,1,Never,Good,No
+CUST_1169,39.0,Male,High School,Private,Islamabad,11,75058.0,2513.0,28.3,800.0,1,Former,Excellent,Yes
+CUST_1170,52.0,Male,Bachelor,Private,Karachi,33,49986.0,1343.0,25.2,612.0,1,Current,,No
+CUST_1171,50.0,Female,Bachelor,Private,Lahore,29,97565.0,3639.0,34.2,816.0,2,Never,Good,No
+CUST_1172,49.0,Male,Bachelor,Private,Rawalpindi,25,25646.0,6319.0,26.8,604.0,0,Never,Average,Yes
+CUST_1173,65.0,Male,Bachelor,Self-Employed,Lahore,40,25882.0,9221.0,23.2,746.0,1,Current,Average,Yes
+CUST_1174,49.0,Female,Master,Self-Employed,Karachi,21,78527.0,6297.0,27.8,561.0,0,Never,Poor,Yes
+CUST_1175,50.0,Female,High School,Self-Employed,Peshawar,21,27156.0,7918.0,20.8,647.0,2,Current,Excellent,Yes
+CUST_1176,36.0,Female,High School,Private,Rawalpindi,11,72042.0,9265.0,26.6,682.0,2,Never,Average,Yes
+CUST_1177,60.0,Male,Bachelor,Government,Rawalpindi,38,63165.0,3280.0,28.5,635.0,4,Never,Good,Yes
+CUST_1178,39.0,Female,Bachelor,Self-Employed,Rawalpindi,15,35173.0,3786.0,,667.0,1,Never,Average,No
+CUST_1179,38.0,Male,Master,Private,Islamabad,10,63066.0,11108.0,33.3,668.0,4,Current,Good,No
+CUST_1180,21.0,Male,Master,Unemployed,Karachi,0,26134.0,1707.0,39.5,741.0,1,Current,Excellent,Yes
+CUST_1181,34.0,Female,Master,Self-Employed,Rawalpindi,11,29734.0,5836.0,30.2,523.0,2,Never,Good,Yes
+CUST_1182,22.0,Female,Bachelor,Government,Lahore,0,45231.0,2471.0,32.7,638.0,2,Former,Excellent,No
+CUST_1183,48.0,Male,Master,Private,Peshawar,23,53821.0,9655.0,39.2,774.0,3,Former,Average,Yes
+CUST_1184,50.0,Female,Master,Government,Karachi,25,43608.0,4174.0,22.2,722.0,3,Former,Good,Yes
+CUST_1185,,Male,Bachelor,Unemployed,Lahore,36,65396.0,4254.0,27.6,775.0,2,Current,Good,Yes
+CUST_1186,24.0,Male,Bachelor,Private,Islamabad,0,63809.0,15470.0,24.7,737.0,2,Never,Good,No
+CUST_1187,21.0,Male,Master,Self-Employed,Rawalpindi,0,119510.0,1887.0,31.0,,0,Never,Excellent,No
+CUST_1188,28.0,Female,High School,Private,Lahore,2,48903.0,4973.0,28.3,730.0,0,Current,Average,Yes
+CUST_1189,49.0,Female,Bachelor,Government,Karachi,27,99410.0,3696.0,23.1,688.0,4,Current,Average,No
+CUST_1190,59.0,Female,High School,Government,Lahore,35,85511.0,6306.0,27.1,850.0,3,Never,Average,Yes
+CUST_1191,23.0,,High School,Government,Islamabad,0,181986.0,17980.0,32.0,740.0,3,Never,Excellent,Yes
+CUST_1192,52.0,Female,High School,Self-Employed,Peshawar,25,48051.0,2687.0,,719.0,2,Current,Excellent,No
+CUST_1193,30.0,Male,Bachelor,,Rawalpindi,0,40897.0,1723.0,23.2,730.0,2,Never,,No
+CUST_1194,30.0,Male,Master,Private,Karachi,11,102923.0,2305.0,22.5,715.0,4,Never,Good,Yes
+CUST_1195,,Male,Bachelor,Self-Employed,Rawalpindi,19,63703.0,3552.0,28.6,713.0,3,Never,Good,Yes
+CUST_1196,54.0,Female,Master,Private,Rawalpindi,32,104288.0,4439.0,33.0,660.0,0,Current,,Yes
+CUST_1197,53.0,Female,Bachelor,Private,Rawalpindi,31,76438.0,,17.4,720.0,1,Never,Average,Yes
+CUST_1198,43.0,Male,PhD,Private,Lahore,18,16176.0,,27.5,751.0,4,Never,Good,No
+CUST_1199,48.0,Male,PhD,Private,Lahore,25,63385.0,14309.0,22.6,760.0,1,Never,Good,Yes
+CUST_1200,52.0,Male,Master,Government,Peshawar,24,61155.0,11240.0,31.8,,0,Current,Good,Yes
