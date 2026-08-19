@@ -1,0 +1,1201 @@
+Employee_ID,Age,Experience_Years,Monthly_Salary,Annual_Bonus,Performance_Score,Training_Hours,Projects_Completed,Job_Satisfaction,Education,Department,Employment_Type,Work_Mode,City,Promotion
+EMP-00001,36.0,15.0,12213.88,2442.75,Good,13.3,2.0,Medium,Bachelor,Sales,Full-Time,Office,Multan,No
+EMP-00002,21.0,5.0,9905.15,5509.05,Average,21.7,3.0,High,Master,IT,Full-Time,Hybrid,Islamabad,No
+EMP-00003,39.0,22.0,18764.54,29672.59,Average,13.6,8.0,Medium,Bachelor,Operations,Full-Time,Remote,Peshawar,Yes
+EMP-00004,43.0,15.0,14102.17,30851.54,Excellent,38.4,3.0,Low,Bachelor,Operations,Full-Time,Hybrid,Multan,No
+EMP-00005,42.0,17.0,17039.59,12473.48,Good,36.9,5.0,Medium,Master,Operations,Full-Time,Hybrid,Rawalpindi,No
+EMP-00006,49.0,25.0,20883.19,17612.67,Poor,33.0,4.0,High,Master,Operations,Part-Time,Remote,Multan,No
+EMP-00007,33.0,9.0,13110.13,11861.19,Good,89.1,2.0,High,Bachelor,IT,Full-Time,Hybrid,Islamabad,No
+EMP-00008,31.0,15.0,14698.53,13189.58,Excellent,21.8,7.0,High,Master,Finance,Full-Time,Office,Islamabad,Yes
+EMP-00009,35.0,13.0,11646.54,16018.53,Average,19.5,3.0,Low,Bachelor,HR,Contract,Hybrid,Peshawar,No
+EMP-00010,30.0,8.0,11904.36,20272.61,Poor,27.0,,Very High,High School,Sales,Full-Time,Office,Multan,No
+EMP-00011,51.0,31.0,21347.96,34264.99,Average,25.1,7.0,Medium,Master,HR,Full-Time,Office,Rawalpindi,Yes
+EMP-00012,,18.0,13674.77,14785.58,Excellent,9.9,2.0,Very High,High School,Finance,Contract,Remote,Karachi,No
+EMP-00013,21.0,0.0,7632.84,17558.51,Average,21.1,5.0,Medium,Bachelor,HR,Contract,Hybrid,Peshawar,No
+EMP-00014,33.0,7.0,11836.26,13940.68,Good,82.1,5.0,Medium,Bachelor,IT,Contract,Hybrid,Karachi,No
+EMP-00015,38.0,16.0,17893.86,16523.77,Excellent,100.1,7.0,Medium,Master,HR,Full-Time,Hybrid,Karachi,Yes
+EMP-00016,21.0,1.0,9064.07,11149.23,Good,35.8,5.0,Very High,Bachelor,Sales,Full-Time,Hybrid,Multan,Yes
+EMP-00017,45.0,23.0,16141.87,28843.62,Average,2.7,5.0,Medium,Bachelor,Marketing,Full-Time,Office,Peshawar,No
+EMP-00018,30.0,12.0,14910.08,7388.99,Poor,15.0,4.0,Medium,Master,Sales,Full-Time,Hybrid,Lahore,No
+EMP-00019,25.0,0.0,9556.1,11041.32,Good,32.2,3.0,Medium,High School,Sales,Part-Time,Hybrid,Islamabad,No
+EMP-00020,32.0,14.0,16730.59,42502.23,Poor,19.3,3.0,High,Master,Sales,Part-Time,Hybrid,Lahore,No
+EMP-00021,26.0,7.0,,1000.0,Poor,24.5,2.0,Very High,High School,Sales,Full-Time,Office,Peshawar,No
+EMP-00022,42.0,22.0,19151.71,13033.98,Good,18.1,3.0,Very High,Master,Sales,Full-Time,Office,Rawalpindi,No
+EMP-00023,38.0,10.0,10884.31,17554.0,Poor,8.0,6.0,High,High School,Marketing,Full-Time,Office,Multan,No
+EMP-00024,30.0,9.0,10815.45,13711.21,Good,29.8,6.0,Medium,Bachelor,Operations,Full-Time,Office,Lahore,No
+EMP-00025,28.0,5.0,13385.78,13694.96,Good,41.4,2.0,,Bachelor,Operations,Full-Time,Remote,Islamabad,No
+EMP-00026,35.0,15.0,18402.47,33110.23,Good,8.9,3.0,High,PhD,,Full-Time,Office,Karachi,Yes
+EMP-00027,24.0,0.0,5527.89,3572.05,Good,,4.0,High,High School,HR,Full-Time,Hybrid,Lahore,No
+EMP-00028,35.0,16.0,15175.42,28964.56,Average,27.0,5.0,High,Bachelor,Operations,Full-Time,Office,Islamabad,No
+EMP-00029,28.0,8.0,14814.47,32072.95,Average,24.0,4.0,Medium,PhD,IT,Full-Time,Office,Islamabad,No
+EMP-00030,37.0,12.0,14991.07,12840.09,Good,32.2,7.0,High,Master,HR,Contract,Office,Lahore,No
+EMP-00031,42.0,19.0,17515.42,5126.32,Poor,36.1,4.0,High,Bachelor,Finance,Contract,Remote,Karachi,No
+EMP-00032,33.0,6.0,12345.12,28814.84,Good,7.5,2.0,High,Bachelor,HR,Full-Time,Hybrid,Islamabad,No
+EMP-00033,35.0,12.0,14488.22,9546.4,Excellent,26.9,3.0,Medium,Bachelor,Marketing,Part-Time,Remote,Lahore,Yes
+EMP-00034,36.0,12.0,15058.89,6619.56,Average,24.9,9.0,Medium,Bachelor,Marketing,Part-Time,Hybrid,Karachi,No
+EMP-00035,42.0,18.0,17304.97,36314.98,Average,7.0,5.0,High,Bachelor,HR,Part-Time,Hybrid,Lahore,No
+EMP-00036,41.0,19.0,11977.93,19964.66,Good,18.9,2.0,High,Bachelor,HR,Full-Time,Office,Islamabad,No
+EMP-00037,39.0,16.0,14696.55,18657.21,Average,5.1,5.0,Low,High School,HR,Full-Time,Office,Karachi,No
+EMP-00038,38.0,20.0,16863.06,21956.08,Excellent,13.2,2.0,High,Bachelor,HR,Full-Time,Hybrid,Rawalpindi,No
+EMP-00039,25.0,1.0,13151.28,16741.67,Average,9.8,5.0,Medium,Master,HR,Contract,Remote,Lahore,No
+EMP-00040,21.0,0.0,6434.87,8465.35,Average,42.5,6.0,Low,High School,IT,Contract,Office,Lahore,No
+EMP-00041,25.0,0.0,7766.59,10222.32,Average,11.1,4.0,Medium,Bachelor,Finance,Full-Time,Office,Karachi,No
+EMP-00042,58.0,35.0,26267.17,35797.99,Good,48.9,8.0,High,Master,Operations,Full-Time,Office,Karachi,Yes
+EMP-00043,35.0,15.0,16084.38,24302.15,Average,90.9,4.0,Very High,Master,Operations,Contract,Office,Karachi,No
+EMP-00044,28.0,8.0,10039.49,5356.17,Good,10.1,6.0,,Bachelor,Finance,Full-Time,Office,Lahore,No
+EMP-00045,38.0,14.0,15473.74,23535.71,Excellent,19.3,3.0,High,Bachelor,Marketing,Full-Time,Hybrid,Multan,Yes
+EMP-00046,35.0,14.0,15997.71,24678.22,Average,26.1,4.0,High,Master,Finance,Full-Time,Hybrid,Islamabad,No
+EMP-00047,39.0,17.0,16497.88,28887.88,Good,30.9,9.0,Low,Master,IT,Full-Time,Office,Peshawar,No
+EMP-00048,40.0,23.0,18084.45,23342.39,Good,8.2,3.0,Medium,Bachelor,Sales,Full-Time,Hybrid,Peshawar,No
+EMP-00049,27.0,7.0,9880.06,17806.3,Good,34.6,4.0,Low,High School,HR,Full-Time,Hybrid,Lahore,Yes
+EMP-00050,28.0,8.0,12101.76,11274.32,Good,23.6,6.0,Low,Bachelor,Sales,Part-Time,Office,Karachi,No
+EMP-00051,43.0,24.0,19026.6,3160.3,Good,,6.0,Medium,Bachelor,Marketing,Full-Time,Office,Multan,No
+EMP-00052,26.0,5.0,13241.81,19936.09,Good,15.0,7.0,High,Master,Finance,Full-Time,Office,Rawalpindi,No
+EMP-00053,36.0,14.0,16314.54,25231.83,Good,60.4,4.0,Medium,Master,Operations,Full-Time,Office,Islamabad,Yes
+EMP-00054,29.0,5.0,9140.9,14786.3,Average,21.8,7.0,Low,High School,Finance,Full-Time,Office,Rawalpindi,No
+EMP-00055,37.0,19.0,17935.49,5169.23,Poor,25.3,6.0,High,PhD,Sales,Full-Time,Office,Islamabad,No
+EMP-00056,40.0,21.0,18389.91,28200.31,Good,37.4,7.0,High,Bachelor,HR,Part-Time,Hybrid,Lahore,No
+EMP-00057,29.0,7.0,14625.49,15640.72,Good,30.7,4.0,High,Master,Operations,Full-Time,Remote,Rawalpindi,No
+EMP-00058,43.0,21.0,19184.56,8946.42,Poor,34.9,6.0,Medium,Master,HR,Full-Time,Hybrid,Karachi,No
+EMP-00059,28.0,8.0,11634.45,10733.8,Excellent,8.8,5.0,Very High,Bachelor,Operations,Full-Time,Hybrid,Karachi,Yes
+EMP-00060,28.0,,12062.43,9574.83,Good,38.2,5.0,,Master,Marketing,Full-Time,Office,Islamabad,No
+EMP-00061,32.0,10.0,10898.83,20074.44,Good,70.0,5.0,Medium,Bachelor,Operations,Full-Time,Office,Karachi,Yes
+EMP-00062,35.0,12.0,,29402.95,Poor,29.6,5.0,High,PhD,Operations,Part-Time,Hybrid,Peshawar,No
+EMP-00063,28.0,6.0,12336.63,9851.16,Poor,82.9,6.0,Medium,Bachelor,HR,Full-Time,Office,Lahore,No
+EMP-00064,21.0,0.0,9577.97,7341.12,Good,11.9,5.0,Medium,Bachelor,Marketing,Full-Time,Office,Islamabad,No
+EMP-00065,28.0,4.0,14173.61,29294.97,Good,2.0,7.0,Medium,Bachelor,Operations,Full-Time,Office,Rawalpindi,No
+EMP-00066,36.0,10.0,18283.79,7456.68,,14.8,4.0,Medium,Master,Sales,Contract,Hybrid,Karachi,Yes
+EMP-00067,38.0,15.0,13768.58,25193.79,Good,35.1,5.0,High,Master,Finance,Contract,Remote,Multan,No
+EMP-00068,35.0,9.0,10615.01,8893.4,Good,56.0,2.0,Medium,Bachelor,IT,Full-Time,Hybrid,Rawalpindi,No
+EMP-00069,56.0,34.0,26074.56,46240.72,Good,16.1,3.0,Low,Bachelor,HR,Full-Time,Hybrid,Peshawar,Yes
+EMP-00070,39.0,12.0,16779.74,23333.66,Poor,42.2,3.0,High,Bachelor,Finance,Full-Time,Office,Rawalpindi,No
+EMP-00071,27.0,9.0,12231.32,21679.75,Good,16.9,3.0,Medium,High School,Operations,Full-Time,Hybrid,Peshawar,Yes
+EMP-00072,34.0,12.0,15779.26,32822.54,Excellent,19.3,8.0,Very High,Bachelor,Finance,Full-Time,Hybrid,Lahore,No
+EMP-00073,37.0,13.0,13398.65,1451.49,Good,10.9,3.0,High,Bachelor,HR,Full-Time,Hybrid,Islamabad,Yes
+EMP-00074,39.0,21.0,17795.74,19217.65,Poor,5.0,3.0,Low,Bachelor,Operations,Full-Time,Hybrid,Karachi,No
+EMP-00075,40.0,25.0,16891.13,36610.95,Average,43.1,8.0,Low,Master,Finance,Contract,Remote,Rawalpindi,Yes
+EMP-00076,38.0,14.0,12872.93,20412.41,Good,51.8,8.0,Medium,Bachelor,IT,Part-Time,Office,Peshawar,Yes
+EMP-00077,30.0,5.0,10594.56,26383.74,Good,57.7,3.0,Very High,Bachelor,HR,Contract,Office,Multan,No
+EMP-00078,46.0,19.0,19880.04,24968.47,Average,43.3,7.0,High,PhD,IT,Part-Time,Hybrid,Lahore,No
+EMP-00079,44.0,15.0,14128.61,27516.17,Good,15.6,5.0,Medium,Bachelor,Marketing,Contract,Hybrid,,Yes
+EMP-00080,34.0,8.0,13009.17,12726.86,Good,50.1,7.0,Medium,Master,Marketing,Full-Time,Office,Karachi,No
+EMP-00081,31.0,10.0,11797.9,12550.97,Good,31.8,6.0,High,High School,Finance,Contract,Office,Rawalpindi,No
+EMP-00082,40.0,18.0,16951.6,27666.17,Poor,21.1,2.0,Medium,Bachelor,Marketing,Full-Time,Hybrid,Karachi,No
+EMP-00083,34.0,9.0,17792.2,11713.3,Good,,5.0,High,PhD,Finance,Part-Time,Hybrid,Islamabad,No
+EMP-00084,26.0,7.0,9608.87,5755.21,Average,14.4,3.0,Very High,Bachelor,Marketing,Full-Time,Remote,Lahore,No
+EMP-00085,41.0,20.0,21258.23,27309.28,Good,81.8,2.0,Medium,PhD,Operations,Full-Time,Hybrid,Lahore,No
+EMP-00086,33.0,13.0,14877.96,22648.99,Good,9.3,2.0,Medium,Bachelor,Sales,Full-Time,Hybrid,Lahore,No
+EMP-00087,52.0,30.0,18117.31,15625.73,Average,15.5,5.0,High,High School,Sales,Full-Time,Office,Multan,Yes
+EMP-00088,21.0,2.0,8523.56,12687.57,Good,19.5,6.0,High,Bachelor,IT,Full-Time,Hybrid,Multan,No
+EMP-00089,44.0,23.0,16658.57,22012.33,Excellent,15.6,5.0,Medium,Bachelor,,Contract,Office,Karachi,No
+EMP-00090,29.0,3.0,9018.19,5964.25,Poor,28.5,11.0,Low,High School,Marketing,Full-Time,Remote,Karachi,No
+EMP-00091,26.0,0.0,8757.14,3195.54,Good,50.8,8.0,High,Bachelor,HR,Full-Time,Hybrid,Karachi,Yes
+EMP-00092,38.0,14.0,15470.17,33252.91,Average,7.3,6.0,Very High,Bachelor,Finance,Contract,Hybrid,Peshawar,No
+EMP-00093,57.0,32.0,19732.1,36014.13,Average,34.9,2.0,High,High School,Sales,Full-Time,Hybrid,Lahore,No
+EMP-00094,24.0,0.0,8485.55,7844.21,Average,15.7,1.0,High,Bachelor,Operations,Full-Time,Hybrid,Multan,No
+EMP-00095,42.0,15.0,14547.12,26360.79,Average,10.4,5.0,High,Bachelor,Finance,Full-Time,Hybrid,Rawalpindi,No
+EMP-00096,43.0,19.0,17485.96,10231.97,Good,15.5,4.0,Medium,Master,IT,Contract,Office,Lahore,Yes
+EMP-00097,38.0,20.0,15322.14,32016.81,Good,4.6,3.0,High,Master,Operations,Full-Time,Hybrid,Lahore,No
+EMP-00098,29.0,4.0,13141.43,28687.73,Excellent,13.9,2.0,Medium,PhD,Finance,Full-Time,Office,Islamabad,No
+EMP-00099,32.0,12.0,14056.13,8910.98,Average,29.0,3.0,Medium,Bachelor,HR,Full-Time,Hybrid,Karachi,No
+EMP-00100,52.0,30.0,25943.91,56443.17,Average,29.4,5.0,Medium,Master,Sales,Full-Time,Remote,Karachi,Yes
+EMP-00101,33.0,13.0,15697.69,21370.13,Average,29.5,3.0,High,Master,HR,Contract,Hybrid,Karachi,Yes
+EMP-00102,36.0,17.0,16141.53,5422.91,Good,24.3,3.0,Very High,Bachelor,HR,Full-Time,Hybrid,Islamabad,Yes
+EMP-00103,39.0,15.0,11653.26,20797.82,,52.3,3.0,High,Bachelor,Sales,Full-Time,Hybrid,Peshawar,Yes
+EMP-00104,41.0,21.0,18535.03,29106.07,Excellent,8.9,4.0,Very High,Master,IT,Full-Time,Hybrid,Rawalpindi,No
+EMP-00105,47.0,19.0,18794.09,39478.61,Average,14.8,7.0,Very High,Bachelor,Finance,Full-Time,Office,Islamabad,No
+EMP-00106,48.0,20.0,19218.05,22508.42,Good,19.8,2.0,Medium,Master,Finance,Full-Time,Office,Lahore,No
+EMP-00107,32.0,11.0,11054.48,15685.11,Average,78.2,10.0,Very High,High School,IT,Full-Time,Hybrid,Multan,No
+EMP-00108,25.0,2.0,11857.14,,Excellent,23.0,2.0,High,Bachelor,Marketing,Full-Time,Office,Multan,No
+EMP-00109,38.0,15.0,11184.38,2470.95,Good,18.0,3.0,Medium,High School,HR,Full-Time,Office,Karachi,No
+EMP-00110,23.0,7.0,12431.16,19478.41,Good,19.6,3.0,High,Master,IT,Full-Time,Hybrid,Karachi,No
+EMP-00111,,2.0,6611.01,7013.2,Average,66.1,5.0,Very High,High School,Marketing,Full-Time,Office,Rawalpindi,No
+EMP-00112,30.0,4.0,11894.32,8746.86,Average,2.6,8.0,Very High,Bachelor,Marketing,Full-Time,Office,Karachi,No
+EMP-00113,25.0,0.0,10909.28,18490.45,Average,42.2,4.0,Very High,Master,IT,Part-Time,Hybrid,Islamabad,No
+EMP-00114,29.0,7.0,11037.64,23384.69,Poor,10.1,5.0,Medium,Master,Sales,Full-Time,Office,Peshawar,No
+EMP-00115,39.0,19.0,15271.49,29090.75,Average,28.7,5.0,High,Bachelor,HR,Part-Time,Hybrid,Islamabad,No
+EMP-00116,39.0,19.0,15161.47,23993.71,Average,17.4,5.0,High,High School,Operations,Contract,Hybrid,Peshawar,No
+EMP-00117,38.0,17.0,17837.49,30401.62,Average,73.8,9.0,Very High,Master,Finance,Full-Time,Remote,Karachi,No
+EMP-00118,29.0,7.0,8275.07,11345.71,Good,42.5,3.0,Very High,Bachelor,Operations,Full-Time,Hybrid,Islamabad,Yes
+EMP-00119,45.0,27.0,21400.58,20654.22,Good,41.7,2.0,Low,PhD,Finance,Full-Time,,Rawalpindi,Yes
+EMP-00120,41.0,20.0,17495.87,12353.72,Good,19.5,8.0,Medium,Bachelor,Marketing,Full-Time,Remote,Rawalpindi,Yes
+EMP-00121,21.0,1.0,9164.23,20778.47,Good,8.9,3.0,Medium,Master,Sales,Full-Time,Hybrid,Lahore,No
+EMP-00122,32.0,15.0,,11390.59,Good,16.9,1.0,Very High,Bachelor,Finance,Full-Time,Office,Peshawar,No
+EMP-00123,42.0,20.0,18164.65,24881.62,Average,35.9,3.0,Medium,Master,Marketing,Full-Time,Office,Multan,Yes
+EMP-00124,31.0,5.0,14124.73,1000.0,Good,15.3,5.0,Medium,PhD,Operations,Full-Time,Office,Peshawar,No
+EMP-00125,43.0,20.0,16650.35,11715.14,Good,30.0,2.0,High,Bachelor,Operations,Full-Time,Remote,Lahore,No
+EMP-00126,34.0,11.0,16512.51,24032.28,Good,17.1,7.0,Medium,Master,HR,Full-Time,Hybrid,Multan,No
+EMP-00127,54.0,33.0,21092.9,33112.99,Average,24.4,6.0,Medium,Bachelor,Marketing,Full-Time,Hybrid,Rawalpindi,Yes
+EMP-00128,33.0,11.0,14451.6,18853.63,Average,67.1,5.0,High,Master,Operations,Full-Time,Office,Islamabad,No
+EMP-00129,27.0,7.0,11090.96,28701.99,Excellent,66.8,3.0,Medium,Bachelor,Marketing,Part-Time,Hybrid,Lahore,Yes
+EMP-00130,35.0,10.0,14530.01,23246.8,Average,81.7,3.0,Low,Master,HR,Full-Time,Remote,Karachi,Yes
+EMP-00131,29.0,6.0,13787.86,20432.36,Average,4.8,8.0,High,Master,IT,Part-Time,Office,Karachi,Yes
+EMP-00132,31.0,3.0,12017.72,15217.07,,18.1,3.0,Very High,Bachelor,IT,Full-Time,Office,Lahore,No
+EMP-00133,29.0,15.0,14296.24,14999.75,Average,2.0,3.0,Medium,Master,Finance,Full-Time,Remote,Islamabad,No
+EMP-00134,26.0,8.0,12537.54,1000.0,Poor,34.7,4.0,Medium,Bachelor,Sales,Part-Time,Office,Multan,No
+EMP-00135,42.0,24.0,19531.62,37637.12,Good,55.1,5.0,High,Master,Marketing,Contract,Remote,Peshawar,Yes
+EMP-00136,34.0,15.0,16585.77,1188.01,Good,15.4,5.0,Low,Bachelor,Marketing,Full-Time,Office,Peshawar,No
+EMP-00137,36.0,12.0,12819.67,20197.59,Average,49.8,6.0,High,High School,Marketing,Full-Time,Office,Peshawar,No
+EMP-00138,21.0,0.0,8853.12,25107.98,Average,11.6,3.0,Very High,Bachelor,Finance,Full-Time,Office,Multan,No
+EMP-00139,45.0,23.0,16194.98,24067.95,Excellent,27.9,7.0,Medium,Bachelor,HR,Full-Time,Hybrid,Karachi,Yes
+EMP-00140,21.0,1.0,8135.28,18206.84,Excellent,29.4,6.0,Medium,Bachelor,Marketing,Part-Time,Hybrid,Karachi,Yes
+EMP-00141,32.0,11.0,11338.56,24825.08,Good,54.8,4.0,High,High School,IT,Contract,Hybrid,Karachi,No
+EMP-00142,34.0,13.0,15481.35,10668.26,Good,15.0,6.0,Medium,Bachelor,Finance,Contract,Hybrid,Multan,Yes
+EMP-00143,21.0,2.0,7517.03,8774.43,Good,6.9,5.0,High,Master,Sales,Full-Time,Hybrid,Islamabad,Yes
+EMP-00144,47.0,23.0,17400.04,26602.48,Good,74.6,1.0,Very High,Bachelor,Marketing,Full-Time,Remote,Peshawar,Yes
+EMP-00145,29.0,1.0,10019.45,,Excellent,34.5,5.0,High,Master,Operations,Full-Time,Hybrid,Lahore,Yes
+EMP-00146,29.0,4.0,14643.36,24863.68,Average,,5.0,Medium,PhD,Sales,Full-Time,Hybrid,Islamabad,No
+EMP-00147,35.0,8.0,14379.45,8688.25,Good,8.5,3.0,High,Master,HR,Full-Time,Office,Rawalpindi,No
+EMP-00148,40.0,18.0,14885.97,31376.93,Excellent,19.7,5.0,High,High School,Sales,Full-Time,Office,Rawalpindi,Yes
+EMP-00149,38.0,20.0,17248.59,11802.01,Good,39.2,8.0,Medium,Bachelor,Finance,Full-Time,Hybrid,Rawalpindi,No
+EMP-00150,27.0,6.0,15678.19,9707.04,Good,46.3,4.0,Medium,PhD,Marketing,Full-Time,Hybrid,Multan,No
+EMP-00151,35.0,14.0,13079.06,11855.81,Excellent,28.5,4.0,Medium,High School,Marketing,Part-Time,Hybrid,Peshawar,No
+EMP-00152,33.0,14.0,13829.43,9266.66,Good,62.5,11.0,Medium,Bachelor,Marketing,Full-Time,Hybrid,Karachi,Yes
+EMP-00153,42.0,18.0,14043.67,11465.96,Good,30.6,3.0,Medium,Bachelor,Finance,Full-Time,Hybrid,Peshawar,No
+EMP-00154,43.0,22.0,18091.2,27703.99,Excellent,10.9,9.0,Very High,Bachelor,IT,Full-Time,Hybrid,Multan,Yes
+EMP-00155,34.0,14.0,13304.36,22563.68,Good,9.5,4.0,High,High School,IT,Full-Time,Office,Multan,No
+EMP-00156,36.0,12.0,17271.84,30242.54,Good,41.7,5.0,High,Master,Marketing,Full-Time,Office,Lahore,No
+EMP-00157,42.0,23.0,16975.37,17287.28,Good,15.2,4.0,Low,Bachelor,Operations,Full-Time,Office,Peshawar,No
+EMP-00158,34.0,11.0,10775.41,17452.26,Good,52.8,1.0,Medium,Bachelor,Sales,Full-Time,Office,Karachi,No
+EMP-00159,36.0,12.0,16519.84,37948.9,Good,44.0,4.0,Medium,Master,HR,Full-Time,Hybrid,Multan,No
+EMP-00160,44.0,19.0,19323.13,18026.7,Poor,19.7,6.0,Low,Master,Sales,Full-Time,Office,Multan,No
+EMP-00161,35.0,9.0,13971.4,22829.85,Average,17.9,6.0,High,Bachelor,Sales,Full-Time,Hybrid,Rawalpindi,No
+EMP-00162,36.0,9.0,14641.39,27008.99,Good,12.7,,Medium,PhD,Sales,Full-Time,Office,Multan,No
+EMP-00163,29.0,7.0,11509.87,13156.6,Average,39.7,7.0,Medium,Master,Finance,Full-Time,Office,Multan,No
+EMP-00164,31.0,8.0,8377.99,10327.25,Good,14.9,6.0,High,High School,IT,Full-Time,Office,Peshawar,Yes
+EMP-00165,34.0,13.0,11537.08,,Average,29.2,3.0,Medium,Bachelor,IT,Full-Time,Office,Peshawar,No
+EMP-00166,41.0,18.0,18726.43,36077.83,Good,40.9,2.0,Low,Master,Marketing,Contract,Hybrid,Peshawar,No
+EMP-00167,23.0,0.0,7024.9,20377.67,Excellent,42.5,6.0,Medium,Bachelor,HR,Full-Time,Office,Islamabad,Yes
+EMP-00168,31.0,5.0,,23968.53,Average,64.6,9.0,High,Master,HR,Contract,Hybrid,Lahore,No
+EMP-00169,37.0,11.0,14088.67,14824.49,Poor,61.7,4.0,Very High,Master,IT,Contract,Office,Islamabad,No
+EMP-00170,40.0,19.0,13780.97,20873.9,Good,7.8,7.0,Medium,Bachelor,Marketing,Full-Time,Hybrid,Peshawar,No
+EMP-00171,35.0,15.0,17833.99,29601.34,Good,6.5,5.0,High,PhD,Marketing,Full-Time,Office,Rawalpindi,No
+EMP-00172,29.0,4.0,8979.93,23867.54,Good,11.3,6.0,Medium,Bachelor,IT,Full-Time,Hybrid,Peshawar,No
+EMP-00173,40.0,22.0,18103.83,10387.29,Good,16.7,4.0,High,Bachelor,Operations,Full-Time,Office,Karachi,No
+EMP-00174,35.0,14.0,11485.01,8163.29,Good,76.2,4.0,Medium,High School,Finance,Part-Time,Office,Peshawar,No
+EMP-00175,38.0,10.0,13362.78,26284.36,Poor,29.9,3.0,Medium,High School,HR,Full-Time,Hybrid,Karachi,No
+EMP-00176,28.0,4.0,8660.94,17295.6,Average,14.2,4.0,Very High,Bachelor,Sales,Full-Time,Hybrid,Multan,No
+EMP-00177,36.0,16.0,16018.37,26241.33,Good,47.5,10.0,High,Bachelor,HR,Full-Time,Remote,Multan,No
+EMP-00178,32.0,10.0,12457.66,18135.62,Excellent,24.0,2.0,Medium,Bachelor,Operations,Full-Time,Office,Rawalpindi,No
+EMP-00179,31.0,10.0,15119.26,15181.27,Excellent,20.3,4.0,,Master,Marketing,Full-Time,Office,Rawalpindi,Yes
+EMP-00180,24.0,0.0,9824.1,20623.04,Good,54.7,6.0,Very High,Bachelor,Sales,Full-Time,Office,Islamabad,No
+EMP-00181,24.0,5.0,10663.95,14423.88,Average,6.5,4.0,High,Master,Operations,Full-Time,Hybrid,Islamabad,No
+EMP-00182,21.0,3.0,6223.01,1000.0,Average,39.4,7.0,Low,High School,Finance,Part-Time,Office,Karachi,No
+EMP-00183,44.0,20.0,16533.48,4981.28,Average,5.2,2.0,High,Bachelor,HR,Full-Time,Hybrid,Lahore,No
+EMP-00184,29.0,11.0,11821.11,21519.81,Excellent,23.5,6.0,Medium,Bachelor,HR,Contract,Remote,Peshawar,No
+EMP-00185,50.0,30.0,19477.89,33953.8,Good,6.8,3.0,High,Bachelor,Marketing,Full-Time,Office,Peshawar,Yes
+EMP-00186,21.0,0.0,9869.28,20550.7,Good,4.8,5.0,High,Master,Finance,Full-Time,Hybrid,Karachi,Yes
+EMP-00187,32.0,,14006.63,,Good,53.4,9.0,High,Bachelor,IT,Full-Time,Hybrid,Islamabad,Yes
+EMP-00188,44.0,24.0,16436.71,20335.27,Good,,6.0,High,Bachelor,HR,Full-Time,Office,Islamabad,No
+EMP-00189,24.0,5.0,11399.58,26253.22,Average,21.2,5.0,High,Master,Marketing,Contract,Hybrid,Lahore,Yes
+EMP-00190,24.0,4.0,11181.63,28818.48,Average,63.8,,Very High,Master,Marketing,Part-Time,Office,Islamabad,Yes
+EMP-00191,37.0,17.0,16907.32,20448.24,Excellent,68.1,2.0,Medium,Bachelor,Marketing,Contract,Office,Rawalpindi,No
+EMP-00192,38.0,18.0,17309.31,18819.68,Good,19.6,8.0,High,Master,Marketing,Full-Time,Hybrid,Karachi,No
+EMP-00193,34.0,10.0,12374.36,14035.58,Good,,,Medium,High School,HR,Full-Time,Hybrid,Rawalpindi,No
+EMP-00194,28.0,7.0,14096.3,26933.1,Good,7.8,7.0,High,PhD,Marketing,Part-Time,Office,Islamabad,No
+EMP-00195,33.0,15.0,15810.97,9895.89,Good,48.6,4.0,Very High,Master,Marketing,Full-Time,Hybrid,Rawalpindi,Yes
+EMP-00196,50.0,31.0,20111.71,9948.18,Good,10.7,4.0,Low,Bachelor,Finance,Full-Time,Remote,Rawalpindi,No
+EMP-00197,43.0,20.0,15816.97,22440.88,Good,42.6,1.0,Medium,Bachelor,IT,Contract,Remote,Lahore,No
+EMP-00198,35.0,10.0,12788.13,4720.51,Excellent,39.8,5.0,High,Master,Finance,,Office,Islamabad,No
+EMP-00199,27.0,8.0,10356.97,13545.71,Good,40.3,9.0,High,High School,Sales,Full-Time,Hybrid,Multan,No
+EMP-00200,31.0,7.0,10558.53,13780.19,Good,41.2,6.0,Medium,High School,Sales,Part-Time,Office,Lahore,No
+EMP-00201,47.0,23.0,21663.78,36984.26,Good,58.6,9.0,Very High,Bachelor,HR,Full-Time,Office,Multan,Yes
+EMP-00202,43.0,17.0,17583.01,87185.71,Good,20.6,4.0,High,Bachelor,HR,Full-Time,Hybrid,Multan,Yes
+EMP-00203,21.0,0.0,9723.73,12687.46,Good,44.7,5.0,Medium,Bachelor,Finance,Full-Time,Remote,Islamabad,No
+EMP-00204,27.0,6.0,8098.82,4748.16,Good,33.2,5.0,High,High School,Marketing,Part-Time,Office,Islamabad,No
+EMP-00205,38.0,15.0,13910.95,23267.35,Good,64.7,2.0,High,High School,IT,Full-Time,Office,Rawalpindi,Yes
+EMP-00206,49.0,31.0,,21149.73,Excellent,51.8,5.0,Medium,Bachelor,Finance,Full-Time,Office,Karachi,Yes
+EMP-00207,22.0,0.0,10147.95,17122.98,Excellent,33.6,7.0,Low,Bachelor,HR,Contract,Office,Karachi,No
+EMP-00208,35.0,10.0,10967.5,18970.28,Good,14.1,6.0,Medium,High School,Operations,Full-Time,Office,Lahore,No
+EMP-00209,45.0,25.0,18721.23,25055.11,Average,12.8,7.0,Medium,Bachelor,Marketing,Full-Time,Hybrid,Multan,Yes
+EMP-00210,43.0,17.0,14883.68,30494.89,Good,38.6,0.0,Very High,High School,HR,Full-Time,Office,Karachi,No
+EMP-00211,22.0,4.0,9474.86,17076.03,Good,53.8,5.0,Medium,Bachelor,Marketing,Full-Time,Office,Lahore,No
+EMP-00212,29.0,3.0,10200.96,22481.85,Good,39.0,2.0,Very High,Bachelor,HR,Full-Time,Hybrid,Rawalpindi,No
+EMP-00213,38.0,17.0,13899.02,13692.62,Good,51.1,9.0,Medium,High School,IT,Full-Time,Office,Karachi,Yes
+EMP-00214,30.0,13.0,11175.83,21876.42,Good,54.6,5.0,Low,High School,Finance,Full-Time,Remote,Islamabad,No
+EMP-00215,39.0,20.0,14816.54,13574.18,Average,15.9,6.0,Medium,High School,IT,Full-Time,Office,Islamabad,No
+EMP-00216,34.0,15.0,14198.85,30589.24,Good,5.0,5.0,High,Bachelor,IT,Full-Time,Office,Rawalpindi,No
+EMP-00217,44.0,19.0,18061.13,19066.67,Average,20.6,1.0,High,Master,Finance,Full-Time,Office,Peshawar,No
+EMP-00218,21.0,2.0,10846.22,11221.35,Average,43.4,3.0,High,Bachelor,IT,Full-Time,Office,Multan,No
+EMP-00219,31.0,8.0,12824.82,16140.97,Good,24.6,7.0,Very High,Bachelor,IT,Full-Time,Hybrid,Rawalpindi,Yes
+EMP-00220,45.0,26.0,15469.22,23900.13,Excellent,15.0,9.0,High,High School,IT,Contract,Remote,Lahore,Yes
+EMP-00221,25.0,1.0,12016.12,14814.69,Good,76.2,8.0,Medium,Master,Sales,Full-Time,Hybrid,Karachi,No
+EMP-00222,39.0,16.0,17321.14,15292.3,Good,29.1,6.0,High,Master,Operations,Full-Time,Remote,Lahore,No
+EMP-00223,28.0,1.0,9264.94,5532.41,Average,3.9,5.0,Medium,Master,Operations,Part-Time,Office,Karachi,No
+EMP-00224,30.0,8.0,11299.49,20272.73,Excellent,27.4,5.0,High,Bachelor,IT,Full-Time,Office,Karachi,No
+EMP-00225,44.0,18.0,18439.8,12964.65,Average,32.6,2.0,High,Master,HR,Full-Time,Remote,Multan,No
+EMP-00226,42.0,17.0,18868.59,22295.37,Good,24.9,4.0,Low,PhD,Finance,Full-Time,Office,Rawalpindi,No
+EMP-00227,42.0,15.0,16572.64,39416.08,Good,52.8,3.0,Medium,Bachelor,IT,Full-Time,Office,Multan,Yes
+EMP-00228,24.0,1.0,11001.63,8718.75,Average,31.7,2.0,Very High,Master,IT,Full-Time,Hybrid,Islamabad,No
+EMP-00229,37.0,16.0,10498.51,11467.12,Good,31.0,3.0,Medium,Bachelor,Finance,Full-Time,Office,Karachi,No
+EMP-00230,36.0,16.0,15966.03,29509.57,Average,30.1,3.0,Medium,Bachelor,Operations,Full-Time,Hybrid,Karachi,No
+EMP-00231,42.0,22.0,19933.1,15938.9,Good,16.5,6.0,Medium,PhD,Marketing,Full-Time,Office,Islamabad,Yes
+EMP-00232,44.0,19.0,16369.32,21775.95,Good,12.4,2.0,High,Bachelor,Finance,Full-Time,Office,Islamabad,No
+EMP-00233,21.0,2.0,10154.32,10522.56,Good,32.7,9.0,Medium,Bachelor,Sales,Full-Time,Office,Karachi,Yes
+EMP-00234,31.0,14.0,12926.82,8041.59,Good,18.3,0.0,Medium,Bachelor,Sales,Full-Time,Office,Lahore,No
+EMP-00235,35.0,15.0,12369.8,20291.82,Good,47.4,3.0,Medium,High School,Operations,Full-Time,Remote,Islamabad,No
+EMP-00236,38.0,17.0,17265.32,19353.61,Good,54.3,5.0,Very High,PhD,IT,Contract,Hybrid,Rawalpindi,Yes
+EMP-00237,30.0,11.0,12922.71,27844.63,Good,62.7,4.0,Low,Bachelor,Sales,Full-Time,Hybrid,Karachi,Yes
+EMP-00238,29.0,3.0,8695.7,21545.79,,42.1,6.0,High,High School,Marketing,Full-Time,Remote,Peshawar,No
+EMP-00239,34.0,16.0,14889.09,1856.29,Average,10.6,4.0,Medium,Master,HR,Full-Time,Office,Peshawar,Yes
+EMP-00240,37.0,19.0,15372.21,24624.52,Good,20.7,5.0,Medium,Bachelor,Operations,Full-Time,Hybrid,Multan,No
+EMP-00241,49.0,34.0,23251.21,15424.0,Good,116.0,4.0,Medium,High School,HR,Full-Time,Office,Karachi,Yes
+EMP-00242,30.0,5.0,11837.06,18910.34,Good,25.7,3.0,Medium,Bachelor,Marketing,,Office,Karachi,No
+EMP-00243,37.0,9.0,13709.99,19559.1,Average,20.2,4.0,High,High School,IT,Full-Time,Hybrid,Lahore,No
+EMP-00244,28.0,10.0,11301.69,,Excellent,7.9,3.0,Low,High School,Operations,Full-Time,Office,Karachi,No
+EMP-00245,50.0,30.0,22261.13,40928.43,Good,52.1,4.0,Medium,Master,Marketing,Full-Time,Hybrid,Karachi,Yes
+EMP-00246,28.0,3.0,10422.71,16684.86,Good,10.9,6.0,Medium,Bachelor,Marketing,Full-Time,Remote,Islamabad,No
+EMP-00247,36.0,12.0,14833.48,7885.38,Good,26.4,5.0,Medium,Bachelor,Finance,Contract,Remote,Multan,No
+EMP-00248,45.0,24.0,18746.03,43201.68,Good,28.9,6.0,Very High,Master,,Part-Time,Hybrid,Lahore,No
+EMP-00249,25.0,4.0,10777.33,23873.12,Average,17.8,2.0,Low,Bachelor,Finance,Full-Time,Remote,Multan,No
+EMP-00250,24.0,12.0,13872.38,23675.66,Good,16.3,9.0,Very High,Bachelor,HR,Full-Time,Hybrid,Rawalpindi,Yes
+EMP-00251,39.0,9.0,8846.32,22558.72,Good,16.1,8.0,Very High,High School,Finance,Full-Time,Office,Islamabad,No
+EMP-00252,29.0,6.0,12594.49,9331.69,Excellent,61.1,4.0,Very High,Master,HR,Full-Time,Hybrid,Multan,Yes
+EMP-00253,47.0,23.0,19448.49,14360.56,Average,30.8,2.0,Medium,Master,IT,Part-Time,Remote,Lahore,No
+EMP-00254,28.0,5.0,16292.12,19464.05,Excellent,16.2,5.0,High,PhD,Finance,Full-Time,Hybrid,Rawalpindi,No
+EMP-00255,26.0,0.0,9859.23,8859.35,Average,16.2,4.0,Medium,Bachelor,Marketing,Full-Time,Hybrid,Islamabad,No
+EMP-00256,26.0,7.0,12032.12,15321.58,Good,4.4,7.0,High,Bachelor,Finance,Full-Time,Office,Lahore,No
+EMP-00257,35.0,12.0,11816.16,5129.94,Good,85.0,3.0,High,Bachelor,IT,Full-Time,Office,Lahore,No
+EMP-00258,21.0,0.0,10531.16,3061.39,Average,22.6,6.0,High,Master,Operations,Full-Time,Remote,Peshawar,No
+EMP-00259,36.0,16.0,16165.87,8948.53,Good,26.7,3.0,Low,High School,HR,Full-Time,Hybrid,Lahore,No
+EMP-00260,37.0,9.0,13374.11,6106.96,Poor,81.0,4.0,High,Bachelor,HR,Full-Time,Hybrid,Lahore,No
+EMP-00261,21.0,1.0,10826.17,26763.57,Excellent,27.2,6.0,Medium,Master,Sales,Full-Time,Office,Karachi,No
+EMP-00262,30.0,6.0,12503.82,12837.62,Average,64.9,3.0,Medium,High School,Operations,Part-Time,Office,Multan,No
+EMP-00263,30.0,3.0,13659.71,22995.39,Good,9.2,7.0,High,Bachelor,HR,Full-Time,Remote,Islamabad,Yes
+EMP-00264,45.0,21.0,17905.36,16899.07,Excellent,17.7,2.0,Very High,Master,HR,Full-Time,Hybrid,Lahore,No
+EMP-00265,34.0,10.0,11767.56,16764.1,Good,16.8,1.0,Very High,Bachelor,Operations,Full-Time,Office,Peshawar,No
+EMP-00266,34.0,14.0,16087.82,19004.09,Average,14.4,3.0,Medium,Master,IT,Full-Time,Remote,Islamabad,No
+EMP-00267,30.0,5.0,10972.16,15124.46,Excellent,18.7,5.0,Low,Master,Marketing,Full-Time,Office,Islamabad,No
+EMP-00268,43.0,20.0,14108.41,4349.31,Good,15.0,5.0,High,Bachelor,Operations,Part-Time,Office,Karachi,Yes
+EMP-00269,41.0,17.0,16260.66,8628.51,Average,20.2,6.0,High,High School,Operations,Contract,Office,Karachi,No
+EMP-00270,22.0,0.0,13526.21,29304.2,Good,12.2,4.0,High,Master,HR,Full-Time,Hybrid,Lahore,No
+EMP-00271,40.0,20.0,17600.31,27307.51,Good,66.0,6.0,Medium,Bachelor,HR,Full-Time,Office,Multan,No
+EMP-00272,42.0,17.0,17676.92,13668.49,Good,32.9,5.0,Low,Bachelor,HR,Contract,Hybrid,Peshawar,No
+EMP-00273,36.0,13.0,18474.38,33668.04,Average,60.1,5.0,Very High,PhD,IT,Part-Time,Hybrid,Islamabad,No
+EMP-00274,42.0,16.0,19437.86,19025.02,Good,7.9,3.0,Medium,Master,Marketing,Full-Time,Office,Lahore,No
+EMP-00275,40.0,16.0,16287.66,13119.67,Good,11.1,2.0,Low,,Operations,Full-Time,Hybrid,Lahore,No
+EMP-00276,22.0,0.0,25360.63,41186.87,Average,38.1,5.0,High,Bachelor,IT,Contract,Hybrid,Islamabad,No
+EMP-00277,29.0,4.0,12765.06,12304.61,Good,12.7,4.0,Medium,Bachelor,Operations,Contract,Remote,Peshawar,No
+EMP-00278,36.0,16.0,15359.45,12449.76,Good,45.0,8.0,Very High,Bachelor,Finance,Full-Time,Office,Peshawar,Yes
+EMP-00279,32.0,5.0,10158.54,,Good,52.7,7.0,Medium,High School,Operations,Full-Time,Hybrid,Rawalpindi,Yes
+EMP-00280,27.0,4.0,12298.44,12981.84,Good,74.1,8.0,High,Master,Finance,Full-Time,Office,Peshawar,Yes
+EMP-00281,24.0,2.0,10557.17,11419.85,Good,17.7,7.0,Medium,Bachelor,Marketing,Contract,Hybrid,Peshawar,Yes
+EMP-00282,24.0,1.0,10148.33,8379.78,Good,91.0,4.0,Very High,High School,Operations,Full-Time,Hybrid,Multan,Yes
+EMP-00283,21.0,0.0,10280.71,6186.36,Good,36.5,4.0,High,Bachelor,Marketing,Full-Time,Office,Lahore,No
+EMP-00284,33.0,12.0,17953.66,39680.18,Excellent,9.3,4.0,High,PhD,Operations,Full-Time,Remote,Lahore,No
+EMP-00285,32.0,4.0,13283.94,15285.0,Good,16.8,7.0,Low,Master,Marketing,Full-Time,Office,Lahore,No
+EMP-00286,23.0,3.0,9040.96,24533.81,Average,35.4,4.0,Very High,High School,Operations,Full-Time,Hybrid,Peshawar,No
+EMP-00287,39.0,20.0,56189.49,75275.57,Average,54.6,5.0,Low,High School,Operations,Full-Time,Hybrid,Lahore,No
+EMP-00288,26.0,4.0,14051.51,15165.52,Good,44.8,6.0,Medium,Master,Marketing,Full-Time,Hybrid,Karachi,No
+EMP-00289,21.0,2.0,8649.18,8703.41,Average,52.6,4.0,Medium,PhD,Sales,,Hybrid,Karachi,No
+EMP-00290,24.0,2.0,13413.33,24943.29,Average,20.0,6.0,Low,Master,Operations,Full-Time,Office,Lahore,No
+EMP-00291,26.0,2.0,9271.97,9965.76,Average,27.4,3.0,High,Bachelor,Sales,Full-Time,Hybrid,Multan,No
+EMP-00292,36.0,12.0,15592.96,17053.54,Good,14.8,2.0,Very High,Master,HR,Contract,Hybrid,Lahore,No
+EMP-00293,27.0,8.0,10474.99,20125.85,Good,8.4,5.0,Medium,Master,HR,Full-Time,Hybrid,Rawalpindi,Yes
+EMP-00294,37.0,10.0,10708.31,2950.82,Average,32.1,6.0,Medium,Bachelor,IT,Full-Time,Remote,Lahore,No
+EMP-00295,33.0,9.0,15774.8,25777.87,Excellent,11.7,1.0,High,Bachelor,Marketing,Full-Time,Hybrid,Multan,No
+EMP-00296,45.0,22.0,16881.99,38784.99,Excellent,57.6,5.0,Medium,Bachelor,Operations,Full-Time,Office,Islamabad,Yes
+EMP-00297,33.0,11.0,,23611.63,Average,23.1,3.0,Medium,Bachelor,Marketing,Full-Time,Remote,Lahore,Yes
+EMP-00298,28.0,2.0,11598.32,24782.63,Good,31.3,5.0,Medium,Master,Finance,Full-Time,Remote,Multan,No
+EMP-00299,21.0,0.0,8678.07,7839.01,Average,107.6,8.0,Medium,High School,IT,Full-Time,Office,Karachi,No
+EMP-00300,33.0,12.0,12564.33,1697.19,Average,34.7,2.0,Medium,Bachelor,Sales,Full-Time,Hybrid,Multan,No
+EMP-00301,41.0,22.0,14745.96,21694.04,Excellent,28.4,3.0,High,High School,,Full-Time,Office,Multan,No
+EMP-00302,33.0,14.0,11209.44,18764.57,Good,32.0,9.0,Medium,High School,Finance,Full-Time,Remote,Peshawar,No
+EMP-00303,34.0,11.0,11000.76,30349.54,Excellent,66.2,5.0,High,Bachelor,Sales,Full-Time,Office,Multan,No
+EMP-00304,36.0,16.0,19479.66,15073.77,Excellent,32.8,6.0,High,PhD,IT,Part-Time,Office,Karachi,Yes
+EMP-00305,33.0,6.0,12109.8,7032.98,Average,12.1,3.0,Very High,Master,Marketing,Contract,Remote,Rawalpindi,No
+EMP-00306,38.0,14.0,17107.76,24235.02,Average,17.3,6.0,Low,Bachelor,IT,Full-Time,Office,Peshawar,No
+EMP-00307,27.0,7.0,12244.84,19512.29,Good,23.5,2.0,High,Bachelor,HR,Contract,Hybrid,Lahore,No
+EMP-00308,32.0,12.0,16089.0,16410.92,Good,42.5,3.0,Medium,PhD,Sales,Full-Time,Remote,Multan,Yes
+EMP-00309,30.0,6.0,12331.62,17174.1,Excellent,11.9,11.0,High,Bachelor,IT,Full-Time,Hybrid,Lahore,No
+EMP-00310,41.0,17.0,15719.89,10421.71,Good,37.9,2.0,Medium,Master,Operations,Full-Time,Office,Lahore,No
+EMP-00311,47.0,25.0,18515.15,35235.05,Good,44.3,,High,Bachelor,Finance,Full-Time,Hybrid,Rawalpindi,Yes
+EMP-00312,47.0,23.0,16413.65,22285.43,Average,23.3,6.0,Medium,High School,Sales,Full-Time,Remote,Multan,No
+EMP-00313,30.0,11.0,11202.92,36765.74,Average,7.8,2.0,High,Bachelor,Marketing,Full-Time,Remote,Rawalpindi,No
+EMP-00314,34.0,12.0,12951.72,12057.07,Good,18.4,4.0,High,Bachelor,Marketing,Full-Time,Remote,Lahore,No
+EMP-00315,,20.0,16745.8,39811.33,Good,54.1,0.0,High,Bachelor,Sales,Contract,Office,Multan,No
+EMP-00316,32.0,7.0,14572.86,18705.79,Excellent,16.5,9.0,Medium,Master,Operations,Full-Time,Office,Multan,Yes
+EMP-00317,25.0,4.0,9685.45,13328.73,Average,14.2,4.0,High,Bachelor,Marketing,Full-Time,Office,Rawalpindi,No
+EMP-00318,35.0,9.0,15402.19,6823.17,Good,29.0,9.0,Medium,Bachelor,Operations,Full-Time,Hybrid,Lahore,No
+EMP-00319,32.0,12.0,13147.29,27865.89,Good,27.9,6.0,High,Bachelor,Operations,Part-Time,Hybrid,Rawalpindi,No
+EMP-00320,25.0,7.0,10801.88,10152.67,Average,38.9,7.0,Low,Bachelor,HR,Part-Time,Office,Rawalpindi,No
+EMP-00321,36.0,13.0,16034.06,21713.1,Good,34.4,1.0,Very High,Master,Operations,Full-Time,Office,Multan,No
+EMP-00322,31.0,10.0,13715.64,11733.46,Average,28.9,8.0,Very High,Bachelor,Operations,Full-Time,Hybrid,Islamabad,No
+EMP-00323,23.0,0.0,8771.82,16874.87,Average,6.6,8.0,Medium,Master,Marketing,Full-Time,Hybrid,Islamabad,No
+EMP-00324,32.0,6.0,14018.78,25990.67,Average,14.6,8.0,Medium,Bachelor,IT,Full-Time,Hybrid,Rawalpindi,No
+EMP-00325,42.0,21.0,15983.59,30770.81,Excellent,23.7,6.0,High,Master,Sales,Full-Time,Hybrid,Islamabad,No
+EMP-00326,42.0,15.0,90163.04,156173.81,Good,28.4,6.0,Medium,PhD,HR,Full-Time,Hybrid,Karachi,No
+EMP-00327,39.0,11.0,14668.06,1000.0,Good,7.7,7.0,High,Bachelor,Finance,Full-Time,Remote,Islamabad,No
+EMP-00328,34.0,13.0,17026.01,28953.58,Good,52.9,4.0,High,Bachelor,Marketing,Contract,Hybrid,Karachi,Yes
+EMP-00329,36.0,15.0,16289.7,25490.09,Good,62.4,6.0,Medium,Bachelor,Finance,Full-Time,Office,Multan,Yes
+EMP-00330,32.0,12.0,14011.27,26667.86,Good,33.9,6.0,Very High,Bachelor,Operations,Full-Time,Hybrid,Peshawar,No
+EMP-00331,35.0,17.0,18232.64,38311.55,Good,30.9,4.0,Low,Master,HR,Contract,Office,Multan,Yes
+EMP-00332,27.0,7.0,8784.9,24521.03,Good,12.7,8.0,Medium,Bachelor,Sales,Contract,Office,Karachi,Yes
+EMP-00333,43.0,20.0,16521.94,16769.23,Average,73.1,5.0,High,High School,IT,Full-Time,Remote,Peshawar,Yes
+EMP-00334,28.0,6.0,11120.72,28865.83,Good,26.3,1.0,High,,Sales,Full-Time,Office,Lahore,No
+EMP-00335,45.0,18.0,18042.93,41531.24,Poor,37.3,1.0,Low,Master,Finance,Full-Time,Office,Karachi,No
+EMP-00336,21.0,0.0,9478.79,12700.93,Excellent,5.7,6.0,High,Master,Marketing,Full-Time,Office,Lahore,Yes
+EMP-00337,30.0,5.0,11262.3,28879.27,Average,18.5,5.0,High,Bachelor,IT,Full-Time,Office,Rawalpindi,No
+EMP-00338,34.0,13.0,17390.51,16198.23,Good,25.5,3.0,Medium,Master,Marketing,Full-Time,Office,Multan,Yes
+EMP-00339,40.0,17.0,16799.72,26035.34,Good,34.6,3.0,Medium,Master,Marketing,Part-Time,Office,Multan,Yes
+EMP-00340,40.0,20.0,14749.49,24693.82,Good,28.2,9.0,Very High,High School,Marketing,Full-Time,Remote,Islamabad,No
+EMP-00341,30.0,11.0,14171.83,21682.69,Good,75.7,8.0,Medium,Bachelor,Sales,Full-Time,Office,Peshawar,Yes
+EMP-00342,40.0,25.0,19428.88,8287.23,Excellent,14.6,5.0,Very High,Master,HR,Full-Time,Office,Karachi,Yes
+EMP-00343,40.0,20.0,55321.94,77346.88,Poor,42.2,4.0,Medium,Bachelor,Sales,Full-Time,Office,Multan,No
+EMP-00344,32.0,14.0,13173.49,28247.22,Average,25.0,5.0,High,Bachelor,Sales,Full-Time,Office,Rawalpindi,No
+EMP-00345,40.0,12.0,16861.67,23442.42,Good,8.6,6.0,Low,PhD,Marketing,Part-Time,Hybrid,Islamabad,No
+EMP-00346,22.0,0.0,13523.62,36374.06,Average,23.5,3.0,Medium,Master,Operations,Full-Time,Remote,Lahore,No
+EMP-00347,29.0,10.0,11871.77,10075.13,Excellent,21.6,6.0,High,Master,HR,Full-Time,Office,Lahore,Yes
+EMP-00348,40.0,14.0,16676.46,38185.19,Good,26.8,6.0,Medium,Master,IT,Contract,Hybrid,Karachi,No
+EMP-00349,33.0,4.0,12329.44,1501.45,Good,12.0,9.0,High,Bachelor,HR,Full-Time,Office,Lahore,No
+EMP-00350,37.0,15.0,,26245.25,Poor,24.5,2.0,Medium,Master,Sales,Full-Time,Office,Karachi,No
+EMP-00351,27.0,7.0,8344.56,14097.29,Good,19.5,6.0,High,Bachelor,Operations,Full-Time,Office,Islamabad,No
+EMP-00352,34.0,10.0,14270.78,15949.56,Excellent,36.1,3.0,High,Bachelor,Operations,Full-Time,Hybrid,Peshawar,Yes
+EMP-00353,25.0,0.0,14669.48,12436.93,Average,34.9,3.0,High,Master,Finance,Full-Time,Hybrid,Rawalpindi,No
+EMP-00354,23.0,0.0,8307.32,7420.43,,47.0,8.0,High,Bachelor,Marketing,Full-Time,Hybrid,Multan,No
+EMP-00355,25.0,3.0,11920.5,20103.99,Good,11.1,2.0,Medium,Master,Finance,Full-Time,Office,Islamabad,Yes
+EMP-00356,43.0,22.0,21122.06,34762.36,Average,80.2,5.0,High,PhD,Marketing,Full-Time,Remote,Rawalpindi,Yes
+EMP-00357,30.0,6.0,11596.42,1000.0,Average,37.8,4.0,High,Bachelor,Sales,Full-Time,Office,Rawalpindi,No
+EMP-00358,39.0,16.0,14602.97,12380.73,Average,9.3,3.0,High,Bachelor,HR,Full-Time,Office,Multan,No
+EMP-00359,22.0,0.0,9132.68,18353.43,Excellent,65.1,4.0,Medium,Bachelor,Sales,Full-Time,Office,Peshawar,Yes
+EMP-00360,30.0,10.0,13065.07,24655.31,Average,45.6,7.0,High,Master,Marketing,Part-Time,Hybrid,Multan,No
+EMP-00361,40.0,14.0,13241.77,25727.49,Good,49.6,6.0,Very High,Master,Finance,Part-Time,Hybrid,Karachi,No
+EMP-00362,34.0,14.0,12433.22,27138.47,Average,20.3,4.0,High,Bachelor,Marketing,Part-Time,Hybrid,Peshawar,No
+EMP-00363,35.0,13.0,16143.92,24402.95,Excellent,40.9,3.0,Very High,Master,Operations,Full-Time,Hybrid,Islamabad,Yes
+EMP-00364,21.0,0.0,11250.44,12375.21,Average,34.0,3.0,Medium,Master,IT,Full-Time,Office,Peshawar,No
+EMP-00365,56.0,35.0,23658.22,17231.08,Average,51.1,3.0,Medium,Bachelor,HR,Full-Time,Office,Karachi,Yes
+EMP-00366,36.0,11.0,14810.36,3347.77,Good,80.0,5.0,High,Bachelor,Finance,Full-Time,Remote,Rawalpindi,No
+EMP-00367,22.0,0.0,8842.59,13089.84,Average,46.8,5.0,Medium,High School,Sales,Contract,Remote,Islamabad,No
+EMP-00368,32.0,9.0,14560.5,13795.68,Good,7.5,1.0,Medium,Master,Sales,Full-Time,Office,Peshawar,No
+EMP-00369,26.0,3.0,11410.4,9794.9,Average,44.7,4.0,Very High,Master,IT,Contract,Hybrid,Rawalpindi,No
+EMP-00370,37.0,17.0,15882.15,17452.29,Good,66.4,2.0,Medium,Master,Sales,Full-Time,Office,Lahore,No
+EMP-00371,26.0,3.0,11457.38,20876.28,Excellent,18.6,3.0,Medium,Master,Finance,Full-Time,Hybrid,Rawalpindi,No
+EMP-00372,36.0,19.0,15845.02,9895.03,Average,16.6,5.0,Medium,High School,IT,Full-Time,Hybrid,Karachi,No
+EMP-00373,36.0,15.0,11997.7,19278.69,Good,50.6,5.0,High,Bachelor,Sales,Contract,Office,Multan,No
+EMP-00374,29.0,7.0,8931.62,11723.42,Good,22.1,3.0,Medium,Bachelor,HR,Part-Time,Office,Rawalpindi,No
+EMP-00375,39.0,18.0,18457.8,18962.53,Good,34.0,5.0,High,Bachelor,Sales,Contract,Office,Peshawar,No
+EMP-00376,34.0,8.0,46354.06,21598.55,Average,45.7,3.0,Medium,Bachelor,Finance,Part-Time,Office,Multan,No
+EMP-00377,29.0,4.0,15039.69,14389.86,Excellent,7.8,6.0,Medium,Master,Operations,Contract,Office,Multan,No
+EMP-00378,33.0,10.0,18289.65,25112.95,Good,2.4,4.0,Medium,PhD,Marketing,Contract,Remote,Multan,No
+EMP-00379,34.0,7.0,13384.66,22565.36,Good,21.3,6.0,High,Master,Marketing,Full-Time,Remote,Peshawar,No
+EMP-00380,33.0,16.0,14308.22,34383.7,Good,13.4,4.0,Low,High School,HR,Full-Time,Hybrid,Multan,No
+EMP-00381,34.0,,15946.71,25468.58,Good,50.1,8.0,Medium,Master,Marketing,Full-Time,Office,Karachi,Yes
+EMP-00382,31.0,8.0,11486.05,26785.0,Good,10.9,9.0,High,Bachelor,Finance,Full-Time,Office,Islamabad,No
+EMP-00383,43.0,20.0,16750.39,23288.47,Good,29.4,2.0,High,Bachelor,Finance,Full-Time,Office,Multan,Yes
+EMP-00384,35.0,17.0,14648.56,29225.75,Average,40.2,4.0,Medium,Master,Sales,Full-Time,Hybrid,Lahore,No
+EMP-00385,42.0,16.0,13571.49,17761.44,Good,28.6,4.0,High,Bachelor,HR,Full-Time,Office,Karachi,Yes
+EMP-00386,44.0,22.0,18999.7,32174.74,Excellent,8.6,3.0,High,Bachelor,Marketing,Full-Time,Office,Lahore,Yes
+EMP-00387,34.0,13.0,13346.56,29754.74,Good,20.3,6.0,Medium,Bachelor,IT,Full-Time,Hybrid,Rawalpindi,No
+EMP-00388,41.0,19.0,16549.73,22048.62,Average,54.2,4.0,High,Bachelor,Marketing,Contract,Office,Lahore,No
+EMP-00389,33.0,6.0,13830.84,20720.67,Average,44.1,10.0,High,Master,Finance,Full-Time,Office,Peshawar,Yes
+EMP-00390,31.0,10.0,9680.52,21799.06,Good,9.9,1.0,Very High,Bachelor,Finance,Contract,Hybrid,Lahore,No
+EMP-00391,44.0,25.0,19568.44,31905.94,Good,32.9,6.0,High,Bachelor,IT,Contract,Office,Karachi,No
+EMP-00392,39.0,20.0,16731.98,28596.06,Average,34.9,4.0,High,High School,Operations,Contract,Office,Islamabad,No
+EMP-00393,35.0,10.0,14156.89,5283.09,Good,9.6,3.0,Low,Bachelor,Operations,Full-Time,Hybrid,Multan,No
+EMP-00394,29.0,7.0,11998.34,11310.13,Excellent,16.3,5.0,High,Master,HR,Contract,Office,Karachi,No
+EMP-00395,38.0,13.0,12081.45,26902.51,Average,11.9,4.0,Medium,High School,IT,Full-Time,Hybrid,Islamabad,No
+EMP-00396,39.0,20.0,18660.77,35961.79,Average,48.3,9.0,Very High,PhD,Operations,Full-Time,Office,Karachi,Yes
+EMP-00397,32.0,13.0,12611.72,22628.37,Good,28.2,8.0,High,Master,Finance,Part-Time,Office,Karachi,No
+EMP-00398,35.0,13.0,12758.53,21366.71,Excellent,18.4,6.0,Medium,Bachelor,Finance,Full-Time,Office,Rawalpindi,Yes
+EMP-00399,36.0,18.0,16360.6,21878.29,Good,17.9,6.0,Medium,Master,Operations,Full-Time,Office,Rawalpindi,No
+EMP-00400,21.0,5.0,9563.13,13781.3,Average,11.2,10.0,High,High School,Sales,Full-Time,Office,Multan,No
+EMP-00401,48.0,23.0,19679.09,28491.34,Good,17.1,6.0,Very High,Master,Finance,Contract,Office,Islamabad,Yes
+EMP-00402,40.0,15.0,14385.24,17235.19,Average,24.5,8.0,Very High,Bachelor,HR,Contract,Office,Multan,Yes
+EMP-00403,21.0,0.0,9231.93,22914.46,Good,45.2,6.0,Medium,Bachelor,HR,Full-Time,Office,Islamabad,No
+EMP-00404,45.0,24.0,18300.3,7670.3,Average,32.2,5.0,Medium,Bachelor,Operations,Part-Time,Office,Multan,Yes
+EMP-00405,40.0,15.0,14143.57,21080.15,Good,6.9,2.0,Very High,Bachelor,Sales,Full-Time,Hybrid,Peshawar,No
+EMP-00406,28.0,2.0,9387.58,15076.26,Good,15.7,6.0,Low,Bachelor,Marketing,Full-Time,Hybrid,Islamabad,No
+EMP-00407,26.0,1.0,6945.86,6986.36,Average,17.4,0.0,High,High School,Finance,Full-Time,Hybrid,Multan,No
+EMP-00408,34.0,7.0,12494.51,16132.55,Excellent,9.2,6.0,High,High School,IT,Contract,Office,Peshawar,No
+EMP-00409,28.0,7.0,11164.85,22887.79,Good,27.4,4.0,High,Bachelor,Operations,Contract,Remote,Multan,No
+EMP-00410,37.0,14.0,15136.06,25102.74,Good,34.0,2.0,,Bachelor,Sales,Full-Time,Remote,Lahore,No
+EMP-00411,46.0,27.0,19999.31,16172.92,Good,25.0,7.0,Medium,Bachelor,Finance,Contract,Hybrid,Lahore,Yes
+EMP-00412,22.0,6.0,11188.06,21041.15,Good,8.9,5.0,Medium,Master,IT,Full-Time,Remote,Lahore,No
+EMP-00413,34.0,14.0,18600.1,18820.77,Poor,24.9,5.0,High,Master,Marketing,Full-Time,Hybrid,Multan,No
+EMP-00414,47.0,24.0,19574.25,16373.3,Poor,9.1,2.0,Medium,Bachelor,Marketing,Contract,Hybrid,Lahore,No
+EMP-00415,50.0,26.0,19206.75,37096.68,Good,17.7,6.0,High,Master,Marketing,Full-Time,Remote,Rawalpindi,Yes
+EMP-00416,37.0,14.0,17113.09,33120.28,Average,59.3,5.0,Medium,PhD,Marketing,Full-Time,Office,Rawalpindi,Yes
+EMP-00417,29.0,6.0,11590.86,2639.31,Average,44.9,6.0,Medium,Bachelor,Sales,Full-Time,Hybrid,Karachi,No
+EMP-00418,39.0,20.0,18459.24,7588.95,Average,10.4,0.0,High,Master,Marketing,Full-Time,Hybrid,Lahore,No
+EMP-00419,27.0,13.0,13443.05,3263.32,Poor,18.8,3.0,Medium,Bachelor,Operations,Contract,Hybrid,Rawalpindi,No
+EMP-00420,27.0,8.0,13917.37,24373.46,Average,90.6,14.0,High,Master,Finance,Full-Time,Office,Karachi,No
+EMP-00421,44.0,19.0,16276.65,13569.02,Excellent,71.7,9.0,High,High School,Finance,Full-Time,Office,Peshawar,Yes
+EMP-00422,36.0,11.0,14812.88,34221.84,Good,65.2,3.0,Very High,Bachelor,IT,Part-Time,Hybrid,Karachi,Yes
+EMP-00423,38.0,19.0,15006.47,8958.26,Excellent,43.7,6.0,Low,Bachelor,Sales,Part-Time,Office,Rawalpindi,No
+EMP-00424,26.0,0.0,8694.82,6922.3,Average,65.4,4.0,High,Bachelor,IT,Full-Time,Hybrid,Karachi,No
+EMP-00425,31.0,10.0,13659.98,12668.85,Average,9.6,5.0,Medium,Bachelor,Finance,Full-Time,Office,Multan,No
+EMP-00426,30.0,5.0,11281.67,20733.01,Average,17.4,5.0,Medium,Master,IT,Full-Time,Office,Lahore,No
+EMP-00427,26.0,5.0,8309.13,20035.47,Good,42.3,3.0,Very High,High School,IT,Full-Time,Hybrid,Islamabad,No
+EMP-00428,38.0,12.0,11789.8,12157.65,Good,22.2,1.0,High,High School,Sales,Full-Time,Hybrid,Lahore,No
+EMP-00429,35.0,11.0,15276.63,19709.33,Poor,16.5,6.0,High,PhD,Finance,Full-Time,Office,Islamabad,No
+EMP-00430,27.0,3.0,10089.15,11592.23,Good,30.2,6.0,Medium,Bachelor,HR,Contract,Hybrid,Lahore,No
+EMP-00431,42.0,16.0,15842.22,32696.26,Poor,3.5,5.0,Very High,Master,Sales,Full-Time,Hybrid,Multan,No
+EMP-00432,31.0,9.0,13468.9,24351.79,Good,20.4,4.0,Low,Master,IT,Part-Time,Office,Islamabad,No
+EMP-00433,24.0,0.0,6863.32,8558.3,Excellent,64.1,3.0,Very High,Bachelor,Sales,Contract,Remote,Rawalpindi,No
+EMP-00434,29.0,4.0,13599.12,26703.83,Good,52.5,4.0,Medium,PhD,Finance,Contract,Hybrid,Peshawar,No
+EMP-00435,35.0,14.0,13770.99,29458.16,Good,66.1,5.0,Medium,Bachelor,HR,Full-Time,Hybrid,Rawalpindi,No
+EMP-00436,34.0,9.0,12722.0,39767.34,Average,40.9,5.0,Medium,Master,Operations,Full-Time,Hybrid,Karachi,No
+EMP-00437,31.0,8.0,12264.0,11584.71,Good,39.7,7.0,High,Bachelor,HR,Full-Time,Remote,Lahore,Yes
+EMP-00438,40.0,17.0,17260.27,18409.34,Good,7.0,2.0,Medium,Master,Sales,Full-Time,Hybrid,Rawalpindi,Yes
+EMP-00439,37.0,16.0,17681.88,29382.92,Average,56.3,7.0,High,PhD,Marketing,Full-Time,Remote,Peshawar,No
+EMP-00440,21.0,,6929.54,21709.31,Poor,45.3,9.0,Medium,Bachelor,HR,Full-Time,Remote,Lahore,No
+EMP-00441,24.0,0.0,9133.65,15187.94,Good,19.8,4.0,Very High,Master,HR,Full-Time,Remote,Multan,No
+EMP-00442,58.0,35.0,25197.93,15138.28,Good,9.6,3.0,Medium,Bachelor,Finance,Full-Time,Hybrid,Rawalpindi,No
+EMP-00443,48.0,23.0,18800.53,28759.07,Average,7.4,7.0,High,Master,Marketing,Full-Time,Remote,Peshawar,No
+EMP-00444,22.0,3.0,10067.75,16522.03,Average,61.5,8.0,Medium,Master,Marketing,Full-Time,Hybrid,Lahore,Yes
+EMP-00445,52.0,33.0,22707.62,11658.42,Poor,37.6,8.0,Low,Master,Sales,Full-Time,Office,Karachi,Yes
+EMP-00446,28.0,5.0,10132.12,8022.19,Good,46.3,4.0,High,Bachelor,Finance,Full-Time,Hybrid,Islamabad,No
+EMP-00447,30.0,10.0,14870.3,5830.39,Average,44.6,1.0,High,PhD,IT,Full-Time,Remote,Lahore,No
+EMP-00448,31.0,10.0,11505.85,7869.94,Good,70.0,6.0,Very High,Bachelor,Operations,Contract,Hybrid,Islamabad,Yes
+EMP-00449,36.0,16.0,11939.67,13167.03,Excellent,31.8,3.0,Low,High School,Sales,Full-Time,Office,Peshawar,Yes
+EMP-00450,47.0,20.0,55215.34,292924.22,Good,22.7,9.0,High,Master,Finance,Part-Time,Hybrid,Islamabad,Yes
+EMP-00451,46.0,26.0,20115.49,22231.14,Good,5.2,6.0,High,Bachelor,Sales,Full-Time,Hybrid,Karachi,No
+EMP-00452,46.0,26.0,19718.19,29517.81,Average,30.4,6.0,High,Bachelor,HR,Part-Time,Remote,Islamabad,No
+EMP-00453,39.0,19.0,19870.73,21806.85,Average,12.0,6.0,Low,Master,IT,Contract,Hybrid,Islamabad,Yes
+EMP-00454,38.0,11.0,16101.71,39836.28,Excellent,29.8,4.0,Medium,PhD,Sales,Full-Time,Hybrid,Rawalpindi,No
+EMP-00455,33.0,9.0,11427.91,15459.83,Good,55.0,5.0,Medium,Master,IT,Full-Time,Hybrid,Multan,Yes
+EMP-00456,28.0,5.0,12242.52,13367.93,Good,10.7,5.0,Medium,Bachelor,Marketing,Full-Time,Office,Rawalpindi,No
+EMP-00457,52.0,25.0,22236.28,45231.24,Good,23.3,6.0,High,Master,IT,Full-Time,Office,Karachi,Yes
+EMP-00458,30.0,7.0,11505.18,18970.68,Good,16.6,7.0,High,Bachelor,Marketing,Full-Time,Remote,Rawalpindi,No
+EMP-00459,21.0,4.0,8718.89,1000.0,Average,23.1,5.0,High,Master,IT,Contract,Office,Multan,No
+EMP-00460,44.0,21.0,20730.0,18103.51,Poor,,6.0,Low,Bachelor,Finance,Full-Time,Office,Islamabad,No
+EMP-00461,28.0,6.0,9956.14,5976.09,Average,20.0,3.0,Low,Bachelor,Sales,Full-Time,Office,Multan,No
+EMP-00462,38.0,9.0,16105.67,8643.38,Excellent,32.6,2.0,Medium,Master,HR,Full-Time,Hybrid,Karachi,No
+EMP-00463,37.0,14.0,15336.97,24685.7,Excellent,39.2,3.0,Very High,Bachelor,Finance,Contract,Hybrid,Multan,Yes
+EMP-00464,22.0,1.0,7576.47,15737.96,Average,7.5,7.0,High,High School,Finance,Full-Time,Office,Islamabad,No
+EMP-00465,34.0,13.0,13254.08,123503.2,Average,16.0,3.0,High,Master,Operations,Full-Time,Hybrid,Rawalpindi,No
+EMP-00466,38.0,17.0,17768.95,22318.91,Excellent,40.4,1.0,Low,Bachelor,Sales,Full-Time,Office,Multan,Yes
+EMP-00467,25.0,9.0,11261.56,9433.05,Good,18.8,7.0,High,Bachelor,Finance,Full-Time,Office,Karachi,No
+EMP-00468,40.0,19.0,19508.65,33262.16,Average,6.9,8.0,Medium,Master,Finance,Full-Time,Remote,Lahore,No
+EMP-00469,34.0,14.0,13844.88,22823.23,Average,8.8,3.0,Medium,Bachelor,HR,Part-Time,Hybrid,Lahore,No
+EMP-00470,34.0,17.0,15829.84,17209.45,Good,46.3,8.0,High,Master,Marketing,Full-Time,Hybrid,Lahore,Yes
+EMP-00471,43.0,21.0,16420.97,31285.93,Good,7.0,6.0,Medium,Bachelor,Finance,Full-Time,Remote,Lahore,No
+EMP-00472,38.0,15.0,11447.66,12770.81,Poor,23.6,2.0,Medium,High School,Finance,Full-Time,,Karachi,No
+EMP-00473,27.0,,11954.91,19013.87,Excellent,30.2,4.0,Medium,Bachelor,HR,Contract,Office,Multan,No
+EMP-00474,26.0,3.0,9822.13,11891.0,Excellent,23.7,6.0,Medium,Bachelor,Sales,Contract,Office,Multan,No
+EMP-00475,41.0,18.0,17733.62,12575.91,Excellent,107.1,5.0,Very High,Bachelor,Marketing,Full-Time,Office,Islamabad,Yes
+EMP-00476,32.0,11.0,14182.01,81430.97,Excellent,37.9,3.0,Medium,Bachelor,Operations,Full-Time,Hybrid,Multan,No
+EMP-00477,33.0,9.0,12990.06,20850.33,Good,49.0,2.0,High,,IT,Contract,Hybrid,Lahore,Yes
+EMP-00478,30.0,15.0,16759.53,9149.88,Average,11.4,6.0,Medium,Master,Finance,Full-Time,Hybrid,Karachi,No
+EMP-00479,39.0,11.0,10465.46,6472.47,Average,47.2,3.0,High,High School,HR,Full-Time,Office,Karachi,No
+EMP-00480,32.0,9.0,10043.8,2006.15,Poor,27.2,3.0,Medium,High School,Marketing,Contract,Hybrid,Lahore,No
+EMP-00481,28.0,2.0,9169.28,10865.46,Good,4.6,3.0,High,High School,Finance,Full-Time,Office,Karachi,No
+EMP-00482,36.0,9.0,15159.5,7752.27,Average,16.1,3.0,Very High,Master,Sales,Part-Time,Hybrid,Peshawar,No
+EMP-00483,38.0,23.0,15739.04,22293.79,Excellent,23.9,6.0,Medium,High School,Operations,Contract,Hybrid,Multan,Yes
+EMP-00484,55.0,30.0,19798.58,42019.39,Good,28.2,9.0,High,Bachelor,Finance,Contract,Office,Lahore,Yes
+EMP-00485,25.0,2.0,8715.68,24490.96,Excellent,17.0,2.0,High,High School,Sales,Part-Time,Office,Peshawar,No
+EMP-00486,43.0,22.0,18018.18,11589.62,Good,7.5,8.0,Very High,Master,HR,Full-Time,Remote,Lahore,No
+EMP-00487,29.0,7.0,9736.13,1000.0,Average,13.4,6.0,High,High School,IT,Full-Time,Hybrid,Karachi,No
+EMP-00488,34.0,12.0,17200.79,12867.02,Average,29.8,7.0,Medium,Bachelor,Sales,Full-Time,Hybrid,Rawalpindi,No
+EMP-00489,41.0,22.0,15596.7,31755.37,Average,29.5,5.0,Very High,High School,Operations,Contract,Hybrid,Islamabad,No
+EMP-00490,36.0,11.0,12324.72,12919.23,Average,34.5,7.0,Very High,High School,Marketing,Full-Time,Remote,Karachi,No
+EMP-00491,45.0,,17727.3,31381.97,Excellent,33.0,4.0,High,Bachelor,Operations,Part-Time,Hybrid,Multan,No
+EMP-00492,37.0,9.0,10568.25,20175.28,Average,10.5,7.0,High,High School,IT,Part-Time,Remote,Rawalpindi,No
+EMP-00493,32.0,9.0,8595.49,10335.29,Good,69.6,7.0,High,High School,Finance,Full-Time,Office,Karachi,Yes
+EMP-00494,33.0,17.0,15133.21,10419.62,Good,31.5,7.0,High,Master,HR,Full-Time,Hybrid,Lahore,Yes
+EMP-00495,21.0,0.0,5464.3,4354.42,Excellent,35.7,5.0,Medium,High School,Finance,Full-Time,Office,Multan,No
+EMP-00496,27.0,7.0,13239.21,19927.33,Average,20.7,6.0,Low,Bachelor,HR,Full-Time,Hybrid,Multan,No
+EMP-00497,38.0,19.0,19700.08,45916.78,Excellent,19.3,4.0,Low,Bachelor,Sales,Full-Time,Hybrid,Rawalpindi,Yes
+EMP-00498,41.0,19.0,15097.72,13281.22,Good,33.2,6.0,Very High,High School,Operations,Full-Time,Office,Lahore,No
+EMP-00499,39.0,22.0,15240.19,16218.76,Average,15.4,4.0,Very High,High School,Operations,Full-Time,Office,Karachi,Yes
+EMP-00500,39.0,9.0,15611.88,36506.19,Average,18.4,6.0,High,Bachelor,HR,Full-Time,Remote,Rawalpindi,Yes
+EMP-00501,31.0,5.0,10285.33,27808.64,Average,33.5,11.0,Medium,Bachelor,Operations,Full-Time,Remote,Lahore,Yes
+EMP-00502,52.0,31.0,19320.13,35661.08,,43.0,3.0,Very High,High School,Finance,Full-Time,Remote,Lahore,No
+EMP-00503,21.0,0.0,9779.01,5601.84,Average,14.4,5.0,Very High,Master,IT,Full-Time,Hybrid,Karachi,No
+EMP-00504,36.0,17.0,17529.11,38287.78,Good,31.7,4.0,High,Master,Finance,Full-Time,Remote,Multan,Yes
+EMP-00505,23.0,0.0,10757.84,16411.14,Average,26.9,6.0,Low,PhD,IT,Full-Time,Office,Peshawar,No
+EMP-00506,37.0,15.0,12682.37,14117.78,Good,31.8,5.0,Medium,Bachelor,HR,Full-Time,Hybrid,Rawalpindi,Yes
+EMP-00507,41.0,18.0,19033.98,10833.42,Good,53.7,3.0,Medium,Master,Finance,Full-Time,Office,Karachi,Yes
+EMP-00508,29.0,9.0,9009.05,16788.77,Excellent,25.2,8.0,High,Bachelor,Finance,Full-Time,Hybrid,Peshawar,Yes
+EMP-00509,23.0,0.0,9356.47,6193.83,Good,36.4,7.0,Medium,Bachelor,Marketing,Full-Time,Hybrid,Multan,No
+EMP-00510,24.0,5.0,15047.31,19372.68,Average,120.0,8.0,High,PhD,Finance,Full-Time,Office,Peshawar,No
+EMP-00511,31.0,6.0,8599.06,12217.04,Good,20.9,8.0,High,Master,IT,Full-Time,Hybrid,Rawalpindi,Yes
+EMP-00512,21.0,0.0,7829.59,15208.54,Good,60.0,6.0,Medium,Bachelor,Marketing,Contract,Office,Lahore,Yes
+EMP-00513,47.0,26.0,20231.99,36160.62,Good,49.2,4.0,Medium,Bachelor,Marketing,Full-Time,Hybrid,Peshawar,Yes
+EMP-00514,32.0,13.0,9690.52,9209.83,Average,21.3,4.0,Medium,Master,IT,Full-Time,Office,Rawalpindi,No
+EMP-00515,46.0,21.0,17927.55,25193.36,Average,27.1,7.0,Medium,Master,Operations,Full-Time,Hybrid,Multan,No
+EMP-00516,29.0,16.0,16045.37,22583.64,Good,57.3,1.0,Medium,Master,Marketing,Contract,Hybrid,Peshawar,No
+EMP-00517,40.0,18.0,17970.68,33981.35,Average,28.8,4.0,Medium,Master,IT,Full-Time,Office,Islamabad,No
+EMP-00518,35.0,15.0,20619.82,22465.6,Good,20.6,4.0,High,PhD,IT,Full-Time,Hybrid,Multan,No
+EMP-00519,35.0,9.0,11809.96,28407.26,Average,39.3,3.0,Medium,Bachelor,Finance,Full-Time,Office,Peshawar,No
+EMP-00520,30.0,9.0,10253.88,12518.35,Good,46.5,5.0,Low,High School,IT,Part-Time,Office,Rawalpindi,Yes
+EMP-00521,48.0,28.0,22323.78,10093.76,Good,25.1,6.0,Low,PhD,HR,Full-Time,Remote,Peshawar,Yes
+EMP-00522,32.0,14.0,12957.58,24773.56,Average,18.2,3.0,High,Bachelor,HR,Full-Time,Hybrid,Karachi,No
+EMP-00523,37.0,20.0,16078.13,20293.31,Good,7.9,0.0,Medium,Bachelor,Finance,Full-Time,Hybrid,Multan,No
+EMP-00524,38.0,13.0,15842.29,17398.48,Average,34.7,3.0,High,Master,Marketing,Part-Time,Office,Multan,No
+EMP-00525,33.0,12.0,15006.27,20896.65,Good,38.6,3.0,High,Master,HR,Contract,Hybrid,Peshawar,Yes
+EMP-00526,28.0,5.0,8359.21,5247.73,Poor,19.7,3.0,High,Bachelor,HR,Full-Time,Office,Karachi,No
+EMP-00527,21.0,0.0,8904.18,5114.51,Poor,25.5,6.0,Low,Bachelor,HR,Full-Time,Office,Rawalpindi,No
+EMP-00528,34.0,9.0,16458.72,32314.73,Good,80.9,3.0,High,PhD,IT,Full-Time,Office,Lahore,Yes
+EMP-00529,25.0,4.0,8021.95,11167.46,Good,29.9,3.0,High,Bachelor,Finance,,Office,Karachi,No
+EMP-00530,32.0,11.0,16470.22,23240.26,Average,16.3,4.0,Medium,PhD,Marketing,Part-Time,Office,Islamabad,No
+EMP-00531,40.0,15.0,16451.36,14980.95,Good,32.7,2.0,Medium,Bachelor,Finance,Full-Time,Office,Islamabad,No
+EMP-00532,43.0,25.0,18881.1,26396.54,Good,16.3,8.0,Medium,Bachelor,Finance,Full-Time,Hybrid,Karachi,Yes
+EMP-00533,35.0,10.0,13197.42,16506.88,Poor,18.7,8.0,Very High,Master,Finance,Full-Time,Hybrid,Peshawar,No
+EMP-00534,34.0,8.0,14167.16,26005.8,Good,85.0,13.0,High,Bachelor,Finance,Full-Time,Hybrid,Peshawar,No
+EMP-00535,40.0,16.0,18077.1,34961.23,Average,20.1,7.0,High,Bachelor,HR,Full-Time,Office,,Yes
+EMP-00536,39.0,17.0,15049.32,17686.72,Poor,18.5,5.0,Low,Bachelor,Sales,Full-Time,Hybrid,Multan,No
+EMP-00537,45.0,21.0,18628.52,20188.5,Average,12.7,9.0,Very High,Master,Marketing,Contract,Remote,Multan,Yes
+EMP-00538,27.0,3.0,13412.58,13818.15,Average,13.7,5.0,Medium,Master,Marketing,Full-Time,Office,Multan,No
+EMP-00539,41.0,16.0,21463.53,57221.54,Good,17.2,9.0,Medium,PhD,Finance,Contract,Hybrid,Lahore,Yes
+EMP-00540,30.0,6.0,11580.6,26431.79,Good,35.9,5.0,Medium,Master,Operations,Full-Time,Hybrid,Multan,No
+EMP-00541,44.0,18.0,18014.0,43363.01,Average,15.6,6.0,High,PhD,Sales,Full-Time,Office,Multan,No
+EMP-00542,29.0,8.0,9174.96,28362.13,Excellent,36.9,2.0,High,High School,Sales,Part-Time,Remote,Lahore,No
+EMP-00543,25.0,5.0,7940.75,8668.39,Good,53.3,4.0,High,High School,Sales,Full-Time,Hybrid,Lahore,No
+EMP-00544,41.0,22.0,18563.28,33382.66,Average,70.2,5.0,Very High,Bachelor,Sales,Contract,Remote,Islamabad,Yes
+EMP-00545,43.0,17.0,15674.15,23969.41,Good,8.4,4.0,High,Bachelor,IT,Full-Time,Office,Islamabad,No
+EMP-00546,42.0,18.0,14819.65,23842.53,Average,34.9,2.0,Medium,High School,Operations,Full-Time,Hybrid,Multan,No
+EMP-00547,30.0,13.0,10825.18,12862.31,Good,16.7,5.0,Medium,High School,Operations,Part-Time,Hybrid,Karachi,Yes
+EMP-00548,39.0,17.0,15332.75,24820.95,Good,69.5,8.0,Very High,PhD,Sales,Full-Time,Office,Multan,No
+EMP-00549,46.0,26.0,17164.97,19405.71,Average,5.2,9.0,High,Bachelor,Finance,Full-Time,Office,Lahore,No
+EMP-00550,39.0,18.0,14293.91,16055.6,Excellent,14.8,11.0,Medium,Bachelor,Sales,Full-Time,Hybrid,Karachi,No
+EMP-00551,36.0,10.0,79946.09,69017.98,Good,15.8,2.0,Very High,Bachelor,IT,Full-Time,Office,Peshawar,No
+EMP-00552,37.0,12.0,12552.04,16218.73,Excellent,27.7,6.0,High,Bachelor,Marketing,Full-Time,Office,Lahore,No
+EMP-00553,40.0,18.0,18543.02,15485.58,,57.6,3.0,High,Bachelor,HR,Full-Time,Office,Lahore,Yes
+EMP-00554,45.0,26.0,20430.4,21838.64,Excellent,27.0,4.0,Medium,Bachelor,Sales,Full-Time,Hybrid,Islamabad,No
+EMP-00555,43.0,19.0,18479.34,24829.64,Average,21.7,2.0,High,Bachelor,Marketing,Contract,Hybrid,Karachi,No
+EMP-00556,30.0,3.0,12329.99,8558.85,Average,51.8,5.0,Medium,Bachelor,Sales,Full-Time,Hybrid,Karachi,No
+EMP-00557,21.0,0.0,6288.93,6872.95,Good,13.5,4.0,Very High,Bachelor,IT,Full-Time,Office,Islamabad,No
+EMP-00558,41.0,12.0,13636.14,9375.35,Good,12.1,4.0,High,Bachelor,Marketing,Part-Time,Office,Peshawar,No
+EMP-00559,23.0,5.0,13266.64,22568.53,Good,20.8,8.0,Very High,Bachelor,Operations,Full-Time,Office,Multan,No
+EMP-00560,31.0,4.0,12906.66,6829.39,Good,9.2,3.0,High,Master,HR,Full-Time,Hybrid,Multan,No
+EMP-00561,23.0,4.0,12928.09,21461.86,Excellent,14.8,5.0,Low,Master,Finance,Full-Time,Hybrid,Lahore,No
+EMP-00562,44.0,23.0,17137.7,22486.86,Average,7.8,4.0,High,High School,IT,Full-Time,Office,Peshawar,Yes
+EMP-00563,25.0,6.0,10958.37,15278.17,Average,46.7,3.0,High,Bachelor,Sales,Full-Time,Office,Multan,No
+EMP-00564,29.0,3.0,11556.82,29294.88,Good,24.5,4.0,Medium,Master,HR,Full-Time,Office,Rawalpindi,No
+EMP-00565,40.0,14.0,13682.75,14291.76,Average,25.9,7.0,Medium,High School,Sales,Full-Time,Remote,Lahore,No
+EMP-00566,40.0,21.0,20165.78,20084.16,Good,42.4,5.0,Medium,Bachelor,Operations,Part-Time,Hybrid,Peshawar,No
+EMP-00567,22.0,0.0,5866.45,9737.09,Good,26.8,2.0,High,High School,Marketing,,Office,Peshawar,No
+EMP-00568,22.0,0.0,8977.97,1000.0,Average,9.5,2.0,Medium,Bachelor,Operations,Full-Time,Hybrid,Rawalpindi,No
+EMP-00569,41.0,19.0,16759.8,41089.91,Average,39.3,3.0,High,Bachelor,Operations,Full-Time,Hybrid,Rawalpindi,Yes
+EMP-00570,45.0,21.0,16396.58,24436.58,Average,69.1,7.0,Medium,Bachelor,IT,Full-Time,Office,Lahore,Yes
+EMP-00571,40.0,14.0,12681.37,16187.46,Average,8.2,7.0,High,Bachelor,Operations,Full-Time,Remote,Peshawar,No
+EMP-00572,39.0,18.0,19542.96,38988.64,Good,60.4,4.0,Medium,PhD,Marketing,Full-Time,Office,Multan,No
+EMP-00573,27.0,8.0,12388.11,3077.93,Average,24.6,5.0,High,Master,Operations,Full-Time,Remote,Islamabad,No
+EMP-00574,50.0,24.0,18262.74,29242.58,Excellent,59.7,5.0,High,Bachelor,Marketing,Full-Time,Hybrid,Islamabad,Yes
+EMP-00575,25.0,0.0,9860.52,17979.01,Good,41.6,7.0,Medium,PhD,Sales,Full-Time,Remote,Karachi,No
+EMP-00576,44.0,22.0,19159.63,48210.54,Excellent,16.4,9.0,Medium,Master,Marketing,Full-Time,Hybrid,Rawalpindi,No
+EMP-00577,30.0,3.0,11999.31,21777.7,Excellent,24.1,6.0,High,Master,Finance,Full-Time,Office,Multan,Yes
+EMP-00578,29.0,4.0,10977.53,18172.24,Average,31.9,4.0,High,Bachelor,Sales,Contract,Office,Karachi,No
+EMP-00579,34.0,11.0,15105.25,13298.35,Average,33.3,4.0,Very High,Master,Sales,Full-Time,Office,Islamabad,No
+EMP-00580,28.0,3.0,10509.83,17518.26,Average,39.0,3.0,Medium,Master,Sales,Full-Time,Hybrid,Karachi,No
+EMP-00581,34.0,8.0,12568.15,73852.98,Good,25.9,4.0,High,Bachelor,Finance,Contract,Office,Rawalpindi,No
+EMP-00582,43.0,21.0,15669.83,10256.06,Good,48.4,,High,High School,Sales,Full-Time,Hybrid,Karachi,Yes
+EMP-00583,40.0,20.0,17172.53,19107.41,Poor,42.7,7.0,Medium,,Marketing,Full-Time,Remote,Islamabad,No
+EMP-00584,37.0,14.0,14533.6,27922.83,Average,29.3,4.0,Medium,Bachelor,Marketing,Full-Time,Hybrid,Karachi,No
+EMP-00585,33.0,9.0,8869.75,18904.08,Good,24.2,3.0,High,High School,Sales,Contract,Hybrid,Peshawar,No
+EMP-00586,37.0,,14300.38,33527.65,Average,25.1,8.0,Very High,Bachelor,IT,Full-Time,Hybrid,Karachi,No
+EMP-00587,49.0,29.0,20133.7,24519.24,Average,13.8,16.0,High,Bachelor,Marketing,Full-Time,Office,Rawalpindi,Yes
+EMP-00588,21.0,2.0,8307.82,5299.78,Good,50.1,5.0,High,Bachelor,Operations,Full-Time,Office,Lahore,Yes
+EMP-00589,39.0,17.0,11060.19,17476.31,Good,20.3,2.0,Medium,High School,IT,Full-Time,Office,Rawalpindi,No
+EMP-00590,34.0,9.0,14006.34,29700.0,Average,67.3,2.0,High,Bachelor,HR,Full-Time,Office,Peshawar,Yes
+EMP-00591,43.0,22.0,21279.81,34007.94,Average,27.8,6.0,Very High,Master,Marketing,Full-Time,Office,Rawalpindi,Yes
+EMP-00592,21.0,0.0,9374.72,4188.24,Excellent,65.7,6.0,Low,Bachelor,HR,Part-Time,Office,Islamabad,No
+EMP-00593,35.0,10.0,12488.4,8751.75,Average,55.6,7.0,High,Master,Marketing,Contract,Office,Islamabad,Yes
+EMP-00594,34.0,14.0,16662.96,16204.81,Poor,115.4,6.0,Medium,Master,Sales,Full-Time,Office,Lahore,Yes
+EMP-00595,22.0,0.0,10255.77,10893.3,Excellent,38.0,3.0,High,Master,IT,Full-Time,Hybrid,Multan,No
+EMP-00596,35.0,12.0,12276.08,3316.84,Average,40.1,6.0,Medium,Bachelor,IT,Full-Time,Hybrid,Islamabad,No
+EMP-00597,32.0,9.0,12832.31,15834.94,Average,52.7,5.0,Low,Bachelor,Operations,Contract,Office,Lahore,No
+EMP-00598,36.0,12.0,12763.26,22341.78,Good,14.9,7.0,High,Bachelor,Operations,Full-Time,Office,Peshawar,No
+EMP-00599,38.0,14.0,17072.23,14199.09,Average,40.9,4.0,Medium,Bachelor,Operations,Full-Time,Office,Multan,No
+EMP-00600,26.0,0.0,9897.9,21070.48,Average,28.5,8.0,High,Bachelor,HR,Full-Time,Hybrid,Rawalpindi,No
+EMP-00601,31.0,7.0,13836.51,17679.67,Excellent,10.3,5.0,Low,Bachelor,Sales,Full-Time,Hybrid,Peshawar,No
+EMP-00602,37.0,15.0,13809.55,27544.2,Average,27.5,6.0,High,Bachelor,Marketing,Full-Time,Hybrid,Karachi,No
+EMP-00603,55.0,35.0,27054.5,38481.88,Average,54.3,7.0,Medium,Bachelor,Operations,Part-Time,Hybrid,Multan,Yes
+EMP-00604,43.0,20.0,16628.67,26454.0,Good,25.7,3.0,Medium,High School,Sales,Full-Time,Office,Karachi,No
+EMP-00605,28.0,9.0,13602.59,21213.6,Excellent,41.3,1.0,Very High,Master,Sales,Full-Time,Remote,Lahore,Yes
+EMP-00606,47.0,23.0,19521.91,15450.25,Good,3.7,3.0,Medium,Bachelor,HR,Full-Time,Hybrid,Rawalpindi,No
+EMP-00607,34.0,8.0,14998.86,8425.24,Excellent,41.6,3.0,Very High,Bachelor,Sales,Full-Time,Office,Karachi,Yes
+EMP-00608,32.0,9.0,14883.33,39144.91,Poor,67.2,10.0,Very High,Bachelor,IT,Full-Time,Office,Peshawar,No
+EMP-00609,34.0,9.0,12913.36,15244.98,Average,17.5,6.0,High,Master,IT,Contract,Remote,Lahore,No
+EMP-00610,37.0,18.0,14121.43,32584.14,Average,57.6,3.0,Medium,Bachelor,Finance,Full-Time,Hybrid,Islamabad,Yes
+EMP-00611,39.0,16.0,16650.78,19725.59,Good,40.6,4.0,Medium,PhD,IT,Part-Time,Office,Rawalpindi,Yes
+EMP-00612,21.0,4.0,9402.94,12262.94,Good,48.6,5.0,High,Bachelor,Finance,Full-Time,Office,Rawalpindi,No
+EMP-00613,36.0,13.0,11023.11,5580.96,Average,57.8,3.0,Medium,High School,Operations,Full-Time,Office,Multan,No
+EMP-00614,43.0,22.0,17530.5,32283.7,Excellent,13.5,3.0,Medium,High School,Operations,Full-Time,Office,Peshawar,No
+EMP-00615,32.0,5.0,13893.31,27374.82,Good,38.0,2.0,High,Bachelor,Operations,Contract,Hybrid,Lahore,Yes
+EMP-00616,43.0,22.0,15333.81,183975.5,Average,50.5,5.0,Medium,Bachelor,IT,Full-Time,Hybrid,Lahore,Yes
+EMP-00617,35.0,15.0,21368.87,46776.61,Good,43.8,6.0,High,PhD,Finance,Full-Time,Hybrid,Islamabad,Yes
+EMP-00618,27.0,6.0,12948.29,21930.63,Good,21.7,5.0,Low,Master,IT,Full-Time,Hybrid,Lahore,Yes
+EMP-00619,45.0,23.0,13613.55,2276.35,Good,63.0,3.0,Medium,High School,IT,Full-Time,Office,Lahore,No
+EMP-00620,29.0,8.0,11240.03,16545.52,Average,14.3,2.0,Medium,Master,HR,Full-Time,Office,Lahore,No
+EMP-00621,32.0,7.0,12318.28,6419.61,Excellent,35.7,8.0,Medium,Master,Operations,Full-Time,Office,Multan,No
+EMP-00622,39.0,19.0,16549.66,11826.4,Excellent,62.7,5.0,Medium,Bachelor,Marketing,Full-Time,Office,Peshawar,Yes
+EMP-00623,38.0,16.0,,21004.29,Good,58.2,5.0,Medium,Master,IT,Full-Time,Remote,Multan,No
+EMP-00624,38.0,20.0,19688.51,26340.94,Average,30.5,5.0,Medium,PhD,HR,Full-Time,Office,Lahore,No
+EMP-00625,47.0,27.0,21782.97,18445.21,Good,8.9,4.0,Medium,Bachelor,Finance,Full-Time,Remote,Lahore,Yes
+EMP-00626,35.0,13.0,13657.31,11490.81,Average,27.8,4.0,High,Master,Marketing,Full-Time,Office,Lahore,No
+EMP-00627,25.0,7.0,6073.25,3892.22,Good,54.8,6.0,High,High School,Sales,Full-Time,Office,Karachi,No
+EMP-00628,32.0,8.0,16867.0,30419.1,Average,30.7,3.0,High,PhD,Marketing,Full-Time,Office,,No
+EMP-00629,31.0,10.0,14067.8,38496.49,Good,58.6,6.0,Medium,Bachelor,Operations,Full-Time,Office,Rawalpindi,Yes
+EMP-00630,28.0,6.0,9946.79,12374.87,Good,32.0,3.0,High,High School,Sales,Full-Time,Hybrid,Karachi,No
+EMP-00631,30.0,10.0,12543.69,,Good,30.0,6.0,High,Bachelor,HR,Full-Time,Hybrid,Islamabad,No
+EMP-00632,33.0,10.0,11571.56,12565.66,Average,17.8,5.0,High,High School,Finance,Full-Time,Hybrid,Multan,No
+EMP-00633,47.0,24.0,20196.95,45875.46,Poor,27.2,3.0,Medium,Bachelor,HR,Full-Time,Remote,Karachi,No
+EMP-00634,21.0,0.0,8579.43,18353.28,Average,19.1,3.0,Medium,Master,Finance,Full-Time,Hybrid,Karachi,No
+EMP-00635,26.0,6.0,11722.75,17580.88,Average,8.3,6.0,Medium,Master,Sales,Full-Time,Office,Rawalpindi,No
+EMP-00636,43.0,24.0,17831.38,12638.04,Average,22.4,3.0,Medium,Bachelor,Marketing,Full-Time,Hybrid,Islamabad,No
+EMP-00637,52.0,30.0,23693.94,26580.19,Good,26.1,6.0,High,Master,IT,Full-Time,Hybrid,Multan,Yes
+EMP-00638,47.0,25.0,18955.93,37440.87,Poor,26.0,6.0,Medium,Bachelor,Marketing,Part-Time,Hybrid,Karachi,No
+EMP-00639,46.0,29.0,19402.47,20824.37,Average,12.1,7.0,Medium,Bachelor,Finance,Part-Time,Office,Rawalpindi,No
+EMP-00640,46.0,22.0,19455.93,30091.79,Good,7.8,3.0,Medium,Bachelor,Operations,Part-Time,Office,Lahore,Yes
+EMP-00641,44.0,18.0,17892.13,17280.23,Excellent,37.4,2.0,Medium,Bachelor,Finance,Part-Time,Office,Islamabad,Yes
+EMP-00642,34.0,10.0,10770.44,7266.8,Average,33.2,6.0,High,Bachelor,IT,Full-Time,Office,Rawalpindi,Yes
+EMP-00643,35.0,14.0,14246.52,24230.83,Good,16.3,8.0,Very High,Bachelor,HR,Full-Time,Remote,Lahore,No
+EMP-00644,26.0,7.0,10245.52,10530.09,Good,38.4,4.0,Medium,Master,Marketing,Full-Time,Office,Islamabad,No
+EMP-00645,29.0,8.0,12943.66,15367.52,Good,38.3,4.0,Very High,Bachelor,Marketing,Full-Time,Office,Multan,No
+EMP-00646,34.0,15.0,14015.52,5798.57,Average,22.9,3.0,Medium,Master,HR,Part-Time,Office,Rawalpindi,No
+EMP-00647,32.0,4.0,12424.19,14491.51,Excellent,20.9,2.0,Very High,Master,Finance,Full-Time,Office,Rawalpindi,Yes
+EMP-00648,32.0,13.0,17155.35,27714.53,Good,10.3,5.0,Medium,Master,HR,Full-Time,Remote,Multan,Yes
+EMP-00649,23.0,1.0,7338.25,6424.93,Good,42.2,5.0,Very High,Bachelor,Finance,Full-Time,Office,Lahore,No
+EMP-00650,45.0,23.0,16445.55,30367.03,Average,20.9,6.0,Medium,Master,Operations,Full-Time,Remote,Lahore,Yes
+EMP-00651,28.0,4.0,9736.77,14101.02,Average,40.8,2.0,Very High,High School,HR,Full-Time,Remote,Karachi,No
+EMP-00652,47.0,23.0,19735.1,32560.28,Excellent,42.2,1.0,Very High,Bachelor,Operations,Full-Time,Hybrid,Rawalpindi,Yes
+EMP-00653,29.0,10.0,16744.99,21380.44,Excellent,66.8,10.0,Very High,Master,Sales,Part-Time,Office,Karachi,Yes
+EMP-00654,47.0,23.0,14962.64,9455.1,Good,65.1,7.0,Medium,Bachelor,IT,Full-Time,Office,Peshawar,No
+EMP-00655,39.0,21.0,15150.53,,Good,7.7,2.0,High,Bachelor,Operations,Full-Time,Office,Lahore,No
+EMP-00656,21.0,1.0,4842.11,9193.0,Good,62.5,5.0,High,High School,HR,Full-Time,Hybrid,Lahore,No
+EMP-00657,29.0,1.0,8600.72,10257.62,Good,52.9,6.0,Medium,Bachelor,Marketing,Full-Time,Hybrid,Lahore,No
+EMP-00658,26.0,2.0,13330.28,28138.84,Average,10.2,6.0,High,Master,Finance,Contract,Remote,Rawalpindi,No
+EMP-00659,44.0,21.0,16327.67,27517.14,Good,11.9,9.0,High,Bachelor,Marketing,Contract,Office,Karachi,Yes
+EMP-00660,36.0,16.0,13675.94,19398.51,Poor,43.9,4.0,Medium,Bachelor,Operations,Full-Time,Office,Islamabad,No
+EMP-00661,34.0,15.0,10852.67,6268.83,Good,98.1,2.0,High,High School,HR,Part-Time,Office,Peshawar,Yes
+EMP-00662,35.0,14.0,13005.87,15490.48,Good,17.7,5.0,Medium,Bachelor,Operations,Full-Time,Remote,Multan,No
+EMP-00663,29.0,6.0,13900.03,29100.44,Good,22.9,4.0,Medium,Master,Operations,Full-Time,Office,Rawalpindi,Yes
+EMP-00664,36.0,17.0,16598.99,22355.87,Excellent,56.2,6.0,Low,Bachelor,Sales,Full-Time,Office,Karachi,Yes
+EMP-00665,24.0,2.0,8053.43,8737.31,Good,33.1,5.0,High,High School,Marketing,Full-Time,Hybrid,Peshawar,Yes
+EMP-00666,28.0,2.0,12036.61,23201.66,Good,5.9,5.0,High,Master,Finance,Contract,Hybrid,Multan,No
+EMP-00667,44.0,21.0,19328.09,19174.29,Poor,25.6,5.0,High,Master,HR,Part-Time,Office,Multan,No
+EMP-00668,30.0,7.0,10220.67,15827.29,Excellent,48.5,5.0,Low,High School,IT,Full-Time,Office,Peshawar,No
+EMP-00669,21.0,0.0,7368.44,15213.23,Average,29.0,3.0,High,High School,HR,Full-Time,,Karachi,No
+EMP-00670,39.0,19.0,14724.22,15147.22,Poor,34.4,2.0,Low,High School,HR,Full-Time,Remote,Karachi,Yes
+EMP-00671,36.0,16.0,11720.05,10484.17,Average,52.2,,High,High School,Finance,Full-Time,Hybrid,Karachi,No
+EMP-00672,21.0,0.0,7362.02,10101.87,Excellent,81.0,4.0,High,Bachelor,Finance,Full-Time,Remote,Multan,No
+EMP-00673,32.0,16.0,14712.88,12745.57,Good,31.0,2.0,High,Master,Marketing,Full-Time,Hybrid,Peshawar,Yes
+EMP-00674,34.0,8.0,14784.09,16759.94,Good,20.9,6.0,High,Master,Finance,Full-Time,Hybrid,Lahore,No
+EMP-00675,21.0,0.0,9143.79,19652.12,Average,14.0,4.0,High,Master,Finance,Full-Time,Hybrid,Multan,No
+EMP-00676,37.0,14.0,15082.85,18926.11,Good,79.8,5.0,High,Bachelor,Marketing,Full-Time,Remote,Lahore,No
+EMP-00677,21.0,0.0,9622.13,3787.52,Good,41.9,11.0,Low,PhD,Finance,Full-Time,Hybrid,Karachi,No
+EMP-00678,35.0,12.0,17385.3,16445.01,Average,33.0,3.0,High,Master,IT,Contract,Hybrid,Multan,No
+EMP-00679,36.0,15.0,17288.72,30643.74,Poor,22.5,6.0,Low,Master,Marketing,Full-Time,Hybrid,Rawalpindi,No
+EMP-00680,42.0,18.0,16371.32,13388.06,Average,14.2,2.0,High,High School,Operations,Full-Time,Hybrid,Islamabad,No
+EMP-00681,38.0,16.0,14388.18,16976.93,Average,15.9,2.0,Medium,Master,Marketing,Full-Time,Hybrid,Islamabad,Yes
+EMP-00682,45.0,20.0,17324.44,12194.9,Good,52.1,5.0,Medium,Bachelor,IT,Full-Time,Office,Multan,No
+EMP-00683,37.0,11.0,14507.44,11284.26,Average,43.5,5.0,Medium,Master,HR,Full-Time,Office,Karachi,No
+EMP-00684,38.0,17.0,16754.77,18858.65,Average,27.9,5.0,High,Master,IT,Full-Time,Hybrid,Islamabad,No
+EMP-00685,38.0,20.0,14635.88,18540.13,Average,10.5,0.0,Medium,Bachelor,Finance,Full-Time,Hybrid,Rawalpindi,No
+EMP-00686,38.0,19.0,18393.45,36337.65,Average,32.2,2.0,Medium,,HR,Contract,Office,Karachi,No
+EMP-00687,44.0,18.0,20657.49,1000.0,Good,49.8,3.0,Very High,PhD,IT,Full-Time,Office,Multan,Yes
+EMP-00688,39.0,18.0,16183.73,13359.74,Excellent,11.2,4.0,Low,Bachelor,Finance,Full-Time,Remote,Islamabad,No
+EMP-00689,35.0,15.0,15529.73,16375.53,Good,20.4,6.0,Medium,Bachelor,IT,Full-Time,Hybrid,Lahore,No
+EMP-00690,34.0,14.0,16058.24,15067.51,,25.9,4.0,Medium,Master,IT,Full-Time,Office,Multan,No
+EMP-00691,22.0,0.0,8536.68,12663.11,Good,8.1,5.0,Medium,Master,Marketing,Full-Time,Office,Lahore,No
+EMP-00692,37.0,12.0,16306.55,,Good,20.3,4.0,Medium,Master,Sales,Full-Time,Hybrid,Islamabad,No
+EMP-00693,45.0,24.0,18896.75,30894.66,Good,37.8,6.0,Low,Master,Finance,Full-Time,Office,Rawalpindi,No
+EMP-00694,21.0,0.0,9118.17,2694.27,Good,25.9,3.0,High,Bachelor,Finance,Full-Time,Office,Karachi,No
+EMP-00695,43.0,25.0,21278.5,31032.84,Good,49.2,5.0,Medium,Master,IT,Full-Time,Hybrid,Lahore,Yes
+EMP-00696,33.0,13.0,14354.46,4201.63,Average,21.1,6.0,Very High,High School,Marketing,Full-Time,Office,Multan,No
+EMP-00697,31.0,14.0,15734.41,18573.1,Good,17.5,6.0,High,Master,Sales,Full-Time,Office,Islamabad,No
+EMP-00698,39.0,19.0,18463.22,6554.26,Excellent,21.0,4.0,Medium,PhD,Sales,Full-Time,Office,Peshawar,No
+EMP-00699,58.0,35.0,22940.02,39922.99,Good,55.6,5.0,Medium,Bachelor,IT,Full-Time,Hybrid,Multan,Yes
+EMP-00700,48.0,24.0,18090.11,2933.74,Good,41.9,4.0,High,Bachelor,Sales,Full-Time,Hybrid,Multan,Yes
+EMP-00701,34.0,14.0,11816.44,8621.59,Average,10.1,6.0,Medium,Bachelor,Finance,Full-Time,Office,Islamabad,No
+EMP-00702,34.0,13.0,15940.8,32120.45,Good,51.3,4.0,High,Bachelor,Marketing,Full-Time,Office,Multan,Yes
+EMP-00703,21.0,0.0,8435.54,16616.16,Average,22.5,4.0,High,Bachelor,IT,Full-Time,Remote,Karachi,No
+EMP-00704,34.0,15.0,15458.32,28437.46,Good,34.2,9.0,High,Bachelor,HR,Full-Time,Remote,Lahore,Yes
+EMP-00705,46.0,23.0,15298.28,30717.14,Excellent,37.0,11.0,High,Bachelor,HR,Full-Time,Office,Peshawar,Yes
+EMP-00706,21.0,0.0,10913.07,17042.41,Good,38.9,1.0,Medium,PhD,Operations,Contract,Hybrid,Islamabad,No
+EMP-00707,40.0,18.0,17076.46,36952.48,Good,32.3,5.0,Medium,Bachelor,Marketing,Full-Time,Office,Multan,No
+EMP-00708,40.0,17.0,17146.63,15054.55,Average,22.5,5.0,High,Master,HR,Full-Time,Hybrid,Multan,No
+EMP-00709,43.0,17.0,16350.34,36700.2,Good,48.3,4.0,Medium,Bachelor,IT,Contract,Office,Lahore,Yes
+EMP-00710,21.0,4.0,11832.8,7421.96,Good,21.3,6.0,Very High,PhD,IT,Full-Time,Office,Rawalpindi,No
+EMP-00711,48.0,,19745.16,15874.89,Average,54.9,4.0,Very High,High School,IT,Full-Time,Hybrid,Karachi,Yes
+EMP-00712,,12.0,14677.94,26604.7,Good,32.8,9.0,Very High,Master,IT,Contract,Office,Karachi,No
+EMP-00713,35.0,18.0,16128.6,22340.23,Good,44.5,8.0,Very High,Bachelor,HR,Part-Time,Hybrid,Karachi,No
+EMP-00714,30.0,12.0,53720.49,31186.43,Good,75.3,4.0,Very High,High School,Marketing,Full-Time,Hybrid,Lahore,No
+EMP-00715,32.0,6.0,12294.15,24517.55,,8.8,4.0,High,Bachelor,Operations,Part-Time,Remote,Islamabad,No
+EMP-00716,44.0,16.0,13984.43,12478.22,Average,32.6,4.0,Medium,Bachelor,Operations,Contract,Hybrid,Peshawar,No
+EMP-00717,32.0,11.0,12277.36,28186.57,Average,40.4,9.0,Very High,Bachelor,IT,Full-Time,Office,Rawalpindi,No
+EMP-00718,21.0,4.0,7754.61,8366.02,Good,9.6,7.0,Medium,Bachelor,IT,Full-Time,Remote,Islamabad,No
+EMP-00719,30.0,9.0,15096.45,9399.04,Average,28.9,1.0,High,Master,Operations,Full-Time,Office,Rawalpindi,No
+EMP-00720,21.0,2.0,11588.59,18322.5,Average,22.8,0.0,High,Master,Operations,Full-Time,Hybrid,Rawalpindi,Yes
+EMP-00721,36.0,12.0,15074.29,3825.23,Average,55.1,3.0,High,Master,Operations,Full-Time,Office,Peshawar,No
+EMP-00722,39.0,14.0,11556.7,7564.13,Poor,7.1,5.0,Medium,High School,HR,Full-Time,Office,Multan,No
+EMP-00723,21.0,0.0,7056.36,19375.99,Good,25.8,2.0,High,Bachelor,Operations,Part-Time,Hybrid,Lahore,No
+EMP-00724,27.0,5.0,10219.72,5327.67,Excellent,19.5,3.0,High,Bachelor,Marketing,Contract,Hybrid,Karachi,Yes
+EMP-00725,35.0,8.0,9666.11,11048.35,Good,49.7,3.0,Very High,Bachelor,Marketing,Part-Time,Hybrid,Peshawar,No
+EMP-00726,38.0,13.0,14793.41,11480.55,Good,13.9,6.0,High,Bachelor,Sales,Full-Time,Hybrid,Karachi,No
+EMP-00727,38.0,15.0,20762.27,21179.42,Average,5.4,6.0,Low,PhD,Finance,Full-Time,Office,Lahore,No
+EMP-00728,21.0,0.0,7963.21,17653.94,Excellent,68.7,4.0,High,Master,IT,Full-Time,Hybrid,Lahore,Yes
+EMP-00729,21.0,0.0,9700.23,15137.97,Average,61.4,4.0,High,Master,Operations,Full-Time,Office,Rawalpindi,No
+EMP-00730,33.0,15.0,16868.53,28752.98,Good,7.1,1.0,Low,Master,Operations,Full-Time,Office,Multan,No
+EMP-00731,38.0,17.0,16674.65,26038.09,Good,69.1,8.0,Low,Bachelor,Operations,Full-Time,Remote,Lahore,Yes
+EMP-00732,21.0,0.0,9943.5,2513.55,Good,3.4,9.0,Low,High School,Finance,Contract,Hybrid,Rawalpindi,No
+EMP-00733,27.0,7.0,13080.56,8225.88,Excellent,53.7,6.0,Low,Master,Marketing,Full-Time,Office,Peshawar,No
+EMP-00734,25.0,1.0,10712.0,17339.34,Poor,27.2,0.0,Very High,Master,Operations,Contract,Hybrid,Lahore,No
+EMP-00735,34.0,10.0,12377.22,32655.43,Excellent,23.8,4.0,High,Bachelor,HR,Full-Time,Office,Rawalpindi,No
+EMP-00736,31.0,6.0,8204.12,12143.36,Average,21.6,3.0,Medium,Bachelor,IT,Full-Time,Office,Rawalpindi,No
+EMP-00737,38.0,15.0,14723.04,24859.5,Average,39.6,5.0,Medium,High School,Finance,Full-Time,Office,Multan,No
+EMP-00738,38.0,14.0,62025.11,92465.99,Excellent,40.4,2.0,,Bachelor,Finance,Full-Time,Hybrid,Rawalpindi,Yes
+EMP-00739,44.0,28.0,18681.72,18703.72,Good,24.1,6.0,High,Bachelor,Finance,,Hybrid,,No
+EMP-00740,37.0,12.0,13049.99,11876.81,Good,27.3,3.0,High,Bachelor,IT,Part-Time,Office,Karachi,No
+EMP-00741,34.0,12.0,11182.23,19628.92,Good,37.4,4.0,Very High,High School,Operations,Full-Time,Office,Islamabad,Yes
+EMP-00742,40.0,16.0,17722.28,33157.98,Good,33.1,5.0,High,Master,IT,Full-Time,Hybrid,Lahore,Yes
+EMP-00743,32.0,9.0,12991.49,20648.91,Excellent,18.6,6.0,High,Bachelor,Operations,Full-Time,Office,Lahore,Yes
+EMP-00744,34.0,10.0,15418.46,10128.05,Good,32.9,4.0,Very High,Bachelor,Finance,Contract,Office,Rawalpindi,Yes
+EMP-00745,39.0,15.0,16322.24,17743.81,Average,59.0,9.0,Medium,Master,HR,Contract,Office,Rawalpindi,Yes
+EMP-00746,24.0,1.0,11285.94,20637.43,Good,10.5,4.0,Medium,Master,Sales,Part-Time,Hybrid,Lahore,No
+EMP-00747,46.0,22.0,17986.82,15437.23,Excellent,7.4,1.0,High,Bachelor,Sales,Full-Time,Hybrid,Lahore,No
+EMP-00748,44.0,19.0,18682.34,23982.53,Average,22.3,4.0,High,Master,Operations,Full-Time,Hybrid,Lahore,No
+EMP-00749,23.0,0.0,10399.2,11386.71,Excellent,40.1,5.0,Low,Bachelor,Marketing,Full-Time,Office,Peshawar,No
+EMP-00750,39.0,13.0,17748.59,24413.77,Excellent,24.4,7.0,Low,Master,Sales,Full-Time,Hybrid,Lahore,Yes
+EMP-00751,31.0,9.0,12513.79,8168.66,Average,28.0,5.0,Medium,Bachelor,IT,Full-Time,Office,Karachi,No
+EMP-00752,30.0,9.0,13643.03,10080.85,Average,38.1,4.0,Medium,Bachelor,IT,Full-Time,Hybrid,Multan,No
+EMP-00753,31.0,10.0,13589.44,9547.11,Average,23.1,2.0,High,Master,Finance,Full-Time,Office,Lahore,No
+EMP-00754,21.0,0.0,11231.14,3597.67,Good,80.2,4.0,High,Master,HR,Full-Time,Hybrid,Rawalpindi,Yes
+EMP-00755,41.0,18.0,14502.58,19369.41,Average,43.4,2.0,Medium,High School,Operations,Full-Time,Hybrid,Islamabad,Yes
+EMP-00756,45.0,22.0,17230.28,35682.44,Good,31.4,10.0,Medium,Bachelor,IT,Full-Time,Remote,Karachi,Yes
+EMP-00757,33.0,18.0,17568.04,41419.75,Excellent,8.2,2.0,Medium,Bachelor,Sales,Part-Time,Office,Multan,No
+EMP-00758,27.0,5.0,9109.69,17672.54,Average,13.2,6.0,High,Bachelor,Marketing,Full-Time,Hybrid,Lahore,No
+EMP-00759,25.0,6.0,9132.55,3987.39,Good,54.7,7.0,High,,IT,Full-Time,Hybrid,Lahore,Yes
+EMP-00760,34.0,,13368.19,7945.91,Average,19.6,3.0,High,Bachelor,HR,Full-Time,Office,Karachi,No
+EMP-00761,37.0,17.0,13848.59,25586.88,Excellent,81.5,9.0,Medium,Bachelor,HR,Full-Time,Office,Karachi,Yes
+EMP-00762,24.0,0.0,8820.13,27401.23,Excellent,5.6,10.0,Low,Master,IT,Full-Time,Office,Islamabad,Yes
+EMP-00763,35.0,11.0,13802.57,13972.54,Good,12.1,4.0,Medium,Bachelor,Marketing,Full-Time,Office,Lahore,Yes
+EMP-00764,23.0,0.0,6882.27,19061.98,Good,44.2,3.0,Medium,Bachelor,Finance,Full-Time,Hybrid,Islamabad,No
+EMP-00765,31.0,5.0,14919.03,7911.38,Good,70.6,10.0,Medium,PhD,Operations,Full-Time,Remote,Karachi,Yes
+EMP-00766,24.0,1.0,8194.52,9274.17,Average,10.0,3.0,High,Bachelor,Marketing,Full-Time,Hybrid,Lahore,No
+EMP-00767,21.0,2.0,9624.4,13520.56,Good,47.6,3.0,,Master,Operations,Full-Time,Office,Rawalpindi,No
+EMP-00768,27.0,5.0,11088.41,10657.69,Poor,29.6,1.0,High,Bachelor,IT,Full-Time,Office,Multan,No
+EMP-00769,45.0,18.0,16270.28,22435.37,Average,30.6,8.0,Very High,Master,Operations,Full-Time,Hybrid,Lahore,No
+EMP-00770,38.0,20.0,16123.73,19103.81,Poor,59.3,6.0,Medium,High School,IT,Full-Time,Hybrid,Rawalpindi,No
+EMP-00771,45.0,25.0,19116.29,15641.67,Average,5.7,2.0,Very High,Bachelor,Sales,Full-Time,Office,Multan,No
+EMP-00772,38.0,15.0,13578.6,17722.47,Good,10.8,7.0,High,Bachelor,Sales,Full-Time,Hybrid,Karachi,No
+EMP-00773,39.0,20.0,15678.1,12667.01,Excellent,10.6,8.0,High,Bachelor,,Full-Time,Office,Peshawar,Yes
+EMP-00774,26.0,5.0,11498.54,12708.48,Good,11.8,5.0,Medium,Bachelor,IT,Full-Time,Office,Lahore,No
+EMP-00775,44.0,21.0,23726.95,46307.43,Average,48.4,5.0,High,PhD,Marketing,Part-Time,Office,Rawalpindi,No
+EMP-00776,26.0,5.0,7755.58,13076.72,Excellent,29.8,3.0,Medium,Bachelor,Operations,Full-Time,Remote,Karachi,No
+EMP-00777,44.0,17.0,14684.98,5643.22,Good,48.4,11.0,High,Bachelor,IT,Full-Time,Remote,Lahore,Yes
+EMP-00778,50.0,30.0,23643.68,26617.05,Poor,51.9,3.0,Medium,Master,Marketing,Part-Time,Hybrid,Multan,No
+EMP-00779,41.0,21.0,16207.31,25722.46,Good,67.8,4.0,Medium,Master,Marketing,Full-Time,Hybrid,Rawalpindi,Yes
+EMP-00780,26.0,4.0,12351.75,24656.63,Good,14.8,2.0,Medium,Bachelor,Marketing,Contract,Hybrid,Multan,No
+EMP-00781,42.0,26.0,14070.81,7054.71,Good,20.2,4.0,High,High School,HR,Full-Time,Hybrid,Lahore,No
+EMP-00782,29.0,1.0,7842.93,4099.52,Good,67.0,5.0,Medium,High School,Operations,Full-Time,Office,Karachi,No
+EMP-00783,46.0,27.0,22247.24,16415.45,Excellent,61.2,6.0,Medium,Bachelor,Operations,Full-Time,Office,Multan,Yes
+EMP-00784,39.0,19.0,17635.62,29046.58,Average,20.2,3.0,High,Master,Marketing,Full-Time,Hybrid,Lahore,No
+EMP-00785,34.0,12.0,15186.39,12600.37,Excellent,68.7,5.0,High,Bachelor,Operations,Contract,Office,Lahore,Yes
+EMP-00786,33.0,15.0,12457.62,12254.59,Average,32.0,7.0,Medium,Bachelor,Marketing,Full-Time,Remote,Lahore,No
+EMP-00787,31.0,7.0,12858.19,13763.57,Excellent,10.6,5.0,Medium,Bachelor,Sales,Full-Time,Hybrid,Islamabad,Yes
+EMP-00788,,10.0,14540.88,18079.73,,30.4,4.0,Low,Bachelor,Sales,Full-Time,Remote,,Yes
+EMP-00789,32.0,9.0,11520.53,11142.51,Good,31.7,2.0,High,High School,IT,Full-Time,Office,Peshawar,No
+EMP-00790,22.0,6.0,10179.44,16921.75,Average,41.1,4.0,Medium,Bachelor,Marketing,Contract,Hybrid,Peshawar,No
+EMP-00791,21.0,0.0,9705.37,10336.49,Excellent,,4.0,Medium,Bachelor,Sales,Full-Time,Hybrid,Lahore,No
+EMP-00792,46.0,24.0,21633.17,20770.59,Average,25.9,5.0,Medium,PhD,Sales,Full-Time,Office,Karachi,No
+EMP-00793,42.0,19.0,16908.43,30112.67,Good,12.0,2.0,Low,Bachelor,Finance,Full-Time,Office,Karachi,No
+EMP-00794,36.0,14.0,15273.66,36199.37,Good,36.5,1.0,High,Master,Sales,Full-Time,Hybrid,Multan,No
+EMP-00795,37.0,10.0,15408.21,39082.52,Average,,4.0,Medium,Bachelor,Operations,Full-Time,Hybrid,Multan,No
+EMP-00796,21.0,4.0,9979.51,10199.13,Good,29.5,3.0,High,Bachelor,Marketing,Full-Time,Hybrid,Karachi,No
+EMP-00797,25.0,0.0,10342.81,1652.62,Average,51.4,3.0,High,Master,Sales,Part-Time,Remote,Multan,No
+EMP-00798,38.0,15.0,15886.4,28062.1,Good,38.5,4.0,Medium,Master,Sales,Full-Time,Office,Peshawar,Yes
+EMP-00799,27.0,9.0,11238.09,6706.76,Good,13.2,3.0,Low,Bachelor,IT,Full-Time,Office,Rawalpindi,No
+EMP-00800,31.0,5.0,10116.89,5804.98,Excellent,37.8,6.0,Low,Bachelor,IT,Full-Time,Hybrid,Peshawar,No
+EMP-00801,46.0,27.0,18668.79,23872.91,Average,69.3,5.0,High,Bachelor,HR,Full-Time,Hybrid,Islamabad,No
+EMP-00802,37.0,14.0,15697.99,28635.49,Average,47.0,2.0,Medium,Master,Finance,Contract,Office,Rawalpindi,No
+EMP-00803,32.0,11.0,12019.93,15860.71,Poor,13.3,2.0,High,Bachelor,Finance,Full-Time,Office,Peshawar,No
+EMP-00804,35.0,10.0,13796.16,26948.37,Average,25.5,6.0,High,Bachelor,Marketing,Full-Time,Hybrid,Rawalpindi,Yes
+EMP-00805,29.0,12.0,11752.63,28473.08,Good,14.8,4.0,Low,Bachelor,Marketing,Full-Time,Hybrid,Multan,No
+EMP-00806,30.0,7.0,14010.49,9491.47,Poor,34.9,8.0,High,Master,HR,Contract,Office,Islamabad,No
+EMP-00807,29.0,4.0,9345.12,2745.86,Average,18.1,7.0,Very High,Bachelor,HR,Full-Time,Office,Lahore,No
+EMP-00808,26.0,6.0,7857.38,21274.93,Average,21.0,2.0,High,High School,Sales,Full-Time,Office,Peshawar,No
+EMP-00809,30.0,13.0,13882.47,16704.61,Good,18.9,2.0,High,PhD,Marketing,Full-Time,Office,Peshawar,No
+EMP-00810,42.0,20.0,16938.51,4189.76,Average,59.2,5.0,Very High,High School,HR,Full-Time,Office,Islamabad,No
+EMP-00811,32.0,12.0,7757.04,3610.05,Good,21.1,3.0,Medium,Bachelor,Sales,Full-Time,Remote,Karachi,No
+EMP-00812,41.0,15.0,18595.91,34502.35,Good,14.9,3.0,Medium,PhD,IT,Full-Time,,Islamabad,No
+EMP-00813,49.0,28.0,19947.19,28970.43,Average,19.1,7.0,High,Bachelor,Finance,Full-Time,Hybrid,Lahore,Yes
+EMP-00814,40.0,,20479.85,38393.05,Excellent,22.8,2.0,High,PhD,HR,Full-Time,Hybrid,Lahore,No
+EMP-00815,21.0,1.0,9239.91,25206.11,Good,21.8,5.0,Low,Bachelor,Operations,Full-Time,Hybrid,Peshawar,No
+EMP-00816,29.0,9.0,73578.13,65287.72,Excellent,24.5,4.0,Medium,Master,Sales,Full-Time,Office,Karachi,Yes
+EMP-00817,38.0,21.0,18030.78,44359.75,Poor,17.9,7.0,Medium,Bachelor,Finance,Full-Time,Office,Lahore,No
+EMP-00818,44.0,23.0,15284.98,26016.51,Good,64.3,0.0,Low,High School,HR,Full-Time,Hybrid,Rawalpindi,No
+EMP-00819,24.0,1.0,7337.97,9504.86,Good,17.5,6.0,High,Bachelor,Sales,Contract,Remote,Islamabad,No
+EMP-00820,55.0,30.0,19012.15,32728.1,Poor,18.6,8.0,Low,High School,Marketing,Full-Time,Office,Islamabad,No
+EMP-00821,27.0,7.0,9388.97,8624.17,Excellent,7.7,5.0,Medium,Bachelor,Operations,Full-Time,Hybrid,Peshawar,Yes
+EMP-00822,43.0,19.0,17727.08,25578.02,Poor,32.4,6.0,High,Bachelor,HR,Full-Time,Hybrid,Rawalpindi,No
+EMP-00823,34.0,7.0,9373.64,22806.91,Average,12.9,7.0,Medium,High School,Marketing,Full-Time,Office,Islamabad,Yes
+EMP-00824,35.0,15.0,12565.78,19305.21,Good,8.5,9.0,High,High School,IT,Full-Time,Hybrid,Karachi,Yes
+EMP-00825,31.0,10.0,11324.2,8605.07,Average,30.1,7.0,Medium,Bachelor,HR,Part-Time,Hybrid,Multan,No
+EMP-00826,27.0,5.0,11397.68,29640.92,Good,34.5,9.0,Medium,Bachelor,Marketing,Full-Time,Office,Peshawar,No
+EMP-00827,28.0,4.0,10999.08,7739.89,Good,47.4,5.0,Medium,Bachelor,Marketing,Full-Time,Remote,Peshawar,Yes
+EMP-00828,38.0,16.0,13103.06,28552.54,Good,47.8,,Medium,Bachelor,HR,Full-Time,Office,Multan,No
+EMP-00829,28.0,5.0,14343.9,21267.41,Average,50.1,3.0,Medium,Master,Sales,Full-Time,Office,Lahore,No
+EMP-00830,35.0,10.0,12108.57,1611.02,Good,42.2,4.0,High,Bachelor,IT,Part-Time,Office,Islamabad,Yes
+EMP-00831,28.0,8.0,16836.74,21469.58,Average,29.1,3.0,High,PhD,Operations,Full-Time,Hybrid,Karachi,No
+EMP-00832,44.0,21.0,19270.09,24603.95,Good,26.4,6.0,High,Master,IT,Full-Time,Office,Lahore,No
+EMP-00833,30.0,10.0,11461.44,22516.55,Poor,27.2,6.0,High,Bachelor,Marketing,Full-Time,Hybrid,Peshawar,No
+EMP-00834,51.0,29.0,20911.43,33593.5,Good,15.0,4.0,Medium,Master,Operations,Full-Time,Remote,Islamabad,No
+EMP-00835,37.0,17.0,11999.43,16227.79,Excellent,49.9,5.0,Very High,High School,Sales,Full-Time,Remote,Lahore,No
+EMP-00836,21.0,0.0,7642.43,15055.05,Average,8.3,3.0,High,Master,Sales,Contract,Office,Karachi,No
+EMP-00837,33.0,4.0,13574.9,30315.87,Average,22.2,5.0,High,Master,Operations,Full-Time,Hybrid,Rawalpindi,No
+EMP-00838,35.0,8.0,13792.27,23118.38,Poor,30.4,8.0,Medium,Bachelor,IT,Full-Time,Office,Karachi,No
+EMP-00839,38.0,12.0,16079.39,13748.8,Excellent,4.0,2.0,High,Master,Marketing,Full-Time,Office,Multan,Yes
+EMP-00840,33.0,7.0,12894.49,18736.83,Average,12.0,6.0,Medium,Bachelor,Operations,Full-Time,Office,Rawalpindi,No
+EMP-00841,45.0,18.0,17986.39,34559.17,Good,25.6,7.0,Very High,Master,Sales,Full-Time,Office,Rawalpindi,Yes
+EMP-00842,36.0,14.0,15120.03,22271.13,Excellent,5.7,5.0,Very High,Master,Sales,Full-Time,Hybrid,Karachi,No
+EMP-00843,41.0,20.0,22684.49,13249.24,Average,22.7,5.0,Medium,Master,Operations,Part-Time,Office,Peshawar,No
+EMP-00844,32.0,13.0,16531.86,27915.77,Poor,68.5,6.0,High,Bachelor,HR,Full-Time,Remote,Multan,Yes
+EMP-00845,30.0,8.0,12069.2,1000.0,Good,13.7,10.0,High,Bachelor,HR,Full-Time,Hybrid,Peshawar,No
+EMP-00846,31.0,11.0,12052.11,17699.54,Good,32.8,3.0,Medium,Bachelor,HR,Contract,Office,Rawalpindi,No
+EMP-00847,30.0,13.0,16126.58,23828.85,Average,27.4,8.0,High,Master,Operations,Full-Time,Office,Rawalpindi,No
+EMP-00848,31.0,3.0,11904.06,27766.3,Good,35.3,4.0,Medium,Bachelor,Operations,Contract,Office,Multan,No
+EMP-00849,36.0,13.0,66597.14,108228.83,Excellent,97.0,6.0,High,High School,HR,Full-Time,Hybrid,Multan,Yes
+EMP-00850,27.0,8.0,9852.38,6088.06,Poor,67.4,7.0,High,High School,Finance,Part-Time,Hybrid,Peshawar,No
+EMP-00851,41.0,21.0,18256.91,34599.4,Excellent,41.0,8.0,Low,High School,IT,Full-Time,Office,Rawalpindi,Yes
+EMP-00852,47.0,27.0,21629.31,34325.41,Good,11.6,3.0,Very High,Master,Operations,Contract,Hybrid,Multan,Yes
+EMP-00853,46.0,30.0,20772.95,25124.21,Good,35.0,7.0,Very High,Master,IT,Contract,Hybrid,Islamabad,No
+EMP-00854,33.0,14.0,13603.08,21541.64,Average,17.7,8.0,High,High School,Operations,Full-Time,Office,Rawalpindi,No
+EMP-00855,21.0,1.0,8715.57,14829.01,Poor,77.8,6.0,High,Bachelor,HR,Part-Time,Remote,Karachi,No
+EMP-00856,39.0,19.0,17416.65,15298.81,Average,24.9,6.0,Medium,Master,Marketing,Contract,Office,Multan,Yes
+EMP-00857,38.0,18.0,14294.75,18190.98,Good,19.0,6.0,Medium,Bachelor,IT,Part-Time,Office,Multan,No
+EMP-00858,41.0,17.0,15546.25,6320.9,Good,,3.0,Low,Bachelor,Sales,Part-Time,Office,Karachi,Yes
+EMP-00859,29.0,7.0,12972.28,24175.5,Average,35.8,5.0,High,Master,Sales,Full-Time,Office,Rawalpindi,No
+EMP-00860,32.0,,14660.46,15181.72,Good,13.6,4.0,Very High,Bachelor,Finance,Full-Time,Hybrid,Karachi,No
+EMP-00861,39.0,18.0,15458.15,13461.27,Average,41.9,7.0,Very High,Bachelor,Operations,Part-Time,Hybrid,Peshawar,No
+EMP-00862,23.0,1.0,8422.1,14706.73,Average,14.4,6.0,Low,Bachelor,Marketing,Full-Time,Office,Karachi,No
+EMP-00863,25.0,0.0,7521.61,12465.23,Average,21.3,6.0,High,Bachelor,Finance,Full-Time,Remote,Lahore,No
+EMP-00864,29.0,3.0,12708.52,7992.16,Good,19.1,5.0,Medium,Bachelor,Finance,Full-Time,Hybrid,Peshawar,No
+EMP-00865,31.0,6.0,12959.47,18061.41,Average,7.7,1.0,High,Bachelor,Operations,Contract,Hybrid,Peshawar,No
+EMP-00866,34.0,12.0,15554.98,15117.31,Average,31.4,6.0,Low,Bachelor,Marketing,Full-Time,Office,Karachi,No
+EMP-00867,39.0,17.0,15964.44,25038.84,Average,93.6,4.0,High,Bachelor,Operations,Contract,Office,Karachi,Yes
+EMP-00868,30.0,13.0,69994.92,51005.61,Average,39.0,3.0,Medium,PhD,Finance,Full-Time,Remote,Peshawar,No
+EMP-00869,28.0,4.0,10228.01,4773.08,Excellent,65.7,6.0,High,Bachelor,Finance,Full-Time,Hybrid,Islamabad,Yes
+EMP-00870,34.0,20.0,15958.93,30116.25,Good,19.6,4.0,High,Bachelor,HR,Part-Time,Hybrid,Islamabad,No
+EMP-00871,33.0,6.0,15189.46,16795.13,Good,23.9,3.0,High,High School,IT,Full-Time,Office,Karachi,No
+EMP-00872,30.0,8.0,13723.29,31361.08,Average,16.6,8.0,Medium,Master,Sales,Full-Time,Hybrid,Multan,No
+EMP-00873,38.0,19.0,17426.94,24898.18,Good,44.7,3.0,Very High,Master,IT,Full-Time,Office,Multan,Yes
+EMP-00874,25.0,0.0,7942.7,18557.99,Good,28.8,2.0,Medium,Bachelor,Finance,Contract,Hybrid,Islamabad,No
+EMP-00875,37.0,15.0,13287.27,24961.27,Good,8.3,3.0,Medium,Bachelor,Operations,Part-Time,Remote,Lahore,No
+EMP-00876,39.0,19.0,15496.07,21520.12,Good,8.7,3.0,Low,Bachelor,IT,Contract,Hybrid,Islamabad,Yes
+EMP-00877,34.0,12.0,13463.31,15487.63,Excellent,11.7,7.0,High,High School,IT,Full-Time,Remote,Karachi,No
+EMP-00878,39.0,20.0,19683.05,31430.96,Excellent,2.0,3.0,High,Master,Marketing,Contract,Office,Lahore,No
+EMP-00879,38.0,17.0,13638.46,12761.82,Good,48.9,6.0,High,,IT,Full-Time,Office,Rawalpindi,Yes
+EMP-00880,,27.0,19759.69,31758.56,Good,13.5,2.0,High,Bachelor,HR,Full-Time,Hybrid,Multan,Yes
+EMP-00881,39.0,14.0,17457.66,43489.27,Excellent,21.1,4.0,High,Bachelor,IT,Part-Time,Hybrid,Karachi,No
+EMP-00882,21.0,4.0,6905.85,14437.51,Good,44.4,6.0,Medium,Bachelor,Sales,Full-Time,Office,Rawalpindi,Yes
+EMP-00883,31.0,8.0,8968.94,24567.09,Good,43.2,8.0,Medium,High School,Sales,Full-Time,Hybrid,Lahore,Yes
+EMP-00884,28.0,4.0,9364.4,2944.83,Good,43.6,4.0,Low,Bachelor,Marketing,Full-Time,Office,Multan,No
+EMP-00885,40.0,14.0,13768.01,34660.82,Poor,49.7,4.0,,Bachelor,Finance,Full-Time,Hybrid,Multan,No
+EMP-00886,29.0,4.0,14867.91,7190.1,Average,75.2,6.0,High,PhD,Operations,Contract,Office,Rawalpindi,Yes
+EMP-00887,21.0,0.0,6460.14,11639.36,Average,9.5,5.0,Medium,Bachelor,Operations,Full-Time,Office,Multan,No
+EMP-00888,38.0,18.0,14919.26,26281.54,Good,76.9,9.0,Medium,Bachelor,Finance,Full-Time,Office,Karachi,Yes
+EMP-00889,23.0,9.0,11187.09,12724.76,Average,19.2,2.0,Medium,Master,Marketing,Full-Time,Hybrid,Peshawar,No
+EMP-00890,28.0,3.0,7379.33,15923.51,Good,52.8,7.0,Very High,High School,Marketing,Full-Time,Office,Multan,No
+EMP-00891,32.0,9.0,9215.63,13655.84,Excellent,2.0,2.0,High,High School,Marketing,Full-Time,Office,Rawalpindi,No
+EMP-00892,39.0,17.0,17758.4,34617.86,Excellent,85.2,3.0,High,Master,IT,Full-Time,,Peshawar,No
+EMP-00893,33.0,6.0,15906.72,161767.72,Average,40.1,4.0,Very High,Master,Marketing,Contract,Hybrid,Multan,No
+EMP-00894,29.0,7.0,10949.1,21078.25,Poor,24.1,4.0,High,Bachelor,Marketing,Full-Time,Remote,Islamabad,No
+EMP-00895,41.0,22.0,16392.58,22059.14,Good,43.1,3.0,High,,Operations,Full-Time,Hybrid,Peshawar,No
+EMP-00896,33.0,8.0,11698.0,1000.0,Average,26.9,5.0,High,Bachelor,Finance,Full-Time,Office,Karachi,No
+EMP-00897,34.0,15.0,16763.05,42167.06,Average,19.7,2.0,High,Bachelor,Marketing,Full-Time,Office,Rawalpindi,No
+EMP-00898,25.0,1.0,7396.47,15684.54,Average,28.1,3.0,Low,High School,Marketing,Contract,Office,Rawalpindi,No
+EMP-00899,21.0,2.0,7760.74,4308.07,Good,41.0,5.0,Very High,Bachelor,HR,Full-Time,Hybrid,Lahore,No
+EMP-00900,31.0,9.0,12793.96,10076.45,Poor,11.5,9.0,High,Bachelor,Sales,Full-Time,Office,Peshawar,No
+EMP-00901,47.0,26.0,15477.73,28412.2,Good,3.8,4.0,High,Bachelor,Sales,Full-Time,Hybrid,Peshawar,No
+EMP-00902,46.0,26.0,21453.8,10106.13,Good,46.9,3.0,High,Bachelor,Finance,Part-Time,Hybrid,Islamabad,Yes
+EMP-00903,30.0,11.0,14292.77,15419.06,Excellent,22.1,5.0,Medium,Master,IT,Full-Time,Office,Lahore,Yes
+EMP-00904,21.0,5.0,6270.57,1000.0,Average,36.9,5.0,Very High,High School,HR,Full-Time,Office,Rawalpindi,No
+EMP-00905,37.0,14.0,14941.75,25652.21,Good,18.9,5.0,Medium,Bachelor,Finance,Full-Time,Hybrid,Peshawar,Yes
+EMP-00906,33.0,13.0,14544.42,34791.64,Average,39.5,6.0,High,Master,Finance,Part-Time,Office,Peshawar,Yes
+EMP-00907,24.0,0.0,9295.89,6605.31,Average,10.6,4.0,High,Bachelor,IT,Full-Time,Office,Peshawar,No
+EMP-00908,33.0,5.0,13035.47,9877.83,Average,65.0,9.0,Medium,Master,Marketing,Full-Time,Hybrid,Peshawar,No
+EMP-00909,34.0,12.0,13684.61,22964.12,Poor,31.8,4.0,Medium,Bachelor,Finance,Full-Time,Hybrid,Islamabad,No
+EMP-00910,42.0,27.0,17381.65,27216.17,Excellent,80.2,9.0,Very High,Bachelor,Sales,Full-Time,Hybrid,Rawalpindi,Yes
+EMP-00911,38.0,16.0,18571.39,26928.02,Excellent,36.4,8.0,Medium,Master,Finance,Full-Time,Office,Lahore,Yes
+EMP-00912,45.0,19.0,17951.98,1000.0,Good,21.3,3.0,Medium,Master,IT,Full-Time,Hybrid,Peshawar,Yes
+EMP-00913,32.0,6.0,11729.12,12645.22,Excellent,88.2,4.0,High,Bachelor,Operations,Full-Time,Office,Peshawar,No
+EMP-00914,41.0,16.0,14771.03,27577.78,Good,24.0,2.0,High,Bachelor,Finance,Full-Time,Office,Islamabad,No
+EMP-00915,25.0,3.0,10047.48,4396.84,Average,18.2,7.0,High,High School,IT,Full-Time,Hybrid,Multan,No
+EMP-00916,29.0,9.0,13098.48,18447.82,Average,29.9,7.0,Medium,Bachelor,Finance,Full-Time,Office,Peshawar,No
+EMP-00917,41.0,19.0,17383.72,19386.84,Average,12.6,9.0,Very High,Bachelor,Finance,Full-Time,Hybrid,Lahore,No
+EMP-00918,45.0,22.0,20500.58,37283.06,Good,24.2,5.0,High,PhD,Finance,Contract,Hybrid,Multan,No
+EMP-00919,31.0,6.0,9922.21,13853.53,Poor,13.2,4.0,Medium,High School,Sales,Full-Time,Hybrid,Lahore,No
+EMP-00920,24.0,0.0,4946.18,12536.0,Excellent,57.6,8.0,Medium,High School,IT,Part-Time,Hybrid,Multan,Yes
+EMP-00921,45.0,24.0,22676.52,33391.86,Good,47.2,5.0,Low,PhD,Operations,Full-Time,Hybrid,Multan,Yes
+EMP-00922,30.0,9.0,11907.37,5930.57,Good,98.6,6.0,Medium,Bachelor,Operations,Full-Time,Remote,Islamabad,Yes
+EMP-00923,32.0,14.0,15321.3,33757.75,Good,31.1,5.0,High,Master,Marketing,Full-Time,Remote,Peshawar,No
+EMP-00924,35.0,10.0,15381.92,17217.61,Good,40.6,5.0,High,Master,Operations,Full-Time,Office,Rawalpindi,Yes
+EMP-00925,50.0,27.0,21750.08,30751.89,Average,12.3,4.0,Medium,Master,Finance,Full-Time,Office,Lahore,No
+EMP-00926,35.0,13.0,15764.91,33936.97,Average,29.9,3.0,Medium,PhD,Marketing,Part-Time,Remote,Lahore,No
+EMP-00927,42.0,16.0,15337.71,17850.93,Poor,60.4,6.0,Medium,Master,Sales,Full-Time,Office,Islamabad,No
+EMP-00928,37.0,12.0,15420.78,31945.48,Good,49.2,9.0,High,Master,Finance,Full-Time,Office,Rawalpindi,No
+EMP-00929,28.0,4.0,8760.95,15401.87,Good,33.7,4.0,High,High School,HR,Full-Time,Office,Rawalpindi,Yes
+EMP-00930,41.0,18.0,11461.99,12106.65,Average,8.0,6.0,Medium,High School,Marketing,Contract,Office,Multan,Yes
+EMP-00931,38.0,24.0,18729.8,25235.4,Average,5.3,3.0,High,PhD,HR,Contract,Office,Karachi,No
+EMP-00932,37.0,16.0,13840.62,5348.36,Average,50.1,7.0,Medium,High School,Operations,Contract,Hybrid,Karachi,Yes
+EMP-00933,33.0,14.0,14288.43,32183.8,Excellent,16.7,4.0,Low,Master,Operations,Contract,Hybrid,Peshawar,No
+EMP-00934,52.0,32.0,21663.43,17089.39,Excellent,2.3,7.0,Very High,Bachelor,IT,Full-Time,Remote,Islamabad,Yes
+EMP-00935,38.0,12.0,14436.21,26409.17,Good,47.7,8.0,Very High,Master,Operations,Contract,Office,Islamabad,No
+EMP-00936,41.0,21.0,16399.78,19536.64,Good,9.7,7.0,Very High,Bachelor,Sales,Part-Time,Office,Lahore,No
+EMP-00937,35.0,11.0,13149.67,14063.41,Average,24.9,8.0,High,Bachelor,Marketing,Contract,Office,Multan,No
+EMP-00938,35.0,9.0,10423.68,13631.05,Good,23.2,3.0,Very High,Master,Marketing,Full-Time,Office,Multan,Yes
+EMP-00939,27.0,1.0,9139.11,17299.28,Good,20.1,5.0,Medium,Bachelor,HR,Full-Time,Office,Karachi,No
+EMP-00940,40.0,20.0,17828.42,24898.56,Average,14.9,5.0,High,Master,IT,Contract,Office,Multan,No
+EMP-00941,42.0,22.0,16792.86,36047.55,Average,91.7,1.0,Very High,Bachelor,Finance,Part-Time,Remote,Multan,No
+EMP-00942,33.0,14.0,13691.73,38424.33,Average,57.6,2.0,Very High,High School,Sales,Full-Time,Remote,Peshawar,No
+EMP-00943,41.0,19.0,16441.98,23724.54,Good,37.1,7.0,Low,Bachelor,HR,Full-Time,Office,Peshawar,Yes
+EMP-00944,,0.0,9245.48,130682.02,Good,26.0,0.0,Medium,Bachelor,Marketing,Full-Time,Remote,Karachi,No
+EMP-00945,43.0,22.0,19272.26,28057.09,Good,29.9,3.0,High,Master,Sales,Full-Time,Office,Peshawar,Yes
+EMP-00946,32.0,11.0,15983.63,25580.46,Average,23.9,8.0,Medium,PhD,Sales,Full-Time,Office,Lahore,No
+EMP-00947,29.0,10.0,64753.52,84584.36,Good,74.7,10.0,High,High School,Sales,Full-Time,Office,Peshawar,Yes
+EMP-00948,29.0,4.0,11875.97,19380.7,Average,51.6,11.0,Very High,Master,Marketing,Full-Time,Office,Rawalpindi,No
+EMP-00949,25.0,6.0,9548.68,12184.21,Average,17.1,10.0,High,Bachelor,IT,Part-Time,Office,Rawalpindi,Yes
+EMP-00950,31.0,9.0,13633.21,20509.56,Good,66.8,4.0,Medium,Master,Marketing,Full-Time,Hybrid,Multan,No
+EMP-00951,37.0,15.0,15112.12,12179.99,Good,35.0,5.0,Low,Bachelor,IT,Full-Time,Hybrid,Rawalpindi,No
+EMP-00952,28.0,5.0,9602.98,12694.91,Average,42.9,4.0,Medium,Bachelor,Sales,Full-Time,Hybrid,,No
+EMP-00953,35.0,10.0,,63326.04,Average,111.6,7.0,Low,Master,Operations,Full-Time,Office,Rawalpindi,No
+EMP-00954,34.0,11.0,15178.22,28991.15,Good,39.3,6.0,Very High,Master,Finance,Contract,Hybrid,Rawalpindi,Yes
+EMP-00955,24.0,0.0,9490.15,21974.73,Excellent,14.7,5.0,Medium,Master,Sales,Full-Time,Remote,Rawalpindi,No
+EMP-00956,33.0,12.0,17712.02,,Poor,34.5,7.0,High,Master,Marketing,Full-Time,Hybrid,Karachi,No
+EMP-00957,38.0,16.0,12390.46,25598.01,Average,61.9,1.0,Medium,Bachelor,HR,Full-Time,Office,Rawalpindi,No
+EMP-00958,39.0,15.0,15518.91,1000.0,Good,46.3,6.0,High,High School,IT,Full-Time,Hybrid,Multan,No
+EMP-00959,21.0,2.0,10231.29,13253.3,Good,6.7,8.0,Medium,Master,Operations,Full-Time,Remote,Multan,No
+EMP-00960,38.0,23.0,16974.21,34030.53,Average,22.3,4.0,High,Bachelor,Operations,Full-Time,Hybrid,Peshawar,No
+EMP-00961,29.0,14.0,14785.15,,Good,36.6,4.0,High,Bachelor,IT,Contract,Office,Lahore,No
+EMP-00962,29.0,7.0,14310.37,15099.63,Average,26.6,1.0,High,Master,Sales,Full-Time,Hybrid,Islamabad,No
+EMP-00963,27.0,6.0,11505.4,14376.81,Good,27.5,5.0,Very High,Bachelor,Finance,Full-Time,Remote,Rawalpindi,Yes
+EMP-00964,41.0,17.0,14127.27,2300.92,Good,72.6,3.0,Low,High School,Sales,Full-Time,Hybrid,Islamabad,Yes
+EMP-00965,25.0,1.0,7030.75,12003.01,Average,73.8,3.0,Medium,High School,Sales,Full-Time,Office,Karachi,No
+EMP-00966,25.0,10.0,12378.49,25809.36,Good,4.3,1.0,High,High School,Finance,Full-Time,Remote,Rawalpindi,No
+EMP-00967,47.0,26.0,66228.77,79913.84,Poor,60.0,3.0,Medium,Bachelor,HR,Full-Time,Office,Rawalpindi,Yes
+EMP-00968,27.0,7.0,13680.44,31920.01,Good,34.6,4.0,High,Master,Sales,Full-Time,Office,Multan,No
+EMP-00969,34.0,10.0,13092.58,8638.82,Average,22.9,6.0,Medium,Bachelor,HR,Full-Time,Hybrid,Peshawar,No
+EMP-00970,38.0,17.0,12839.4,1000.0,Average,7.8,2.0,High,High School,IT,Full-Time,Office,Lahore,No
+EMP-00971,32.0,11.0,12364.75,22837.46,Good,2.4,11.0,Medium,Bachelor,Sales,Contract,Office,Islamabad,Yes
+EMP-00972,40.0,17.0,15811.44,10831.55,Excellent,53.6,5.0,Medium,Master,Marketing,Full-Time,Hybrid,Rawalpindi,Yes
+EMP-00973,33.0,10.0,11912.95,29509.47,Average,39.4,9.0,High,Master,Operations,Contract,Office,Lahore,No
+EMP-00974,40.0,11.0,13979.31,24993.56,Excellent,18.3,4.0,High,Bachelor,HR,Contract,Hybrid,Karachi,No
+EMP-00975,36.0,12.0,15911.62,18843.56,Good,22.4,6.0,Medium,Master,Finance,Full-Time,Office,Karachi,No
+EMP-00976,38.0,15.0,16725.18,40711.88,Excellent,58.0,5.0,Low,Master,Operations,Full-Time,Hybrid,Multan,Yes
+EMP-00977,32.0,10.0,12712.32,27535.62,Average,17.4,6.0,High,Master,HR,Part-Time,Hybrid,Karachi,No
+EMP-00978,30.0,11.0,61785.84,59528.99,Good,8.1,2.0,Medium,Bachelor,HR,Part-Time,Remote,Islamabad,No
+EMP-00979,36.0,18.0,17708.98,27137.92,Good,13.1,10.0,Medium,Master,Operations,Full-Time,Office,Rawalpindi,Yes
+EMP-00980,34.0,15.0,15127.76,25757.23,Good,27.5,2.0,High,Bachelor,IT,Full-Time,Hybrid,Rawalpindi,No
+EMP-00981,38.0,17.0,17551.62,1000.0,Good,21.1,3.0,High,PhD,Finance,Contract,Office,Rawalpindi,Yes
+EMP-00982,39.0,19.0,20526.53,16694.96,Poor,24.5,3.0,Medium,Bachelor,HR,Full-Time,Office,Lahore,No
+EMP-00983,31.0,12.0,11916.13,30501.96,Average,63.3,6.0,Medium,Bachelor,Operations,Full-Time,Office,Islamabad,Yes
+EMP-00984,30.0,8.0,13933.72,17736.21,Average,16.3,8.0,Medium,Bachelor,Operations,Full-Time,Remote,Rawalpindi,No
+EMP-00985,34.0,23.0,17844.1,15778.7,Good,37.5,5.0,High,Master,Sales,Part-Time,,Rawalpindi,No
+EMP-00986,38.0,19.0,14706.2,7373.14,Good,15.9,4.0,High,Bachelor,IT,Part-Time,Office,Multan,Yes
+EMP-00987,33.0,11.0,17671.05,16211.67,Good,9.9,7.0,Medium,PhD,HR,Contract,Office,Multan,Yes
+EMP-00988,37.0,20.0,21193.02,38531.35,Excellent,51.7,4.0,High,PhD,Marketing,Full-Time,Hybrid,Multan,Yes
+EMP-00989,41.0,17.0,15538.15,29161.79,Average,56.9,4.0,Medium,Bachelor,Marketing,Full-Time,Office,Karachi,No
+EMP-00990,44.0,23.0,19676.75,12258.0,Average,8.5,4.0,Medium,High School,HR,Full-Time,Remote,Multan,No
+EMP-00991,40.0,22.0,18276.64,10016.34,Average,100.9,7.0,High,Bachelor,HR,Full-Time,Hybrid,Multan,No
+EMP-00992,46.0,22.0,15161.49,32771.05,Good,21.9,5.0,Medium,High School,Sales,Full-Time,Hybrid,Lahore,No
+EMP-00993,43.0,20.0,17777.73,25664.76,Average,23.1,7.0,High,PhD,Marketing,Contract,Office,Rawalpindi,No
+EMP-00994,21.0,2.0,8045.49,7377.74,Average,5.9,4.0,Medium,Bachelor,IT,Full-Time,Office,Peshawar,No
+EMP-00995,30.0,4.0,14184.65,4090.83,Average,20.2,4.0,Medium,PhD,HR,Contract,Office,Multan,No
+EMP-00996,36.0,14.0,18540.62,40343.76,Good,41.0,4.0,Medium,PhD,Operations,Full-Time,Remote,Karachi,Yes
+EMP-00997,46.0,28.0,21061.1,34047.81,Good,47.6,5.0,Very High,Master,Sales,Full-Time,Remote,Multan,No
+EMP-00998,31.0,6.0,11449.0,13068.29,Good,33.9,6.0,Very High,Bachelor,Finance,Full-Time,Office,Peshawar,No
+EMP-00999,22.0,0.0,6948.68,2556.99,Good,10.8,6.0,Medium,High School,Finance,Full-Time,Hybrid,Peshawar,No
+EMP-01000,32.0,8.0,12580.33,31393.43,Good,22.4,5.0,Very High,Master,Finance,Part-Time,Hybrid,Peshawar,No
+EMP-01001,36.0,13.0,16618.31,20894.61,Poor,69.4,1.0,Medium,Bachelor,Marketing,Full-Time,Remote,Peshawar,No
+EMP-01002,31.0,6.0,11505.17,28147.3,Average,45.9,4.0,Low,Bachelor,Marketing,Part-Time,Office,Islamabad,No
+EMP-01003,39.0,16.0,15206.29,32186.74,Good,35.9,5.0,Low,Bachelor,HR,Full-Time,Office,Peshawar,No
+EMP-01004,32.0,13.0,11906.33,6071.92,Good,39.7,5.0,High,Bachelor,Marketing,Full-Time,Office,Peshawar,No
+EMP-01005,35.0,11.0,11993.99,12635.13,Excellent,18.3,6.0,Medium,Bachelor,Sales,Full-Time,Office,Rawalpindi,No
+EMP-01006,26.0,4.0,,13721.83,Good,18.7,8.0,Medium,Bachelor,Marketing,Full-Time,Remote,Islamabad,No
+EMP-01007,31.0,13.0,15784.78,6907.39,Good,39.0,2.0,Medium,Bachelor,Finance,Full-Time,Office,Karachi,Yes
+EMP-01008,45.0,19.0,20396.37,26244.72,Average,90.9,7.0,Medium,PhD,Sales,Part-Time,Office,Lahore,Yes
+EMP-01009,36.0,11.0,13025.36,7840.69,Average,43.1,5.0,High,Master,Operations,Full-Time,Office,Lahore,Yes
+EMP-01010,25.0,2.0,7405.71,12906.51,Good,45.4,8.0,Medium,Bachelor,IT,Full-Time,Office,Islamabad,Yes
+EMP-01011,21.0,0.0,14162.95,19323.4,Excellent,42.4,7.0,High,Bachelor,Marketing,Full-Time,Remote,Rawalpindi,Yes
+EMP-01012,41.0,23.0,18077.46,42849.93,Good,24.8,6.0,Medium,Bachelor,Finance,Contract,Hybrid,Peshawar,No
+EMP-01013,28.0,8.0,13823.28,26461.62,Good,3.0,8.0,Medium,Bachelor,IT,Full-Time,Remote,Rawalpindi,No
+EMP-01014,35.0,9.0,11128.49,8228.34,Good,44.7,6.0,High,Bachelor,Operations,Full-Time,Office,Peshawar,No
+EMP-01015,27.0,4.0,11094.52,10784.31,Average,46.8,5.0,Medium,Bachelor,IT,Contract,Hybrid,Islamabad,No
+EMP-01016,40.0,14.0,13900.03,9086.89,Average,20.1,4.0,Medium,Bachelor,Finance,Full-Time,Office,Karachi,No
+EMP-01017,36.0,10.0,13002.82,31346.43,Average,5.3,5.0,Medium,High School,IT,Full-Time,Office,Multan,Yes
+EMP-01018,26.0,4.0,12168.03,24760.26,Excellent,10.7,5.0,Very High,Master,IT,Full-Time,Remote,Lahore,No
+EMP-01019,32.0,8.0,11177.89,18154.11,Good,20.7,4.0,Medium,Master,Finance,Full-Time,Office,Multan,No
+EMP-01020,27.0,8.0,11560.83,15674.06,Good,15.6,7.0,Very High,Master,Operations,Part-Time,Hybrid,Peshawar,No
+EMP-01021,32.0,8.0,12880.92,7076.25,Good,30.3,6.0,Medium,Bachelor,Sales,Part-Time,Hybrid,Multan,No
+EMP-01022,32.0,13.0,12802.95,7718.73,Poor,80.4,4.0,High,High School,Marketing,Full-Time,Hybrid,Rawalpindi,No
+EMP-01023,35.0,12.0,14682.96,1633.04,Average,46.3,1.0,Low,Master,Operations,Part-Time,Office,Multan,No
+EMP-01024,33.0,13.0,15572.32,,Good,77.2,6.0,High,Master,HR,Full-Time,Office,Peshawar,Yes
+EMP-01025,51.0,35.0,23473.81,49833.48,Good,27.6,11.0,High,Master,Operations,Full-Time,Office,Lahore,Yes
+EMP-01026,28.0,5.0,11426.86,20539.15,Good,78.0,7.0,High,Bachelor,Marketing,Full-Time,Remote,Peshawar,Yes
+EMP-01027,29.0,8.0,12633.35,25840.12,Average,29.3,6.0,Low,PhD,Operations,Full-Time,Hybrid,Islamabad,No
+EMP-01028,21.0,0.0,5865.15,5787.3,Good,26.8,3.0,Medium,High School,Sales,Full-Time,Office,Lahore,No
+EMP-01029,31.0,7.0,8391.2,9416.75,Good,56.7,1.0,High,High School,Sales,Full-Time,Office,Peshawar,No
+EMP-01030,39.0,17.0,17068.49,10719.92,Excellent,14.3,,Medium,Master,Operations,Full-Time,Hybrid,Rawalpindi,No
+EMP-01031,29.0,7.0,10572.75,14494.69,Average,42.7,4.0,Medium,High School,Finance,Contract,Office,Rawalpindi,No
+EMP-01032,40.0,20.0,14934.38,15371.16,Average,7.7,7.0,Medium,High School,Marketing,Full-Time,Office,Multan,No
+EMP-01033,45.0,20.0,21267.88,36030.07,Excellent,55.2,2.0,High,Master,HR,Full-Time,Office,Multan,Yes
+EMP-01034,41.0,17.0,15817.75,15447.69,Average,36.6,7.0,Very High,Master,Operations,Contract,Office,Rawalpindi,No
+EMP-01035,40.0,20.0,16518.95,37795.1,Good,87.7,5.0,Medium,Bachelor,IT,Full-Time,Hybrid,Rawalpindi,Yes
+EMP-01036,40.0,19.0,19305.45,14570.79,Good,56.4,1.0,High,Master,Finance,Full-Time,Hybrid,Islamabad,Yes
+EMP-01037,48.0,30.0,19449.66,6920.53,Average,38.6,6.0,Medium,Master,HR,Full-Time,Hybrid,Peshawar,Yes
+EMP-01038,39.0,17.0,19342.61,24024.99,Excellent,33.9,4.0,Medium,Master,Operations,Part-Time,Office,Peshawar,Yes
+EMP-01039,44.0,25.0,16835.77,18413.65,Good,27.7,8.0,High,High School,Sales,Part-Time,Office,Islamabad,Yes
+EMP-01040,39.0,22.0,17812.39,33851.8,Average,33.7,6.0,Medium,Bachelor,Sales,Full-Time,Remote,Karachi,No
+EMP-01041,37.0,17.0,14625.89,28020.88,Good,29.8,3.0,High,Bachelor,HR,Contract,Office,Islamabad,No
+EMP-01042,27.0,9.0,17289.96,24117.15,Good,20.5,4.0,Very High,Master,Operations,Full-Time,Office,Multan,No
+EMP-01043,25.0,3.0,10526.31,22304.68,Good,58.1,6.0,Medium,Bachelor,HR,Full-Time,Office,Rawalpindi,No
+EMP-01044,29.0,7.0,11421.54,19326.85,Excellent,15.4,4.0,Low,Master,Marketing,Full-Time,Hybrid,Karachi,No
+EMP-01045,47.0,18.0,18059.65,25755.67,Good,67.1,4.0,Low,Bachelor,Operations,Full-Time,Office,Karachi,Yes
+EMP-01046,29.0,9.0,12208.72,20971.16,Average,96.6,5.0,Medium,Master,Marketing,Full-Time,Remote,Lahore,No
+EMP-01047,31.0,11.0,10674.73,12988.25,Good,6.9,5.0,High,Bachelor,Operations,Full-Time,Hybrid,Rawalpindi,No
+EMP-01048,36.0,17.0,14921.68,15793.78,Good,44.3,9.0,Low,Bachelor,Operations,Full-Time,Office,Islamabad,Yes
+EMP-01049,27.0,5.0,,23969.97,Good,23.4,2.0,Low,Bachelor,Sales,Full-Time,Office,Karachi,No
+EMP-01050,21.0,5.0,9168.38,13228.52,Good,13.9,10.0,Low,Bachelor,Marketing,Part-Time,Office,Rawalpindi,No
+EMP-01051,36.0,16.0,11090.87,20688.69,Good,14.4,5.0,High,High School,Finance,Full-Time,Office,Rawalpindi,No
+EMP-01052,45.0,23.0,20462.37,31695.65,Average,30.9,6.0,High,Master,Marketing,Full-Time,Remote,Peshawar,No
+EMP-01053,31.0,7.0,12951.1,19649.16,Average,41.3,5.0,High,Bachelor,Sales,Full-Time,Office,Peshawar,Yes
+EMP-01054,23.0,4.0,11122.68,16361.68,Good,45.3,7.0,High,Bachelor,HR,Full-Time,Hybrid,Islamabad,No
+EMP-01055,35.0,14.0,18653.99,38387.16,Excellent,11.4,6.0,Medium,PhD,IT,Full-Time,Hybrid,Peshawar,No
+EMP-01056,21.0,6.0,8670.91,10047.21,Average,28.2,1.0,High,High School,IT,Full-Time,Office,Lahore,No
+EMP-01057,37.0,17.0,14553.91,22257.17,Good,21.5,4.0,Low,Bachelor,HR,Full-Time,Office,Lahore,Yes
+EMP-01058,27.0,4.0,12970.45,18914.07,Average,9.2,5.0,Medium,Master,Finance,Contract,Office,Multan,No
+EMP-01059,33.0,13.0,14256.52,25525.28,Average,25.9,3.0,High,Bachelor,Operations,Contract,Remote,Multan,Yes
+EMP-01060,46.0,20.0,21735.18,51882.55,Excellent,35.3,4.0,Low,Bachelor,Finance,Full-Time,Office,Peshawar,Yes
+EMP-01061,34.0,11.0,13474.71,26606.06,Good,51.6,3.0,Medium,High School,HR,Full-Time,Hybrid,Peshawar,No
+EMP-01062,34.0,14.0,11464.04,17635.68,Good,28.4,3.0,Low,Bachelor,IT,Contract,Remote,Karachi,No
+EMP-01063,38.0,17.0,13985.32,20844.81,Good,18.8,4.0,Medium,High School,HR,Full-Time,Remote,Islamabad,No
+EMP-01064,47.0,27.0,18876.8,26344.85,Good,22.4,5.0,High,Bachelor,Marketing,Full-Time,Office,Rawalpindi,No
+EMP-01065,28.0,8.0,,4219.37,Good,67.1,1.0,High,Bachelor,Sales,Full-Time,Remote,Rawalpindi,No
+EMP-01066,39.0,12.0,15001.05,24735.67,Average,34.1,4.0,Very High,Bachelor,Sales,Full-Time,Hybrid,Lahore,Yes
+EMP-01067,33.0,10.0,16155.07,15513.8,Average,17.8,6.0,Medium,Master,IT,Full-Time,Hybrid,Islamabad,Yes
+EMP-01068,24.0,0.0,8836.51,14647.87,Good,22.6,8.0,High,Bachelor,HR,Full-Time,Office,Multan,No
+EMP-01069,30.0,9.0,15595.68,24644.52,Good,65.4,6.0,Medium,Master,IT,Full-Time,Hybrid,Multan,No
+EMP-01070,24.0,0.0,8077.14,,Average,18.4,2.0,Medium,High School,Sales,Full-Time,Office,Peshawar,No
+EMP-01071,26.0,7.0,9251.2,7628.15,Excellent,3.6,10.0,Very High,Master,Finance,Full-Time,Remote,Karachi,No
+EMP-01072,30.0,11.0,12367.77,13875.44,Good,19.8,9.0,High,Bachelor,IT,Full-Time,Office,,Yes
+EMP-01073,44.0,22.0,18435.34,41116.99,Average,39.1,2.0,High,Master,Operations,Full-Time,Hybrid,Peshawar,No
+EMP-01074,29.0,10.0,13431.75,11734.97,Average,31.7,3.0,Medium,Bachelor,Finance,Full-Time,Remote,Lahore,No
+EMP-01075,40.0,19.0,17172.97,17989.18,Good,12.1,4.0,Medium,Bachelor,IT,Full-Time,Office,Karachi,No
+EMP-01076,41.0,25.0,21184.23,28396.99,Average,33.9,5.0,High,Master,Sales,Full-Time,Hybrid,Peshawar,No
+EMP-01077,36.0,10.0,12397.65,18585.22,Average,42.7,5.0,Low,Master,IT,Full-Time,Office,Lahore,No
+EMP-01078,33.0,11.0,14164.69,10645.9,Excellent,19.4,4.0,Low,Master,Operations,Contract,Remote,Multan,No
+EMP-01079,29.0,0.0,8213.64,14267.8,Average,14.1,5.0,Low,High School,Finance,Full-Time,Remote,Karachi,No
+EMP-01080,40.0,20.0,17063.65,26658.74,Good,27.3,6.0,Low,High School,Finance,Part-Time,Office,Peshawar,Yes
+EMP-01081,41.0,18.0,15626.97,17063.92,Good,59.4,3.0,High,Bachelor,,Full-Time,Hybrid,Lahore,No
+EMP-01082,33.0,13.0,14379.22,28804.28,Good,21.7,3.0,High,Bachelor,Finance,Contract,Office,Karachi,No
+EMP-01083,22.0,0.0,6284.2,2870.27,Excellent,33.5,,Medium,High School,Sales,Full-Time,Office,Lahore,Yes
+EMP-01084,36.0,16.0,13902.51,14057.67,Good,23.9,8.0,High,Master,Operations,Full-Time,Office,Peshawar,No
+EMP-01085,38.0,19.0,17157.26,43452.97,Excellent,6.1,9.0,Low,PhD,IT,Full-Time,Office,Lahore,Yes
+EMP-01086,32.0,7.0,11295.02,15159.4,Poor,57.1,4.0,Medium,Bachelor,Finance,Full-Time,Office,Rawalpindi,No
+EMP-01087,30.0,7.0,13319.91,18367.03,Excellent,34.3,6.0,Medium,Master,Finance,Full-Time,Office,Lahore,Yes
+EMP-01088,36.0,,15791.09,30024.99,Good,19.2,5.0,Very High,Bachelor,Sales,Full-Time,Hybrid,Karachi,Yes
+EMP-01089,31.0,4.0,11820.54,3461.63,Excellent,70.7,3.0,Medium,Bachelor,Marketing,Full-Time,Hybrid,Multan,No
+EMP-01090,27.0,0.0,5736.67,17915.53,Good,22.6,9.0,High,High School,Marketing,Full-Time,Office,Rawalpindi,No
+EMP-01091,34.0,9.0,11297.39,14750.17,Excellent,17.4,5.0,Medium,High School,IT,Full-Time,Hybrid,Peshawar,Yes
+EMP-01092,35.0,10.0,15756.32,13506.97,Average,17.7,4.0,Very High,PhD,Sales,Full-Time,Office,Multan,No
+EMP-01093,,12.0,15863.66,7082.21,Excellent,12.8,1.0,Very High,Master,Marketing,Part-Time,Office,Karachi,Yes
+EMP-01094,41.0,20.0,15651.19,33060.66,Good,72.8,2.0,High,Bachelor,Operations,Full-Time,Hybrid,Karachi,No
+EMP-01095,,4.0,12340.79,16179.34,Good,11.5,2.0,Medium,Bachelor,Marketing,Part-Time,Office,Peshawar,No
+EMP-01096,25.0,4.0,9882.47,6260.21,Average,73.7,3.0,High,Bachelor,Marketing,Full-Time,Hybrid,Islamabad,No
+EMP-01097,34.0,10.0,14470.54,10717.22,Good,25.6,6.0,Medium,Bachelor,IT,Full-Time,Office,Rawalpindi,No
+EMP-01098,54.0,29.0,24306.57,31114.99,Average,11.2,7.0,High,Master,Finance,Full-Time,Hybrid,Multan,No
+EMP-01099,26.0,6.0,10126.82,10148.79,Good,36.6,6.0,Medium,Bachelor,Operations,Full-Time,Office,Islamabad,No
+EMP-01100,42.0,14.0,17211.97,18638.4,Average,26.6,5.0,,PhD,Sales,Full-Time,Remote,Islamabad,Yes
+EMP-01101,40.0,16.0,13985.49,23553.66,Average,3.7,1.0,Very High,Bachelor,IT,Full-Time,Office,Peshawar,No
+EMP-01102,21.0,0.0,7967.94,9392.73,Excellent,27.7,6.0,High,Bachelor,Marketing,Part-Time,Hybrid,Islamabad,No
+EMP-01103,41.0,16.0,12808.31,26144.8,Good,23.1,7.0,Low,Bachelor,Finance,Full-Time,Remote,Islamabad,No
+EMP-01104,34.0,20.0,18089.22,22486.34,Good,2.3,7.0,High,Bachelor,Marketing,Part-Time,Hybrid,Karachi,Yes
+EMP-01105,42.0,20.0,13169.06,46924.18,Poor,80.7,6.0,Very High,High School,,Contract,Office,Rawalpindi,No
+EMP-01106,28.0,6.0,10945.79,18801.01,Average,25.0,4.0,Medium,Bachelor,Marketing,Full-Time,Office,Rawalpindi,No
+EMP-01107,43.0,19.0,22963.42,12227.57,Good,11.3,7.0,Medium,PhD,IT,Contract,Hybrid,Peshawar,No
+EMP-01108,36.0,15.0,17604.14,30018.72,Good,56.0,6.0,High,PhD,Operations,Full-Time,Office,Peshawar,No
+EMP-01109,41.0,20.0,,7062.6,Average,18.3,4.0,Medium,Bachelor,Sales,Full-Time,Office,Multan,No
+EMP-01110,50.0,25.0,19887.6,19578.16,Average,25.5,4.0,Medium,Master,Operations,Contract,Hybrid,Multan,No
+EMP-01111,38.0,19.0,17307.14,39484.61,Good,20.8,2.0,High,Bachelor,Finance,Full-Time,Office,Peshawar,No
+EMP-01112,37.0,12.0,12741.28,28478.18,Average,30.9,4.0,Medium,High School,Marketing,Full-Time,Office,Karachi,No
+EMP-01113,50.0,28.0,20342.74,12326.87,Good,31.4,9.0,Medium,Bachelor,Sales,Part-Time,Office,Peshawar,Yes
+EMP-01114,21.0,0.0,8458.11,20366.07,Good,34.4,3.0,High,Bachelor,Sales,Full-Time,Hybrid,Rawalpindi,No
+EMP-01115,43.0,19.0,16662.05,28377.59,Good,41.6,6.0,High,Bachelor,HR,Full-Time,Office,Multan,Yes
+EMP-01116,24.0,3.0,8353.92,14949.01,Average,13.8,2.0,High,High School,Finance,Full-Time,Remote,Lahore,No
+EMP-01117,44.0,23.0,17972.06,31095.24,Average,56.9,5.0,Very High,Bachelor,Operations,Contract,Remote,Rawalpindi,Yes
+EMP-01118,21.0,0.0,9729.29,13696.11,Average,13.2,8.0,Medium,Bachelor,HR,Contract,Remote,Peshawar,No
+EMP-01119,21.0,1.0,7932.38,8901.63,Average,58.1,6.0,Medium,Bachelor,Sales,Full-Time,Office,Islamabad,No
+EMP-01120,38.0,15.0,17005.08,36695.34,Poor,29.7,2.0,High,Master,Marketing,Full-Time,Office,Rawalpindi,No
+EMP-01121,23.0,1.0,,1000.0,Good,32.8,7.0,High,High School,Operations,Full-Time,Remote,Peshawar,Yes
+EMP-01122,32.0,10.0,14508.73,23173.92,Average,12.9,10.0,Medium,Master,Sales,Full-Time,Office,Islamabad,No
+EMP-01123,28.0,4.0,12464.94,10294.3,Good,9.9,7.0,High,Bachelor,Operations,Part-Time,Office,Islamabad,No
+EMP-01124,23.0,0.0,10687.32,23637.01,Good,15.0,3.0,Medium,Master,HR,Full-Time,Hybrid,Multan,No
+EMP-01125,32.0,9.0,12402.44,8658.48,Poor,42.2,7.0,Medium,Bachelor,Marketing,,Office,Lahore,No
+EMP-01126,32.0,10.0,15148.8,1000.0,Good,39.2,6.0,Medium,Master,HR,Full-Time,Remote,Multan,No
+EMP-01127,21.0,0.0,9677.32,9962.63,Good,65.5,5.0,Medium,Bachelor,HR,Part-Time,Office,Lahore,No
+EMP-01128,36.0,16.0,12895.37,1000.0,Average,34.7,8.0,Very High,Bachelor,Operations,Full-Time,Office,Islamabad,No
+EMP-01129,37.0,18.0,13479.05,10957.64,Excellent,40.6,3.0,High,High School,Operations,Full-Time,Office,Islamabad,Yes
+EMP-01130,39.0,13.0,14894.79,18179.53,Average,20.4,6.0,High,Master,IT,Full-Time,Hybrid,Lahore,No
+EMP-01131,34.0,7.0,10445.13,20678.26,Average,21.7,2.0,Low,Bachelor,Sales,Full-Time,Remote,Islamabad,No
+EMP-01132,43.0,17.0,17294.98,28424.64,Good,12.5,2.0,High,Master,Sales,Full-Time,Hybrid,Peshawar,Yes
+EMP-01133,42.0,17.0,17871.74,27923.01,Good,21.5,9.0,High,Master,Finance,Full-Time,Hybrid,Lahore,Yes
+EMP-01134,44.0,23.0,19319.91,35124.89,Average,,8.0,High,Master,HR,Contract,Remote,Karachi,No
+EMP-01135,42.0,18.0,19591.62,26737.14,Excellent,42.1,4.0,Low,Master,Sales,Part-Time,Office,Karachi,Yes
+EMP-01136,41.0,19.0,18084.92,29795.97,Good,54.5,9.0,High,PhD,Operations,Full-Time,Office,Peshawar,Yes
+EMP-01137,32.0,9.0,12221.61,13718.3,Average,18.9,9.0,Medium,Bachelor,Marketing,Full-Time,Office,Lahore,No
+EMP-01138,50.0,29.0,20265.11,28137.5,Good,24.0,3.0,Medium,Master,IT,Full-Time,Hybrid,Multan,Yes
+EMP-01139,35.0,10.0,15425.64,6437.98,Average,16.8,1.0,Medium,Bachelor,HR,Full-Time,Hybrid,Karachi,No
+EMP-01140,28.0,6.0,14742.53,17428.84,Average,13.7,8.0,High,Bachelor,Sales,Full-Time,Office,Lahore,No
+EMP-01141,21.0,0.0,6293.04,2268.63,Average,35.5,3.0,Medium,Bachelor,IT,Full-Time,Office,Karachi,No
+EMP-01142,31.0,7.0,14505.06,12739.55,Good,25.7,3.0,High,PhD,Operations,Full-Time,Remote,Rawalpindi,No
+EMP-01143,41.0,25.0,21492.3,22609.02,Good,10.9,10.0,High,Master,Finance,Full-Time,Hybrid,Rawalpindi,No
+EMP-01144,36.0,17.0,19937.58,25819.24,Average,16.1,3.0,Medium,Master,HR,Part-Time,Hybrid,Rawalpindi,No
+EMP-01145,22.0,2.0,13481.27,11828.21,Average,3.3,6.0,Medium,PhD,Sales,Full-Time,Office,Karachi,No
+EMP-01146,31.0,5.0,9583.33,25016.31,Good,42.2,3.0,Medium,High School,Operations,Contract,Office,Peshawar,No
+EMP-01147,43.0,24.0,15659.56,36619.92,Good,25.8,7.0,Medium,High School,Sales,Contract,Remote,Rawalpindi,Yes
+EMP-01148,42.0,25.0,22447.09,32429.22,Poor,13.4,9.0,High,Bachelor,Marketing,Full-Time,Hybrid,Rawalpindi,Yes
+EMP-01149,31.0,15.0,13211.26,12933.88,Average,79.4,6.0,Medium,Bachelor,Operations,Full-Time,Hybrid,Islamabad,Yes
+EMP-01150,31.0,6.0,11843.55,12257.38,Average,20.0,5.0,Low,High School,Finance,Part-Time,Remote,Lahore,No
+EMP-01151,46.0,23.0,20505.36,31709.29,Poor,27.4,5.0,Medium,Master,HR,Contract,Remote,Lahore,No
+EMP-01152,42.0,21.0,19727.18,15170.69,Poor,,2.0,Medium,Bachelor,Sales,Part-Time,Office,Multan,No
+EMP-01153,26.0,4.0,13015.14,14576.96,Good,34.9,2.0,High,Bachelor,Finance,Full-Time,Office,Islamabad,No
+EMP-01154,21.0,0.0,7917.51,10440.18,Good,13.8,3.0,Low,Bachelor,Sales,Full-Time,Hybrid,Multan,No
+EMP-01155,25.0,2.0,8742.18,5228.95,Average,46.4,3.0,High,Bachelor,Operations,Full-Time,Office,Peshawar,No
+EMP-01156,39.0,24.0,18711.15,33135.86,Good,13.1,5.0,Very High,Master,Operations,Contract,Hybrid,Peshawar,Yes
+EMP-01157,27.0,5.0,15748.37,11496.47,Average,6.7,2.0,High,Master,HR,Full-Time,Hybrid,Karachi,No
+EMP-01158,37.0,14.0,13762.45,7726.75,Average,41.3,2.0,Low,Bachelor,Marketing,Full-Time,Office,Peshawar,No
+EMP-01159,32.0,10.0,12799.01,12203.27,Good,50.8,7.0,High,Bachelor,Sales,Contract,Office,Islamabad,Yes
+EMP-01160,32.0,15.0,14500.79,35811.65,Excellent,74.3,3.0,High,Bachelor,Finance,Full-Time,Hybrid,Karachi,Yes
+EMP-01161,30.0,6.0,9205.31,6330.11,Excellent,32.9,5.0,High,Bachelor,IT,Part-Time,Remote,Karachi,No
+EMP-01162,33.0,9.0,16280.15,11645.58,Excellent,53.2,6.0,High,Master,Sales,Full-Time,Remote,Peshawar,No
+EMP-01163,34.0,15.0,11611.33,12190.75,Good,14.6,6.0,High,High School,Finance,Part-Time,,Rawalpindi,Yes
+EMP-01164,29.0,6.0,9169.71,2462.43,Average,21.4,7.0,High,Bachelor,Sales,Full-Time,Remote,Rawalpindi,No
+EMP-01165,24.0,3.0,11598.56,15218.28,Good,22.5,3.0,High,Master,Operations,Full-Time,Office,Karachi,No
+EMP-01166,21.0,3.0,8891.48,19255.36,Good,43.0,2.0,Medium,Bachelor,,Full-Time,Hybrid,Multan,No
+EMP-01167,39.0,16.0,12780.69,20190.67,Good,5.0,1.0,Medium,Bachelor,Marketing,Full-Time,Hybrid,Peshawar,Yes
+EMP-01168,23.0,6.0,10535.31,8845.89,Good,36.2,7.0,High,Bachelor,Finance,Full-Time,Hybrid,Lahore,No
+EMP-01169,23.0,1.0,10449.2,9790.58,Excellent,19.1,6.0,Low,Bachelor,Marketing,Contract,Hybrid,Karachi,Yes
+EMP-01170,43.0,21.0,18622.14,32878.01,Average,7.3,2.0,High,Bachelor,Sales,Contract,Office,Islamabad,No
+EMP-01171,39.0,20.0,15372.75,22767.63,Average,21.7,4.0,Very High,Bachelor,HR,Full-Time,Office,Multan,No
+EMP-01172,,0.0,8440.5,4819.01,Good,46.1,4.0,High,Master,IT,Full-Time,Office,Lahore,No
+EMP-01173,21.0,0.0,7383.78,11181.99,Excellent,35.4,5.0,Very High,High School,IT,Full-Time,Office,Karachi,Yes
+EMP-01174,23.0,1.0,6809.42,11051.67,Average,6.3,6.0,Very High,Bachelor,Finance,Full-Time,Hybrid,Islamabad,No
+EMP-01175,30.0,8.0,10978.05,1000.0,Excellent,36.5,7.0,Medium,Bachelor,Sales,Full-Time,Office,Islamabad,Yes
+EMP-01176,45.0,25.0,16572.25,20670.76,Excellent,100.2,8.0,Medium,Bachelor,IT,Full-Time,Hybrid,Multan,Yes
+EMP-01177,40.0,18.0,16662.41,14366.59,Good,60.0,5.0,Very High,Bachelor,Finance,Full-Time,Remote,Multan,No
+EMP-01178,38.0,15.0,16101.78,25208.38,Good,11.1,3.0,Very High,Bachelor,Marketing,Contract,Hybrid,Rawalpindi,Yes
+EMP-01179,38.0,19.0,19326.56,30052.7,Average,30.5,4.0,Medium,Master,Marketing,Full-Time,Hybrid,Lahore,No
+EMP-01180,37.0,13.0,13843.55,22740.9,Good,48.9,7.0,Medium,Master,Finance,Full-Time,Office,Lahore,Yes
+EMP-01181,43.0,20.0,16404.83,6024.53,Good,11.9,3.0,High,High School,Finance,Full-Time,Office,Karachi,Yes
+EMP-01182,28.0,5.0,10537.85,14447.68,Good,17.4,3.0,High,Master,HR,Full-Time,Remote,Karachi,No
+EMP-01183,44.0,27.0,18947.61,29457.84,Average,2.0,3.0,Very High,High School,Finance,Full-Time,Office,Islamabad,Yes
+EMP-01184,42.0,19.0,19141.77,27918.51,Average,8.2,3.0,Medium,Master,HR,Full-Time,Office,Peshawar,No
+EMP-01185,35.0,16.0,17002.47,26490.37,Average,11.0,1.0,Very High,Bachelor,IT,Full-Time,Remote,Rawalpindi,No
+EMP-01186,21.0,0.0,,8144.98,Average,19.8,6.0,Low,Bachelor,Marketing,Full-Time,Hybrid,Karachi,No
+EMP-01187,40.0,19.0,17034.7,17248.29,Average,17.4,4.0,Medium,Bachelor,Marketing,Part-Time,Office,Islamabad,No
+EMP-01188,47.0,23.0,19274.28,23042.13,Excellent,21.8,6.0,Very High,Master,Marketing,Full-Time,Remote,Rawalpindi,No
+EMP-01189,38.0,15.0,15207.18,17163.22,Good,42.4,5.0,Very High,Bachelor,Sales,Full-Time,Hybrid,Karachi,Yes
+EMP-01190,43.0,16.0,15889.1,19461.04,Good,68.6,5.0,High,Master,Marketing,Full-Time,Hybrid,Peshawar,Yes
+EMP-01191,58.0,35.0,24558.08,17556.99,Excellent,46.6,7.0,High,Bachelor,Finance,Full-Time,Hybrid,Rawalpindi,Yes
+EMP-01192,40.0,13.0,14652.99,12871.27,Good,43.9,8.0,Medium,Bachelor,Sales,Full-Time,Office,Islamabad,No
+EMP-01193,29.0,6.0,9421.2,7352.55,Good,18.0,6.0,Low,Bachelor,Sales,Part-Time,Hybrid,Lahore,No
+EMP-01194,42.0,21.0,16827.68,21083.35,Average,33.0,2.0,High,High School,Marketing,Full-Time,Office,Lahore,No
+EMP-01195,25.0,2.0,9729.61,25360.6,Good,19.7,5.0,Low,Bachelor,Operations,Full-Time,Hybrid,Peshawar,No
+EMP-01196,32.0,15.0,16559.77,8637.33,Average,35.5,3.0,Medium,Bachelor,Operations,Full-Time,Office,Rawalpindi,No
+EMP-01197,25.0,0.0,10041.21,19719.68,Good,4.9,4.0,High,Bachelor,Marketing,Full-Time,Office,Karachi,No
+EMP-01198,32.0,13.0,14707.63,3791.06,Average,32.6,2.0,High,Master,Operations,Full-Time,Hybrid,Karachi,No
+EMP-01199,31.0,11.0,14329.33,8975.28,Good,29.9,5.0,High,Master,Finance,Contract,Remote,Rawalpindi,Yes
+EMP-01200,40.0,22.0,15697.76,7362.3,Good,12.5,6.0,Very High,Bachelor,Marketing,Full-Time,Office,Peshawar,Yes
